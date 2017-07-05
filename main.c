@@ -52,10 +52,10 @@ void dropReturnTag(char *c){
 int main(int argc, char *argv[])
 {
 
-    if(argc < 3)
+    if(argc < 2)
     {
 
-        printf("usage: %s in_file number \n",argv[0]);
+        printf("usage: %s in_file \n",argv[0]);
         printf("输出结果到 full 目录下 \n");
         return 0;
     }
@@ -92,10 +92,13 @@ int main(int argc, char *argv[])
 
 
     printf("开始处理...\n");
-    for(ii = 0; ii < atoi(argv[2]); ii++)
+    ii = 0;
+    while( fgets(line_1, MAX_LEN,fp)  != NULL)
     {
-        fgets(line_1, MAX_LEN,fp);
-        fgets(line_2, MAX_LEN,fp);
+        if(fgets(line_2, MAX_LEN,fp) == NULL)
+        {
+            break;
+        }
         dropReturnTag(line_1);
         dropReturnTag(line_2);
 
@@ -111,6 +114,8 @@ int main(int argc, char *argv[])
         strcpy(sname, "full/");
         strcat(sname, lname);
         PrintLabel(cif, nSeg, sname);
+
+        ii++;
 
     }
     printf("结束处理...\n");
