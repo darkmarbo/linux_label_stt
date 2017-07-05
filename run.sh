@@ -5,12 +5,15 @@ if(($# < 1));then
     exit 0;
 fi
 
-rm -rf full && mkdir -p full
 in_file=$1
+
+rm -rf full && mkdir -p full
 
 dos2unix ${in_file}
 
-./Ttslabel ${in_file}  
+python getProcessedFormat.py  ${in_file}  ${in_file}.pro
+
+./Ttslabel ${in_file}.pro 
 
 ## 测试是否一致 
 md5sum full/* |awk '{print $1}' > ttt
