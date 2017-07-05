@@ -1,0 +1,1760 @@
+900001	瓜农#2要#1生存#3，市民#1有需求#4。
+	gua1 nong2 yao4 sheng1 cun2 shi4 min2 you3 xv1 qiu2
+900002	短信#1发出后#3，对方#2就没了#1动静#4。
+	duan3 xin4 fa1 chu1 hou4 dui4 fang1 jiu4 mei2 le5 dong4 jing5
+900004	潘一恒#2被#1发现时#3，已#1停止#1呼吸#4。
+	pan1 yi1 heng2 bei4 fa1 xian4 shi2 yi3 ting2 zhi3 hu1 xi1
+900005	三是#2长期#1作案#3，罪行#1累累#4。
+	san1 shi4 chang2 qi1 zuo4 an4 zui4 xing2 lei6 lei3
+900006	闹不好#3，家里的#1人#2就要#1丢工作#4。
+	nao4 bu4 hao3 jia1 li3 de5 ren2 jiu4 yao4 diu1 gong1 zuo4
+900007	意为#3“帮帮我#3，救命#4”。
+	yi4 wei2 bang1 bang5 wo3 jiu4 ming4
+900008	越是#1发展#3，不发展#3越别扭#4。
+	yve4 shi4 fa1 zhan3 bu4 fa1 zhan3 yve4 bie4 niu5
+900009	抢救#1一周后#1死亡#4。
+	qiang3 jiu4 yi4 zhou1 hou4 si3 wang2
+900010	但#2这一回#3太憋屈#4。
+	dan4 zhe4 yi4 hui2 tai4 bie1 qv5
+900011	她#1厌倦了#2成为#1被#1挑选的#1角色#4。
+	ta1 yan4 jvan4 le5 cheng2 wei2 bei4 tiao1 xvan3 de5 jve2 se4
+900012	给#1我个#1清白#3，明明确确的#1结果#4。
+	gei6 wo3 ge5 qing1 bai2 ming2 ming2 qve4 qve4 de5 jie2 guo3
+900013	她#1心里#2不舒服#3，就和#1父亲#1顶嘴#4。
+	ta1 xin1 li3 bu4 shu1 fu5 jiu4 he2 fu4 qin5 ding6 zui3
+900014	但#2双方#1却#1执拗的#3想#2一决胜负#4。
+	dan4 shuang1 fang1 qve4 zhi2 niu4 de5 xiang3 yi4 jve2 sheng4 fu4
+900015	灭人#1之国#3，必#2先去#1其史#4。
+	mie4 ren2 zhi1 guo2 bi4 xian1 qv4 qi2 shi3
+900016	绑匪#1身份#3仍在#1调查#4。
+	bang6 fei3 shen1 fen4 reng2 zai4 diao4 cha2
+900017	孕妇#2未买#1东西#3，也#1离开了#4。
+	yvn4 fu4 wei4 mai3 dong1 xi5 ye3 li2 kai1 le5
+900018	外面#2再热的#1天#3，这里#2都#1很凉快#4。
+	wai4 mian4 zai4 re4 de5 tian1 zhe4 li3 dou1 hen3 liang2 kuai5
+900019	案件#1在手#3，寝食难安#4。
+	an4 jian4 zai4 shou3 qin3 shi2 nan2 an1
+900020	顿了顿#3，他#1用上了#2平时的#1经验#4。
+	dun4 le5 dun4 ta1 yong4 shang4 le5 ping2 shi2 de5 jing1 yan4
+900021	如此#1结果#3，极其#1讽刺#4。
+	ru2 ci3 jie2 guo3 ji2 qi2 feng3 ci4
+900022	不但#1有趣儿#3，还能#1长知识#4。
+	bu2 dan4 you3 qvr4 hai2 neng2 zhang3 zhi1 shi5
+900023	孩子们#2哈哈#1笑了#1起来#4。
+	hai2 zi5 men5 ha1 ha1 xiao4 le5 qi3 lai2
+900024	趴在#1地上#3弹#2溜溜珠#4。
+	pa1 zai4 di4 shang5 tan2 liu1 liu1 zhu1
+900025	你看#3啤酒#1配#1炸鸡#3，韩国#1范儿#4。
+	ni3 kan4 pi2 jiu3 pei4 zha2 ji1 han2 guo2 fanr4
+900026	贫贱#1夫妻#1百事哀#3，这话#2真没错#4。
+	pin2 jian4 fu1 qi1 bai3 shi4 ai1 zhe4 hua4 zhen1 mei2 cuo4
+900027	伍某的#1网站#3很快#2被警方#1查封#4。
+	wu6 mou3 de5 wang3 zhan4 hen3 kuai4 bei4 jing3 fang1 cha2 feng1
+900028	逆境中#3，经济#1增长#2却#2大幅#1超标#4。
+	ni4 jing4 zhong1 jing1 ji4 zeng1 zhang3 qve4 da4 fu2 chao1 biao1
+900029	恐怕#2人人#1有份儿#4。
+	kong3 pa4 ren2 ren2 you3 fenr4
+900030	欺软怕硬#3，这是#1我们班的#1规矩#4。
+	qi1 ruan3 pa4 ying4 zhe4 shi4 wo3 men5 ban1 de5 gui1 jv5
+900031	别等到#2，耳眼花#3，衣再好#3，腰#1成虾#4。
+	bie2 deng3 dao4 er6 yan3 hua1 yi1 zai4 hao3 yao1 cheng2 xia1
+900032	农学#1专业#3没有#1一位#2状元#1报考#4。
+	nong2 xve2 zhuan1 ye4 mei2 you3 yi2 wei4 zhuang4 yvan5 bao4 kao3
+900033	开始#2有点#1头晕#3，嗓子痒#4。
+	kai1 shi3 you6 dian3 tou2 yvn1 sang3 zi5 yang3
+900034	儿童#1医院#3，豆豆#1和#1妈妈#2在一起#4。
+	er2 tong2 yi1 yvan4 dou4 dou5 he2 ma1 ma5 zai4 yi4 qi3
+900035	女孩儿#2大声#1哭着#4。
+	nv3 hair2 da4 sheng1 ku1 zhe5
+900036	其他人#2则在#1马耳他#2稍事#1等待#4。
+	qi2 ta1 ren2 ze2 zai4 ma6 er3 ta1 shao1 shi4 deng3 dai4
+900037	玉兔#1说#3，它#1知道#2你#1住哪儿#4。
+	yv4 tu4 shuo1 ta1 zhi1 dao4 ni3 zhu4 nar3
+900038	张海#2案件的#1发生#3，教训#1深刻#4。
+	zhang1 hai3 an4 jian4 de5 fa1 sheng1 jiao4 xvn4 shen1 ke4
+900039	又#1拿起#1扫帚#3，打扫#1卫生#4。
+	you4 na2 qi3 sao4 zhou5 da6 sao3 wei4 sheng1
+900040	怀揣#1“中国梦#3”，踏上#2“中国路#4”。
+	huai2 chuai1 zhong1 guo2 meng4 ta4 shang4 zhong1 guo2 lu4
+900041	扰乱#2社会#1治安#3，抓到#1正好#4。
+	rao3 luan4 she4 hui4 zhi4 an1 zhua1 dao4 zheng4 hao3
+900042	鲁奖#2当然#2也会有#1质疑#4。
+	lu6 jiang3 dang1 ran2 ye3 hui4 you3 zhi4 yi2
+900043	好小哟#3，就没了#1爹娘#4。
+	hao6 xiao3 yo5 jiu4 mei2 le5 die1 niang2
+900044	走进#1商场#3，我们#1看到#2人头攒动#4。
+	zou3 jin4 shang1 chang3 wo3 men5 kan4 dao4 ren2 tou2 cuan2 dong4
+900045	洒上盐#2就#1不滑了#4。
+	sa3 shang4 yan2 jiu4 bu4 hua2 le5
+900046	丈夫#1病倒#3，两人#2生活#1困窘#4。
+	zhang4 fu5 bing4 dao3 liang3 ren2 sheng1 huo2 kun4 jiong3
+900047	噩梦#2远没有#1结束#4。
+	e4 meng4 yvan3 mei2 you3 jie2 shu4
+900048	尚不#1清楚#3他#1是否有#1辩护#1律师#4。
+	shang4 bu4 qing1 chu3 ta1 shi4 fou6 you3 bian4 hu4 lv4 shi1
+900049	谁也#1没想到#3，危险#2正悄悄#1来临#4。
+	shui2 ye3 mei2 xiang3 dao4 wei1 xian3 zheng4 qiao1 qiao1 lai2 lin2
+900050	现在#2活儿#1少了#1多一半#4。
+	xian4 zai4 huor2 shao3 le5 duo1 yi2 ban4
+900051	他还#2酷爱#1赛马#3，养有#2多匹#1名马#4。
+	ta1 hai2 ku4 ai4 sai4 ma3 yang6 you3 duo1 pi3 ming2 ma3
+900052	两人#2这次#2又到#2天空岛#2咖啡厅#4。
+	liang3 ren2 zhe4 ci4 you4 dao4 tian1 kong1 dao3 ka1 fei1 ting1
+900053	但也#1只是#2说说#1而已#4。
+	dan4 ye6 zhi3 shi4 shuo1 shuo5 er2 yi3
+900054	惨案#1被指#2蓄意#1所为#4。
+	can3 an4 bei4 zhi3 xv4 yi4 suo3 wei2
+900055	罚了#1企业#3，然后#2通报#1全行业#4。
+	fa2 le5 qi3 ye4 ran2 hou4 tong1 bao4 qvan2 hang2 ye4
+900056	谋划了#1半天#3，他俩#2决定#1去偷#4。
+	mou2 hua4 le5 ban4 tian1 ta1 lia3 jve2 ding4 qv4 tou1
+900057	滴答#1滴答#3，时光#2一直在#1流失#4。
+	di1 da1 di1 da1 shi2 guang1 yi4 zhi2 zai4 liu2 shi1
+900058	闷萌#1赛高#3，自给自足#1赛高#4。
+	men4 meng2 sai4 gao1 zi4 ji3 zi4 zu2 sai4 gao1
+900059	砰的#1一声#3，男子#2挂断#1电话#4。
+	peng1 de5 yi4 sheng1 nan2 zi3 gua4 duan4 dian4 hua4
+900060	腿部#2、手部#3有#1明显#1伤痕#4。
+	tui3 bu4 shou3 bu4 you3 ming2 xian3 shang1 hen2
+900061	盘呈#2六瓣#2葵花式#3，浅腹#3，坦底#4。
+	pan2 cheng2 liu4 ban4 kui2 hua1 shi4 qian3 fu4 tan6 di3
+900062	敌人#1很多#3，我们#1快被#2包围了#4。
+	di2 ren2 hen3 duo1 wo3 men5 kuai4 bei4 bao1 wei2 le5
+900063	浪费#1油钱#3，还#1耽误#1时间#4。
+	lang4 fei4 you2 qian2 hai2 dan1 wu4 shi2 jian1
+900064	他不愿#1揣测#2此案#1发生的#1原因#4。
+	ta1 bu2 yvan4 chuai3 ce4 ci3 an4 fa1 sheng1 de5 yvan2 yin1
+900065	行凶后#3，他们#1顺着#1山谷#2跑走了#4。
+	xing2 xiong1 hou4 ta1 men5 shun4 zhe5 shan1 gu6 pao6 zou3 le5
+900066	我#2太冤枉#3，活着#1没意思#3，我走了#4。
+	wo3 tai4 yvan1 wang5 huo2 zhe5 mei2 yi4 si5 wo6 zou3 le5
+900067	一名#1男子#3鬼鬼祟祟地#2出现了#4。
+	yi4 ming2 nan2 zi3 gui6 gui3 sui4 sui4 de5 chu1 xian4 le5
+900068	宁波人#3，很#1厉害哟#4。
+	ning2 bo1 ren2 hen3 li4 hai5 yo5
+900069	奈何#2至#1案发#3，尚未#1出手#4。
+	nai4 he2 zhi4 an4 fa1 shang4 wei4 chu1 shou3
+900070	他#1留在#1老家#3，由#2姥姥#1、姥爷#1照料#4。
+	ta1 liu2 zai4 lao3 jia1 you2 lao3 lao5 lao3 ye5 zhao4 liao4
+900071	转眼间#3离婚#1已有#1两年#4。
+	zhuan6 yan3 jian1 li2 hun1 yi6 you6 liang3 nian2
+900072	偶有#1无故#2攻击性#1行为#4。
+	ou6 you3 wu2 gu4 gong1 ji1 xing4 xing2 wei2
+900073	屋顶#2都是#1靠石瓦#2来#2遮风挡雨#4。
+	wu1 ding3 dou1 shi4 kao4 shi2 wa3 lai2 zhe1 feng1 dang6 yv3
+900074	时光#1流转#1一甲子#4。
+	shi2 guang1 liu2 zhuan3 yi4 jia6 zi3
+900075	然后#2他们#1尝了#1一下#3，非常#1喜欢#4。
+	ran2 hou4 ta1 men5 chang2 le5 yi2 xia4 fei1 chang2 xi3 huan1
+900076	您#1这活儿#3，也不大#3，没有人#1愿意#4。
+	nin2 zhe4 huor2 ye3 bu2 da4 mei2 you3 ren2 yvan4 yi4
+900077	敲开#1门后#3，他#1掏出刀#2说#1抢钱#4。
+	qiao1 kai1 men2 hou4 ta1 tao1 chu1 dao1 shuo1 qiang3 qian2
+900078	忍着吧#3，挨到#1信阳#1再去吧#4。
+	ren3 zhe5 ba5 ai2 dao4 xin4 yang2 zai4 qv4 ba5
+900079	为什么#2要#1打补丁#4。
+	wei4 shen2 me5 yao4 da6 bu3 ding1
+900080	对我#1而言#3，做学问#1最好#4。
+	dui4 wo3 er2 yan2 zuo4 xve2 wen4 zui4 hao3
+900081	把妆#1卸了#3估计#1丑死了#4。
+	ba3 zhuang1 xie4 le5 gu1 ji4 chou6 si3 le5
+900082	蓝军#2其实#1就是#2假想敌#4。
+	lan2 jvn1 qi2 shi2 jiu4 shi4 jia6 xiang3 di2
+900083	勺子的#1清洗#3和#1筷子#1同时#1进行#4。
+	shao2 zi5 de5 qing1 xi3 he2 kuai4 zi5 tong2 shi2 jin4 xing2
+900084	一个#1月后#3，卜某#1落网#4。
+	yi2 ge5 yve4 hou4 bo6 mou3 luo4 wang3
+900085	今年#2他#1卷土重来#3，再次#1夺冠#4。
+	jin1 nian2 ta1 jvan6 tu3 chong2 lai2 zai4 ci4 duo2 guan4
+900086	刀#2插的#1太深了#3，只#2看到了#1刀柄#4。
+	dao1 cha1 de5 tai4 shen1 le5 zhi3 kan4 dao4 le5 dao1 bing3
+900087	天儿#1也蓝#3，心里#1倍儿爽#4。
+	tianr1 ye3 lan2 xin1 li3 beir4 shuang3
+900088	佩戴#1口罩#3还是#1需要#2因人而异#4。
+	pei4 dai4 kou3 zhao4 hai2 shi5 xv1 yao4 yin1 ren2 er2 yi4
+900089	拗不过#1母亲#3，计某#2坦白了#4。
+	niu4 bu2 guo4 mu3 qin1 ji4 mou6 tan3 bai2 le5
+900090	上班#2别#1误点儿#3，回家#1得#2早点儿#4。
+	shang4 ban1 bie2 wu4 dianr3 hui2 jia1 dei3 zao6 dianr3
+900091	但#2凯里的#1赌博#3并未#1得到#1遏制#4。
+	dan4 kai6 li3 de5 du3 bo2 bing4 wei4 de2 dao4 e4 zhi4
+900092	对方#2再次#1对他#3“骂骂咧咧#4”。
+	dui4 fang1 zai4 ci4 dui4 ta1 ma4 ma4 lie1 lie1
+900093	可能要#2等#1一会儿哟#4。
+	ke3 neng2 yao4 deng3 yi2 huir4 yo5
+900094	洒扫#1庭除#3，见#2垃圾#2遍地开花#4。
+	sa6 sao3 ting2 chu2 jian4 la1 ji1 bian4 di4 kai1 hua1
+900095	约架#2就#1约架#3，讲个#1毛线的#1道理#4。
+	yve1 jia4 jiu4 yve1 jia4 jiang3 ge5 mao2 xian4 de5 dao4 li3
+900096	他#2猛按#1喇叭#3，示意#2公交车#1停下#4。
+	ta1 meng3 an4 la3 ba5 shi4 yi4 gong1 jiao1 che1 ting2 xia4
+900097	但是#2其实#1我在#1把握#2一个#1分寸#4。
+	dan4 shi4 qi2 shi2 wo3 zai4 ba3 wo4 yi2 ge5 fen1 cun4
+900098	徐天#2是个#1利落人#4。
+	xv2 tian1 shi4 ge5 li4 luo4 ren2
+900099	百鸟#1在林#3，不如#2一鸟#1在手#4。
+	bai6 niao3 zai4 lin2 bu4 ru2 yi4 niao3 zai4 shou3
+900100	没想到#3，这样#1窟窿#2越弄越#1大#4。
+	mei2 xiang3 dao4 zhe4 yang4 ku1 long5 yve4 nong4 yve4 da4
+900101	又名#2护生草#3、菱角菜#4。
+	you4 ming2 hu4 sheng1 cao3 ling2 jiao3 cai4
+900102	谜底#1何在#3，就等#2“王老师#1”揭晓了#4。
+	mi2 di3 he2 zai4 jiu4 deng3 wang2 lao3 shi1 jie1 xiao3 le5
+900103	没有#1想到#3，遭遇#1此横祸#4。
+	mei2 you6 xiang3 dao4 zao1 yv4 ci3 heng4 huo4
+900104	他#1老两口#3也是#1后来#1才知道的#4。
+	ta1 lao3 liang6 kou3 ye3 shi4 hou4 lai2 cai2 zhi1 dao4 de5
+900105	祝你#2开心点儿#3，愿你#2幸福点儿#4。
+	zhu4 ni3 kai1 xin1 dianr3 yvan4 ni3 xing4 fu2 dianr3
+900106	过年前#3，她#1突然#1感冒#3，咳嗽#1不止#4。
+	guo4 nian2 qian2 ta1 tu1 ran2 gan3 mao4 ke2 sou4 bu4 zhi3
+900107	刘平力#2收取后#3用作#1日常#1花销#4。
+	liu2 ping2 li4 shou1 qv3 hou4 yong4 zuo4 ri4 chang2 hua1 xiao1
+900108	他要#2提前#1给#1队员们#3张罗#1食宿#4。
+	ta1 yao4 ti2 qian2 gei3 dui4 yvan2 men5 zhang1 luo5 shi2 su4
+900109	牌楼#2去年#1已经#1建好了#4。
+	pai2 lou2 qv4 nian2 yi3 jing1 jian4 hao3 le5
+900111	参战#1民警#3设置#2三道#2卡点#1堵截#4。
+	can1 zhan4 min2 jing3 she4 zhi4 san1 dao4 qia6 dian6 du3 jie2
+900112	作品中#3当然#1也不会#2回避#1丑恶#4。
+	zuo4 pin3 zhong1 dang1 ran2 ye3 bu2 hui4 hui2 bi4 chou3 e4
+900113	兔年#2谦虚点儿#3，日子#2和谐点儿#4。
+	tu4 nian2 qian1 xv1 dianr3 ri4 zi5 he2 xie2 dianr3
+900114	药物#1虽好#3，花销#1却大#4。
+	yao4 wu4 sui1 hao3 hua1 xiao1 qve4 da4
+900115	关键#1是要#2吸取#1教训#4。
+	guan1 jian4 shi4 yao4 xi1 qv3 jiao4 xvn5
+900117	志愿者#3亦#2受益匪浅#4。
+	zhi4 yvan4 zhe3 yi4 shou4 yi4 fei6 qian3
+900118	哪怕#2浑身#1补丁#3，也要#2助人为乐#4。
+	na3 pa4 hun2 shen1 bu3 ding5 ye3 yao4 zhu4 ren2 wei2 le4
+900119	哲瓦#3，藏语里的#1意思#2是#1联系#4。
+	zhe2 wa3 zang4 yv6 li3 de5 yi4 si5 shi4 lian2 xi4
+900120	女子有#2三四#1十岁#3，穿#2粉色袄#4。
+	nv6 zi6 you3 san1 si4 shi2 sui4 chuan1 fen3 se4 ao3
+900121	但#2耿某#2闻风#1外逃#4。
+	dan4 geng6 mou3 wen2 feng1 wai4 tao2
+900122	但#2无奈#1换来#3娃娃#2“走了”的#1噩耗#4。
+	dan4 wu2 nai4 huan4 lai2 wa2 wa5 zou3 le5 de5 e4 hao4
+900123	选址#2在这里#3，真可谓#2别具匠心#4。
+	xvan6 zhi3 zai4 zhe4 li3 zhen1 ke3 wei4 bie2 jv4 jiang4 xin1
+900124	充斥着#2无知的#2炫耀#2、攀比#4。
+	chong1 chi4 zhe5 wu2 zhi1 de5 xvan4 yao4 pan1 bi3
+900125	抵达#1仙台时#3，天#2已经#1黑下来#4。
+	di3 da2 xian1 tai2 shi2 tian1 yi3 jing1 hei1 xia4 lai2
+900126	传说#1很牛#3，有门路#3，有钱#4。
+	chuan2 shuo1 hen3 niu2 you3 men2 lu4 you3 qian2
+900127	压根儿#2就没有#2戴国豪#2这个人#4。
+	ya4 genr1 jiu4 mei2 you3 dai4 guo2 hao2 zhe4 ge5 ren2
+900128	受众#1在哪儿#3我们#2就应#1在哪儿#4。
+	shou4 zhong4 zai4 nar3 wo3 men5 jiu4 ying1 zai4 nar3
+900129	囊空#2恐羞涩#3，留得#2一钱看#4。
+	nang2 kong1 kong3 xiu1 se4 liu2 de2 yi4 qian2 kan4
+900130	偏远#1山区#3应该#1保留#2代课#1老师#4。
+	pian1 yvan3 shan1 qv1 ying1 gai1 bao3 liu2 dai4 ke4 lao3 shi1
+900131	几秒钟后#3，淤泥#2散开了#4。
+	ji6 miao3 zhong1 hou4 yv1 ni2 san4 kai1 le5
+900132	导游的#1薪水#3要靠#1提成#4。
+	dao3 you2 de5 xin1 shui3 yao4 kao4 ti2 cheng2
+900133	两鬓#1斑白的#1老师#4。
+	liang3 bin4 ban1 bai2 de5 lao3 shi1
+900134	我家#2就出钱#3，大伙儿#2帮着#1操心#4。
+	wo3 jia1 jiu4 chu1 qian2 da4 huor3 bang1 zhe5 cao1 xin1
+900135	冤家路窄#3，双方#2起了#1冲突#4。
+	yvan1 jia1 lu4 zhai3 shuang1 fang1 qi3 le5 chong1 tu5
+900136	你听#1他#2自个儿#1讲#4。
+	ni3 ting1 ta1 zi4 ger6 jiang3
+900137	经检查#3，老人有#1轻微的#2脑梗死#4。
+	jing1 jian3 cha2 lao3 ren2 you3 qing1 wei1 de5 nao3 geng6 si3
+900138	奶企#1提价#3已经#1成为#2普遍#1现象#4。
+	nai6 qi3 ti2 jia4 yi3 jing1 cheng2 wei2 pu3 bian4 xian4 xiang4
+900139	版权#1所有#3，未经#1许可#3，不得#1转载#4。
+	ban3 qvan2 suo6 you3 wei4 jing1 xv6 ke3 bu4 de2 zhuan6 zai3
+900140	那只会#2混淆视听#4。
+	na4 zhi3 hui4 hun4 xiao2 shi4 ting1
+900141	跟#2之前#1相比#3，自己#2成了#1“林妹妹#4”。
+	gen1 zhi1 qian2 xiang1 bi3 zi4 ji3 cheng2 le5 lin2 mei4 mei5
+900142	法庭上#3，王真#2大喊#1冤枉#4。
+	fa3 ting2 shang4 wang2 zhen1 da4 han3 yvan1 wang5
+900143	俊杰#2却#1一直以#2各种#1理由#1拖延#4。
+	jvn4 jie2 qve4 yi4 zhi2 yi3 ge4 zhong6 li3 you2 tuo1 yan2
+900144	送一块#1陨石#3，肯定#1成功#4。
+	song4 yi2 kuai4 yvn3 shi2 ken3 ding4 cheng2 gong1
+900145	熬夜时#3，烟#2成了#1他的#2必备品#4。
+	ao2 ye4 shi2 yan1 cheng2 le5 ta1 de5 bi4 bei4 pin3
+900146	尼日利亚的#2穆伊瓦#3就是#1如此#4。
+	ni2 ri4 li4 ya4 de5 mu4 yi1 wa3 jiu4 shi4 ru2 ci3
+900147	悬泉#1流瀑#3，明湖#1潜龙#4。
+	xvan2 qvan2 liu2 pu4 ming2 hu2 qian3 long2
+900148	双方#2互不相让#3，抡起#1椅子#1就打#4。
+	shuang1 fang1 hu4 bu5 xiang1 rang4 lun1 qi6 yi3 zi5 jiu4 da3
+900149	可我#1一问#3，这#1玩意儿#3并不#1靠谱#4。
+	ke6 wo3 yi2 wen4 zhe4 wan2 yir4 bing4 bu5 kao4 pu3
+900150	如果#2你有#1爱人#3，我做#1你的#1奴隶#4。
+	ru2 guo3 ni6 you3 ai4 ren2 wo3 zuo4 ni3 de5 nu2 li4
+900151	如果#1再养#3，肯定#2是个#2大累赘#4。
+	ru2 guo3 zai4 yang3 ken3 ding4 shi4 ge5 da4 lei2 zhui5
+900152	狗#1咬人#1之后#3，需#2分情况#1接种#4。
+	gou6 yao3 ren2 zhi1 hou4 xv1 fen1 qing2 kuang4 jie1 zhong4
+900153	烫伤后#3，她的#1腿上#2出现了#1血泡#4。
+	tang4 shang1 hou4 ta1 de5 tui3 shang4 chu1 xian4 le5 xve4 pao4
+900154	坑里#2一个#1塑料桶#3快装满#1油水#4。
+	keng1 li3 yi2 ge5 su4 liao4 tong3 kuai4 zhuang1 man3 you2 shui3
+900155	寝室里#3又#1搬来了#1一个#2浙江人#4。
+	qin3 shi4 li3 you4 ban1 lai2 le5 yi2 ge4 zhe4 jiang1 ren2
+900156	在#2巴盘屯#3也存在#1类似的#1情况#4。
+	zai4 ba1 pan2 tun2 ye3 cun2 zai4 lei4 si4 de5 qing2 kuang4
+900157	初到#1陕北#3，适应#3并非#1易事#4。
+	chu1 dao4 shan6 bei3 shi4 ying5 bing4 fei1 yi4 shi4
+900158	事故#1认定#3谢树真#2负#2次要#1责任#4。
+	shi4 gu4 ren4 ding4 xie4 shu4 zhen1 fu4 ci4 yao4 ze2 ren4
+900159	尺码#1合适#3，切忌#2穿大鞋#4。
+	chi6 ma3 he2 shi4 qie4 ji4 chuan1 da4 xie2
+900160	家里的#1事儿#3，别跟#1外人#2瞎叨叨#4。
+	jia1 li3 de5 shir4 bie2 gen1 wai4 ren2 xia1 dao1 dao5
+900161	虽未#2正式#1开嗓#3，依然#2热情#1饱满#4。
+	sui1 wei4 zheng4 shi4 kai1 sang3 yi1 ran2 re4 qing2 bao6 man3
+900162	朱红霞#2关掉#1阀门#3，卷起#1水管#4。
+	zhu1 hong2 xia2 guan1 diao4 fa2 men2 jvan6 qi3 shui6 guan3
+900163	左手#1写字#1真别扭#3，难看#4。
+	zuo6 shou6 xie3 zi4 zhen1 bie4 niu5 nan2 kan4
+900164	坤黄#1闲时#3也自然#2要#1帮上#1一把#4。
+	kun1 huang2 xian2 shi2 ye3 zi4 ran2 yao4 bang1 shang4 yi4 ba3
+900165	定价为#2大洋#1五角#4。
+	ding4 jia4 wei2 da4 yang2 wu6 jiao3
+900166	孩子上#1大学#3，学费#1还指望#1我呢#4。
+	hai2 zi5 shang4 da4 xve2 xve2 fei4 hai2 zhi3 wang4 wo3 ne5
+900167	既是#1散打#3，则#1形势#2相对#1混乱#4。
+	ji4 shi4 san6 da3 ze2 xing2 shi4 xiang1 dui4 hun4 luan4
+900168	钱某#2很担心#1妻子#3、孩子#2和#1母亲#4。
+	qian2 mou6 hen3 dan1 xin1 qi1 zi3 hai2 zi5 he2 mu3 qin5
+900169	简单#1洗了洗#3，睡#1一会儿#4。
+	jian3 dan1 xi3 le5 xi3 shui4 yi2 huir4
+900170	经确认#3，该#2可疑#1人员#2叫#2柳晓宝#4。
+	jing1 qve4 ren4 gai1 ke3 yi2 ren2 yvan2 jiao4 liu3 xiao6 bao3
+900171	听了#1这#1一席话#3，袁伟#2哑口无言#4。
+	ting1 le5 zhe4 yi4 xi2 hua4 yvan2 wei3 ya6 kou3 wu2 yan2
+900172	表里#1不一#3，做#1两面人#3，说#1两面话#4。
+	biao6 li3 bu4 yi1 zuo4 liang3 mian4 ren2 shuo1 liang3 mian4 hua4
+900173	迎着#1太阳#3，黄冗#2满脸#1自信#4。
+	ying2 zhe5 tai4 yang2 huang2 rong3 man6 lian3 zi4 xin4
+900174	不让步#3，但有#1分寸#3，把握#1全局#4。
+	bu2 rang4 bu4 dan4 you3 fen1 cun4 ba3 wo4 qvan2 jv2
+900175	逼急了#3，就起了#1歹念#4。
+	bi1 ji2 le5 jiu4 qi3 le5 dai3 nian4
+900176	因#2父母#1早亡#3而一直#2生活#1窘迫#4。
+	yin1 fu4 mu6 zao3 wang2 er2 yi4 zhi2 sheng1 huo2 jiong3 po4
+900177	现场#2红光#1满天#3、浓烟滚滚#4。
+	xian4 chang3 hong2 guang1 man3 tian1 nong2 yan1 gun6 gun3
+900178	网友#1评#3，简直#2就是#1芭比#1娃娃#4。
+	wang6 you3 ping2 jian3 zhi2 jiu4 shi4 ba1 bi3 wa2 wa5
+900179	我的#1小孩#2全在#1那儿#3，都#1出不来#4。
+	wo3 de5 xiao3 hai2 qvan2 zai4 nar4 dou1 chu1 bu4 lai2
+900180	哪里#1人多#3，他就#2载着#1展板#2去哪#4。
+	na6 li3 ren2 duo1 ta1 jiu4 zai4 zhe5 zhan6 ban3 qv4 na3
+900181	季建业#2认#1祝某#1为#1“干妹妹#4”。
+	ji4 jian4 ye4 ren4 zhu4 mou3 wei2 gan1 mei4 mei5
+900182	你#1不惹人#3，别人#2偏要#1惹你#4。
+	ni3 bu4 re3 ren2 bie2 ren2 pian1 yao4 re6 ni3
+900183	管理#2网格化#3、服务#2零距离#4。
+	guan6 li6 wang3 ge2 hua4 fu2 wu4 ling2 jv4 li2
+900184	嘴#2很能说#3，说得#2天花乱坠#4。
+	zui6 hen3 neng2 shuo1 shuo1 de5 tian1 hua1 luan4 zhui4
+900185	幼鸟#2惨死在#2巢穴里#4。
+	you4 niao3 can6 si3 zai4 chao2 xve2 li3
+900186	只要#1有他在#3，就#2不会#1冷场#4。
+	zhi3 yao4 you3 ta1 zai4 jiu4 bu2 hui4 leng6 chang3
+900187	说着#1说着#3，翁新楚#3又忘了#1时间#4。
+	shuo1 zhe5 shuo1 zhe5 weng1 xin1 chu3 you4 wang4 le5 shi2 jian1
+900188	做官#2就要#3不贪#1不腐#3难为#1自己#4。
+	zuo4 guan1 jiu4 yao4 bu4 tan1 bu4 fu3 nan2 wei2 zi4 ji3
+900189	亲们#2自个儿#2算算#4。
+	qin1 men5 zi4 ger3 suan4 suan4
+900190	上梁正#3，下梁#2才能#2不歪#4。
+	shang4 liang2 zheng4 xia4 liang2 cai2 neng2 bu4 wai1
+900191	挂断#1电话#3，阿瓦汗#2直奔#1医院#4。
+	gua4 duan4 dian4 hua4 a1 wa3 han4 zhi2 ben4 yi1 yvan4
+900192	加上#2车技#1不好#3，骑得#1歪歪#1扭扭#4。
+	jia1 shang4 che1 ji4 bu4 hao3 qi2 de5 wai1 wai1 niu6 niu3
+900193	许某#2则拒绝#3，双方#2常为此#1争吵#4。
+	xv6 mou3 ze2 jv4 jve2 shuang1 fang1 chang2 wei4 ci3 zheng1 chao3
+900194	我看这#2就是#2“酸葡萄#1”心理#4。
+	wo3 kan4 zhe4 jiu4 shi4 suan1 pu2 tao5 xin1 li3
+900195	但#2山顶#2已无#1萝卜#1地社的#1影子#4。
+	dan4 shan1 ding6 yi3 wu2 luo2 bo5 di4 she4 de5 ying3 zi5
+900196	堆积成山的#1垃圾堆#3随处#1可见#4。
+	dui1 ji1 cheng2 shan1 de5 la1 ji1 dui1 sui2 chu4 ke3 jian4
+900197	他#1另外#2两个#1朋友#3还#1在那儿#1喝#4。
+	ta1 ling4 wai4 liang3 ge5 peng2 you5 hai2 zai4 nar4 he1
+900198	圈里的#1人#3常在#1周末#2找地方#1练#4。
+	qvan1 li3 de5 ren2 chang2 zai4 zhou1 mo4 zhao3 di4 fang1 lian4
+900199	鼻子#1感染#1严重#3，全部#1坏死#4。
+	bi2 zi5 gan6 ran3 yan2 zhong4 qvan2 bu4 huai4 si3
+900200	有图#1有真相#3，恶心#1不死#1你#4。
+	you3 tu2 you3 zhen1 xiang4 e3 xin1 bu4 si6 ni3
+900202	短短#1两天后#3，杜善学#1落马#4。
+	duan6 duan6 liang3 tian1 hou4 du4 shan4 xve2 luo4 ma3
+900203	债券的#1利息#1问题#3也值得#1探讨#4。
+	zhai4 qvan4 de5 li4 xi5 wen4 ti2 ye3 zhi2 de2 tan4 tao3
+900204	庆安#1警方#3尚未#1通报#2具体#1案情#4。
+	qing4 an1 jing3 fang1 shang4 wei4 tong1 bao4 jv4 ti3 an4 qing2
+900205	牙齿#2也#1炸掉了#1两颗#4。
+	ya2 chi6 ye3 zha4 diao4 le5 liang3 ke1
+900206	骗子们#1得手后#3，便#2逃之夭夭#4。
+	pian4 zi5 men5 de2 shou3 hou4 bian4 tao2 zhi1 yao1 yao1
+900207	救命的#1办法#3，是做#2骨髓#1移植#4。
+	jiu4 ming4 de5 ban4 fa3 shi4 zuo4 gu6 sui3 yi2 zhi2
+900208	全国#1路网#2运行#1情况#2请戳#1下图#4。
+	qvan2 guo2 lu4 wang3 yvn4 xing2 qing2 kuang4 qing3 chuo1 xia4 tu2
+900209	我们#2用心#1良苦#3，但#2吃力#1不讨好#4。
+	wo3 men5 yong4 xin1 liang2 ku3 dan4 chi1 li4 bu4 tao6 hao3
+900210	凌晨#2三点钟#1左右#3，警察#1离开#4。
+	ling2 chen2 san1 dian3 zhong1 zuo3 you4 jing3 cha2 li2 kai1
+900211	开庭时#3，钱仁凤#2又一次#1称#1冤枉#4。
+	kai1 ting2 shi2 qian2 ren2 feng4 you4 yi2 ci4 cheng1 yvan1 wang5
+900212	这#2都要#1拜#2王莽#2所赐#4。
+	zhe4 dou1 yao4 bai4 wang2 mang6 suo3 ci4
+900213	牢记#2历史#1教训#3，防止#2悲剧#1重演#4。
+	lao2 ji4 li4 shi3 jiao4 xvn5 fang2 zhi3 bei1 jv4 chong2 yan3
+900214	这个#1金属#1疙瘩#3很重#4。
+	zhe4 ge5 jin1 shu3 ge1 da5 hen3 zhong4
+900215	满脸的#1憔悴#2和#1焦虑#4。
+	man6 lian3 de5 qiao2 cui4 he2 jiao1 lv4
+900216	秒杀#1之前#3，可#1准备好#2这些#1工具#4。
+	miao3 sha1 zhi1 qian2 ke6 zhun3 bei4 hao3 zhe4 xie1 gong1 jv4
+900217	那情景#3，老俩口#2至今#2记忆犹新#4。
+	na4 qing2 jing3 lao3 lia6 kou3 zhi4 jin1 ji4 yi4 you2 xin1
+900218	夺命#1恶警#2当#1杀头#4。
+	duo2 ming4 e4 jing3 dang1 sha1 tou2
+900219	儿童#1眼睛#3相对#1成人#2更加#1娇嫩#4。
+	er2 tong2 yan3 jing5 xiang1 dui4 cheng2 ren2 geng4 jia1 jiao1 nen4
+900220	脑电波#1写字#3，听起来#2很神奇#4。
+	nao3 dian4 bo1 xie3 zi4 ting1 qi3 lai2 hen3 shen2 qi2
+900221	顺着#1铁网#3，溜到#1虎舍里#4。
+	shun4 zhe5 tie6 wang3 liu1 dao4 hu3 she4 li3
+900222	批#1项目#3，包括#2新建#2和#1技改#1项目#4。
+	pi1 xiang4 mu5 bao1 kuo4 xin1 jian4 he2 ji4 gai3 xiang4 mu5
+900223	我#2虽然#2个子#1矮#3，但我#1打得#1很快#4。
+	wo3 sui1 ran2 ge4 zi5 ai3 dan4 wo6 da3 de5 hen3 kuai4
+900224	勘查完#2现场后#3，民警#2赶往#1医院#4。
+	kan1 cha2 wan2 xian4 chang3 hou4 min2 jing3 gan6 wang3 yi1 yvan4
+900225	驮山#1巍巍#3，松涛#1阵阵#4。
+	tuo2 shan1 wei1 wei1 song1 tao1 zhen4 zhen4
+900226	他#1想知道#3，妻子#2到底#1在哪儿#4。
+	ta1 xiang3 zhi1 dao4 qi1 zi3 dao4 di3 zai4 nar3
+900227	捐肾者#3正是#1王燕娜#4。
+	jvan1 shen4 zhe3 zheng4 shi4 wang2 yan4 na4
+900228	倔脾气的#1女人#2爱生气#4。
+	jve4 pi2 qi4 de5 nv3 ren2 ai4 sheng1 qi4
+900229	跟他#1说啥#3，都#1哼哈#1答应#4。
+	gen1 ta1 shuo1 sha2 dou1 heng1 ha1 da1 ying4
+900230	地效#1翼船#3最早#1用于#2军事#1用途#4。
+	di4 xiao4 yi4 chuan2 zui4 zao3 yong4 yv2 jvn1 shi4 yong4 tu2
+900231	否则#1你就#1别想#2安安稳稳#1挣钱#4。
+	fou3 ze2 ni3 jiu4 bie2 xiang3 an1 an1 wen6 wen3 zheng4 qian2
+900232	永清#2当地人#3对#1“动批#2”非常#1熟悉#4。
+	yong3 qing1 dang1 di4 ren2 dui4 dong4 pi1 fei1 chang2 shu2 xi5
+900233	挥霍#1民脂#3，折煞#1国脸#4。
+	hui1 huo4 min2 zhi1 zhe2 sha4 guo2 lian3
+900234	且#2转移#1支付#3偏离了#2合理#1逻辑#4。
+	qie6 zhuan3 yi2 zhi1 fu4 pian1 li2 le5 he2 li3 luo2 ji5
+900235	她觉得#1“跌份儿#3”，就#1没有#1举手#4。
+	ta1 jve2 de5 die1 fenr4 jiu4 mei2 you3 jv6 shou3
+900236	都是#1糊弄#1你们的#4。
+	dou1 shi4 hu4 nong4 ni3 men5 de5
+900237	凯美瑞#1车主#3是一名#2中年#1男子#4。
+	kai6 mei3 rui4 che1 zhu3 shi4 yi4 ming2 zhong1 nian2 nan2 zi3
+900238	蜗牛#1多了#3，青青的#1要求#2也多了#4。
+	wo1 niu2 duo1 le5 qing1 qing1 de5 yao1 qiu2 ye3 duo1 le5
+900239	用#2密密麻麻#1来形容#3，并不#1为过#4。
+	yong4 mi4 mi4 ma2 ma2 lai2 xing2 rong2 bing4 bu4 wei2 guo4
+900240	可#1没想到#3能把#1招牌#2打到#1全国#4。
+	ke3 mei2 xiang3 dao4 neng2 ba3 zhao1 pai2 da3 dao4 qvan2 guo2
+900241	日月#1穿梭#3，斗转星移#4。
+	ri4 yve4 chuan1 suo1 dou6 zhuan3 xing1 yi2
+900242	能#2帮助#1别人#3，俺#2心里#1带劲儿#4。
+	neng2 bang1 zhu4 bie2 ren2 an3 xin1 li3 dai4 jinr4
+900243	林鸿池#1表示#3，他已#1两度#1请辞#4。
+	lin2 hong2 chi2 biao3 shi4 ta1 yi6 liang3 du4 qing3 ci2
+900244	王强#2搀着#1妻子#3，赶往#1医院#4。
+	wang2 qiang2 chan1 zhe5 qi1 zi3 gan6 wang3 yi1 yvan4
+900245	摔倒了#3，我#1爬起来#4。
+	shuai1 dao3 le5 wo3 pa2 qi3 lai2
+900246	捞上来的#1鱼#3，最大的#1有#2四五斤#4。
+	lao1 shang4 lai2 de5 yv2 zui4 da4 de5 you3 si4 wu3 jin1
+900247	翠尾#1拂梢#3，共剪#1花影#4。
+	cui4 wei3 fu2 shao1 gong4 jian3 hua1 ying3
+900248	捧着#1存折#3，刘承烈#3泪如雨下#4。
+	peng3 zhe5 cun2 zhe2 liu2 cheng2 lie4 lei4 ru2 yv3 xia4
+900249	但#2乐建平#2还是#1紧紧地#1搂着娃#4。
+	dan4 le4 jian4 ping2 hai2 shi4 jin6 jin3 de5 lou3 zhe5 wa2
+900250	普普通通的#1一天#1而已#4。
+	pu6 pu3 tong1 tong1 de5 yi4 tian1 er2 yi3
+900251	三是#1赌博#3，或者#2炒股#2、买彩票#1等#4。
+	san1 shi4 du3 bo2 huo4 zhe3 chao6 gu3 mai6 cai3 piao4 deng3
+900252	希望#1大家#2帮帮忙#4。
+	xi1 wang4 da4 jia1 bang1 bang1 mang2
+900253	第二年#1冬天#3，公公#1离世#4。
+	di4 er4 nian2 dong1 tian1 gong1 gong5 li2 shi4
+900254	夯实#2反腐败#1斗争的#2思想#1基础#4。
+	hang1 shi2 fan6 fu3 bai4 dou4 zheng1 de5 si1 xiang3 ji1 chu3
+900255	赌不起#2就#1不要赌#4。
+	du3 bu4 qi3 jiu4 bu2 yao4 du3
+900256	汤华明#1认为#3，这只是#1她的#1借口#4。
+	tang1 hua2 ming2 ren4 wei2 zhe4 zhi3 shi4 ta1 de5 jie4 kou3
+900257	滥用#2绝不#1仅仅在#1“药方”上#4。
+	lan4 yong4 jve2 bu4 jin6 jin3 zai4 yao4 fang1 shang4
+900258	扯到#1飞行#3，不能#1不提#1空姐#4。
+	che3 dao4 fei1 xing2 bu4 neng2 bu4 ti2 kong1 jie3
+900259	苦楚#2就在#1他的#1身边#4。
+	ku6 chu3 jiu4 zai4 ta1 de5 shen1 bian1
+900260	头#2嗡嗡的#1疼#3，一摸#3，有血#4。
+	tou2 weng1 weng1 de5 teng2 yi4 mo1 you6 xie3
+900261	但#2后来#2女方#1不知#1何故#2甩了#1他#4。
+	dan4 hou4 lai2 nv3 fang1 bu4 zhi1 he2 gu4 shuai3 le5 ta1
+900262	呛得他#2直揉#1眼睛#4。
+	qiang4 de5 ta1 zhi2 rou2 yan3 jing5
+900263	小孩儿#2需要#1用钱啊#4。
+	xiao3 hair2 xv1 yao4 yong4 qian2 a5
+900264	殴打中#3，季惠兵#2屈打成招#4。
+	ou1 da3 zhong1 ji4 hui4 bing1 qv1 da3 cheng2 zhao1
+900265	屯昌县#2女画工#3在#1临摹#2商业画#4。
+	tun2 chang1 xian4 nv3 hua4 gong1 zai4 lin2 mo2 shang1 ye4 hua4
+900266	国家好#2、民族好#3、香港好#4。
+	guo2 jia1 hao3 min2 zu2 hao3 xiang1 gang6 hao3
+900267	呆在#1车里的#1朱女士#3也#1很恐惧#4。
+	dai1 zai4 che1 li3 de5 zhu1 nv3 shi4 ye6 hen6 kong3 jv4
+900268	大棋盘#2容不得#1“小算盘#4”。
+	da4 qi2 pan2 rong2 bu4 de2 xiao3 suan4 pan2
+900269	闽籍#1“煤老板#2”卓杏生#2就是#1一例#4。
+	min3 ji2 mei2 lao6 ban3 zhuo2 xing4 sheng1 jiu4 shi4 yi2 li4
+900270	督查#2是#1核心#3，自查#2是#1基础#4。
+	du1 cha2 shi4 he2 xin1 zi4 cha2 shi4 ji1 chu3
+900271	南站#2顶部#1滴水#3，只有#1用桶#1来接#4。
+	nan2 zhan4 ding3 bu4 di1 shui3 zhi6 you3 yong4 tong3 lai2 jie1
+900272	第一人#1是#1耿谆#4。
+	di4 yi1 ren2 shi4 geng3 zhun1
+900273	偶然有#2字音#1、字调#1失误#4。
+	ou3 ran2 you3 zi4 yin1 zi4 diao4 shi1 wu4
+900274	这两者#2完全是#1颠倒的#4。
+	zhe4 liang6 zhe3 wan2 qvan2 shi4 dian1 dao3 de5
+900275	大伙儿#2有点#1慌了#4。
+	da4 huor3 you6 dian3 huang1 le5
+900276	吞钉#3、抢包#3、十几岁的#1少年#4。
+	tun1 ding1 qiang3 bao1 shi2 ji3 sui4 de5 shao4 nian2
+900277	体检#1报告#3将在#1两个#1月内#1完成#4。
+	ti6 jian3 bao4 gao4 jiang1 zai4 liang3 ge5 yve4 nei4 wan2 cheng2
+900278	他说#3，三百#1六十行#3，行行#2出状元#4。
+	ta1 shuo1 san1 bai3 liu4 shi2 xing2 hang2 hang2 chu1 zhuang4 yvan5
+900279	拼音班的#2收费#1不低#4。
+	pin1 yin1 ban1 de5 shou1 fei4 bu4 di1
+900280	子女们#2也开始#2重新#1认识#1父亲#4。
+	zi6 nv3 men5 ye3 kai1 shi3 chong2 xin1 ren4 shi5 fu4 qin5
+900281	她#1擅长#1一字马#3、芭蕾舞#4。
+	ta1 shan4 chang2 yi2 zi4 ma3 ba1 lei6 wu3
+900282	笼子门#1大开#3，放在#1地上#4。
+	long2 zi5 men2 da4 kai1 fang4 zai4 di4 shang5
+900283	秋凉#2多注意#3，保暖#2保健康#4。
+	qiu1 liang2 duo1 zhu4 yi4 bao6 nuan6 bao3 jian4 kang1
+900284	毁山#1容易#3绿山难#4。
+	hui3 shan1 rong2 yi4 lv4 shan1 nan2
+900285	座舱盖#3也#1启用了#1新的#1加固框#4。
+	zuo4 cang1 gai4 ye6 qi3 yong4 le5 xin1 de5 jia1 gu4 kuang1
+900286	跌的#1话#3不如#1回炉了#4。
+	die1 de5 hua4 bu4 ru2 hui2 lu2 le5
+900287	哲人#1说#3，尺有所短#3，寸有所长#4。
+	zhe2 ren2 shuo1 chi6 you3 suo6 duan3 cun4 you6 suo3 chang2
+900288	有#1网友#2如此#1嘲讽#4。
+	you3 wang6 you3 ru2 ci3 chao2 feng3
+900289	宽敞#1明亮#2对不对#4。
+	kuan1 chang3 ming2 liang4 dui4 bu5 dui4
+900290	噩耗#1传来#3，师生们#2难掩#1悲痛#4。
+	e4 hao4 chuan2 lai2 shi1 sheng1 men5 nan2 yan3 bei1 tong4
+900291	造假者#1可恨#3，监管#1失灵#1可叹#4。
+	zao4 jia6 zhe6 ke3 hen4 jian1 guan3 shi1 ling2 ke3 tan4
+900292	如果#1自己#1掏耳朵#3，最好#2用棉棒#4。
+	ru2 guo3 zi4 ji3 tao1 er3 duo5 zui4 hao3 yong4 mian2 bang4
+900293	另外#1一名#1队员#3肘部#2被刀#1刮伤#4。
+	ling4 wai4 yi4 ming2 dui4 yvan2 zhou3 bu4 bei4 dao1 gua1 shang1
+900294	他#1扭脸#1摆手#3拒绝了#2采访#1要求#4。
+	ta1 niu6 lian3 bai6 shou3 jv4 jve2 le5 cai6 fang3 yao1 qiu2
+900295	耿玉田#1说#3，两者#2并不#1矛盾#4。
+	geng3 yv4 tian2 shuo1 liang6 zhe3 bing4 bu4 mao2 dun4
+900296	这期间#3，翁帆#2曾#1结婚#2再离婚#4。
+	zhe4 qi1 jian1 weng1 fan1 ceng2 jie2 hun1 zai4 li2 hun1
+900297	用手摸#3，感觉#1粉粉的#3，闻之#1无味#4。
+	yong4 shou3 mo1 gan3 jve2 fen6 fen3 de5 wen2 zhi1 wu2 wei4
+900298	他#1眼#2都#1没眨#1一下#4。
+	ta1 yan3 dou1 mei2 zha3 yi2 xia4
+900299	从#1哪儿看#3赵明#2都是个#1矛盾体#4。
+	cong2 nar3 kan4 zhao4 ming2 dou1 shi4 ge5 mao2 dun4 ti3
+900300	古语#1云#3，法不责众#4。
+	gu6 yv3 yvn2 fa3 bu4 ze2 zhong4
+900301	他的#1不安#3扰醒了#1妻子#2李贵平#4。
+	ta1 de5 bu4 an1 rao6 xing3 le5 qi1 zi6 li3 gui4 ping2
+900302	我就#2往这#1拐的#1时候#3，轰隆#1一声#4。
+	wo3 jiu4 wang3 zhe4 guai3 de5 shi2 hou5 hong1 long1 yi4 sheng1
+900303	唯一#1美中不足的#3是#1没有#1胳膊#4。
+	wei2 yi1 mei3 zhong1 bu4 zu2 de5 shi4 mei2 you3 ge1 bo5
+900304	两个#1男青年中#3，一个#2绰号#1“冬瓜#4”。
+	liang3 ge5 nan2 qing1 nian2 zhong1 yi2 ge4 chuo4 hao4 dong1 gua1
+900305	两张#1办公桌#3部分#1抽屉#2被打开#4。
+	liang3 zhang1 ban4 gong1 zhuo1 bu4 fen5 chou1 ti5 bei4 da3 kai1
+900306	时间#2掐着点儿#3，开车#2悠着点儿#4。
+	shi2 jian1 qia1 zhe5 dianr3 kai1 che1 you1 zhe5 dianr3
+900307	逛了#1一圈后#3，聂警官#2走出#1市场#4。
+	guang4 le5 yi4 qvan1 hou4 nie4 jing3 guan1 zou3 chu1 shi4 chang3
+900308	整个#2捆在#1一起的#4。
+	zheng3 ge4 kun3 zai4 yi4 qi3 de5
+900309	四是#1怕#1老年人#3仍然#2被#1他们#1甩#4。
+	si4 shi4 pa4 lao3 nian2 ren2 reng2 ran2 bei4 ta1 men5 shuai3
+900310	但#2家属的#1这一#1请求#3没有#1获允#4。
+	dan4 jia1 shu3 de5 zhe4 yi4 qing3 qiu2 mei2 you3 huo4 yvn3
+900311	此外#2还要#1练就#3“盲换#1弹夹#4”。
+	ci3 wai4 hai2 yao4 lian4 jiu4 mang2 huan4 dan4 jia2
+900312	且他#2为人#1善良#3，和蔼可亲#4。
+	qie3 ta1 wei2 ren2 shan4 liang2 he2 ai6 ke3 qin1
+900313	毛毛的#1朋友#1小盛#2很“乖#4”。
+	mao2 mao5 de5 peng2 you5 xiao3 sheng4 hen3 guai1
+900314	控制#1不了#3，还#1必须#1升级#4。
+	kong4 zhi4 bu4 liao3 hai2 bi4 xv1 sheng1 ji2
+900315	你#1上午#1没打点#3，那#1越来越#1好了#4。
+	ni3 shang4 wu3 mei2 da6 dian3 na4 yve4 lai2 yve4 hao3 le5
+900316	当时#2也#1没啥人#3，我就#2浑身#1哆嗦#4。
+	dang1 shi2 ye3 mei2 sha2 ren2 wo3 jiu4 hun2 shen1 duo1 suo5
+900317	她#1咬牙#2坚持了#1下来#4。
+	ta1 yao3 ya2 jian1 chi2 le5 xia4 lai2
+900318	况且#2今年#1买的人#2确实#1有些少#4。
+	kuang4 qie3 jin1 nian2 mai3 de5 ren2 qve4 shi2 you3 xie1 shao3
+900319	为了#1孩子#3，我必须#2多#2挣点儿#4。
+	wei4 le5 hai2 zi5 wo3 bi4 xv1 duo1 zheng4 dianr3
+900320	李德玉#1说#3，我#1给我#1孙女儿#2买楼#4。
+	li3 de2 yv4 shuo1 wo6 gei6 wo3 sun1 nvr5 mai3 lou2
+900322	柴静的#1答案#1是#3，新闻#1当中的#1人#4。
+	chai2 jing4 de5 da2 an4 shi4 xin1 wen2 dang1 zhong1 de5 ren2
+900323	两位#2六旬#1老人#1制止#3反遭#1围殴#4。
+	liang3 wei4 liu4 xvn2 lao3 ren2 zhi4 zhi3 fan3 zao1 wei2 ou1
+900324	命运#1残酷#3，生命#1顽强#4。
+	ming4 yvn4 can2 ku4 sheng1 ming4 wan2 qiang2
+900325	儿子#2还跟#1我说#3没事儿#2没事儿#4。
+	er2 zi5 hai2 gen1 wo3 shuo1 mei2 shir4 mei2 shir4
+900326	一旦#2有变化#3，立即#2做上#1记号#4。
+	yi2 dan4 you3 bian4 hua5 li4 ji2 zuo4 shang4 ji4 hao5
+900327	人耳鼠#1技术#3，我相信#2没有#1问题#4。
+	ren2 er6 shu3 ji4 shu5 wo3 xiang1 xin4 mei2 you3 wen4 ti2
+900328	绕圈#1一周后#3，专家#2匆匆#1离开#4。
+	rao4 qvan1 yi4 zhou1 hou4 zhuan1 jia1 cong1 cong1 li2 kai1
+900329	腊月#1二十三#3，孩子#2再次#1病重#4。
+	la4 yve4 er4 shi2 san1 hai2 zi5 zai4 ci4 bing4 zhong4
+900330	就是想#2多#1陪陪#1家人#4。
+	jiu4 shi4 xiang3 duo1 pei2 pei5 jia1 ren2
+900331	仿古#1花船#2被#2停用#1检修#4。
+	fang6 gu3 hua1 chuan2 bei4 ting2 yong4 jian3 xiu1
+900332	我#1掰了#1一小块#3，难以#1下咽#4。
+	wo3 bai1 le5 yi4 xiao3 kuai4 nan2 yi3 xia4 yan4
+900333	掩卷#1沉思#3，感触#1良多#4。
+	yan3 jvan4 chen2 si1 gan3 chu4 liang2 duo1
+900334	下半年#2将是#1市场#1拐点#4。
+	xia4 ban4 nian2 jiang1 shi4 shi4 chang3 guai6 dian3
+900335	车祸中#3，侄儿#2受重伤#4。
+	che1 huo4 zhong1 zhi2 er2 shou4 zhong4 shang1
+900336	教训#1深刻#3，务须#1警觉#4。
+	jiao4 xvn4 shen1 ke4 wu4 xv1 jing3 jve2
+900337	妈妈#1说#3，滴水#1之恩#3当#2涌泉#1相报#4。
+	ma1 ma5 shuo1 di1 shui3 zhi1 en1 dang1 yong3 qvan2 xiang1 bao4
+900338	旱地里#3，则#2种桑#1养蚕#4。
+	han4 di4 li3 ze2 zhong4 sang1 yang3 can2
+900339	他们#1肯定#2从来#2不曾#1忘记#1甲午#4。
+	ta1 men5 ken3 ding4 cong2 lai2 bu4 ceng2 wang4 ji4 jia6 wu3
+900340	丧失#1信念#3，堤坝#2就会#1崩溃#4。
+	sang4 shi1 xin4 nian4 di1 ba4 jiu4 hui4 beng1 kui4
+900341	我#1不怕#3，真金#1不怕#1火烧#4。
+	wo3 bu2 pa4 zhen1 jin1 bu2 pa4 huo3 shao1
+900342	事后#2小翁的#1母亲#2涂女士#1报警#4。
+	shi4 hou4 xiao3 weng1 de5 mu3 qin1 tu2 nv3 shi4 bao4 jing3
+900343	勇敢的#1一种#1举动#4。
+	yong6 gan3 de5 yi4 zhong6 jv3 dong4
+900344	宝马车#1损毁#3，林某#1受伤#4。
+	bao6 ma3 che1 sun6 hui3 lin2 mou3 shou4 shang1
+900345	垮塌时#3有#1桥面上#2有#1人员#1行走#4。
+	kua3 ta1 shi2 you3 qiao2 mian4 shang4 you3 ren2 yvan2 xing2 zou3
+900346	听起来#2让人#1觉得#1有点儿#2恶心#4。
+	ting1 qi3 lai2 rang4 ren2 jve2 de5 you6 dianr6 e3 xin1
+900347	帅兵#1表示#3，签约#1仪式#2确有#1其事#4。
+	shuai4 bing1 biao3 shi4 qian1 yve1 yi2 shi4 qve4 you3 qi2 shi4
+900348	买菜#1难#3，难了#1大伙儿#2好多年#4。
+	mai3 cai4 nan2 nan2 le5 da4 huor6 hao3 duo1 nian2
+900349	此微博#1发出后#3，网友#2纷纷#1起哄#4。
+	ci3 wei1 bo2 fa1 chu1 hou4 wang6 you3 fen1 fen1 qi3 hong4
+900350	森林#1公安#2赶到后#3，将#2鸟网#1拆除#4。
+	sen1 lin2 gong1 an1 gan3 dao4 hou4 jiang1 niao6 wang3 chai1 chu2
+901001	但#2如果#2活动#1继续#3，做#1“路霸#2”是#1不可#1永久#2持续#1下去的#4。
+	dan4 ru2 guo3 huo2 dong4 ji4 xv4 zuo4 lu4 ba4 shi4 bu4 ke3 yong6 jiu3 chi2 xv4 xia4 qv5 de5
+901002	为了#2存住#1雨水#3，小区中#1绿地#3也不是#1光铺#1草皮#2就能#1敷衍了事的#4。
+	wei4 le5 cun2 zhu4 yv6 shui3 xiao3 qv1 zhong1 lv4 di4 ye3 bu2 shi5 guang1 pu4 cao3 pi2 jiu4 neng2 fu1 yan6 liao3 shi4 de5
+901003	如果#1只是#1这样#3，对#1陈允霞#1来说#3，或许#1他还#1勉强#2应付#1得了#4。
+	ru2 guo6 zhi3 shi4 zhe4 yang4 dui4 chen2 yvn3 xia2 lai2 shuo1 huo4 xv3 ta1 hai2 mian6 qiang3 ying4 fu4 de5 liao3
+901004	在此#3，笔者#1只有#2斗胆#1推测#1一下#3，先#1申明#3“如有#1雷同#2，纯属#1巧合#4”。
+	zai4 ci3 bi6 zhe3 zhi6 you3 dou6 dan3 tui1 ce4 yi2 xia4 xian1 shen1 ming2 ru2 you3 lei2 tong2 chun2 shu6 qiao3 he2
+901005	她说#3，虽然#1梦#2已经#1圆了#3，但是#3爱心#1接力棒#3将#1永远#2传递#1下去#4。
+	ta1 shuo1 sui1 ran2 meng4 yi3 jing5 yvan2 le5 dan4 shi4 ai4 xin1 jie1 li4 bang4 jiang1 yong6 yvan3 chuan2 di4 xia4 qv4
+901006	在#1母亲的#1影响下#3，一度#1思想#1颓废的#1曹伟伟#3也变得#1乐观了#4。
+	zai4 mu3 qin5 de5 ying6 xiang3 xia4 yi2 du4 si1 xiang3 tui2 fei4 de5 cao2 wei6 wei3 ye3 bian4 de5 le4 guan1 le5
+901007	除了#1插秧#1、收割#3，村民们#2当起了#1甩手#1掌柜#4。
+	chu2 le5 cha1 yang1 shou1 ge1 cun1 min2 men5 dang1 qi3 le5 shuai6 shou6 zhang3 gui4
+901008	不要#1觉得#1别扭#3，我们#1依然#1爱#1你们#4。
+	bu2 yao4 jve2 de5 bie4 niu5 wo3 men5 yi1 ran2 ai4 ni3 men5
+901009	晚饭#1过后#3，近平#2安步当车#3，款款#1而来#4。
+	wan3 fan4 guo4 hou4 jin4 ping2 an1 bu4 dang4 che1 kuan6 kuan3 er2 lai2
+901010	才#1一岁#3，啥也#1不懂的#1年纪#3，就没了#4。
+	cai2 yi2 sui4 sha2 ye3 bu4 dong3 de5 nian2 ji4 jiu4 mei2 le5
+901011	由于#2刚到#1公司#3，小陈的#1薪水#1目前#2还没有#1涨过#3，也没有#1年终奖#4。
+	you2 yv2 gang1 dao4 gong1 si1 xiao3 chen2 de5 xin1 shui3 mu4 qian2 hai2 mei2 you6 zhang3 guo4 ye3 mei2 you3 nian2 zhong1 jiang3
+901012	一想起#1外孙女#3，小雪的#1姥爷#3也#1难过得#1抹起了#1眼泪#4。
+	yi4 xiang6 qi3 wai4 sun1 nv5 xiao6 xve3 de5 lao3 ye5 ye3 nan2 guo4 de5 mo6 qi3 le5 yan3 lei4
+901013	这两天#3，就是#1走走#1停停#3，网吧#1里面#1住住#3，超市#1里面#1逛逛#4。
+	zhe4 liang3 tian1 jiu4 shi4 zou6 zou3 ting2 ting2 wang3 ba1 li3 mian5 zhu4 zhu4 chao1 shi4 li3 mian5 guang4 guang5
+901014	他赶到#1现场后#3，只见#1湖边#2散落着#1书包#2，棉袄#1等物#4。
+	ta1 gan3 dao4 xian4 chang3 hou4 zhi3 jian4 hu2 bian1 san4 luo4 zhe5 shu1 bao1 mian2 ao6 deng3 wu4
+901015	可#1我们#1不想#1离开#1这个#1地方#3，主要是#2找活儿#1方便#4。
+	ke6 wo3 men5 bu4 xiang3 li2 kai1 zhe4 ge5 di4 fang5 zhu3 yao4 shi4 zhao3 huor2 fang1 bian4
+901016	张庆双的#1姐姐#1、妹妹#3与#1叔叔#2处得#1也#1非常好#4。
+	zhang1 qing4 shuang1 de5 jie3 jie5 mei4 mei5 yv3 shu1 shu5 chu3 de5 ye3 fei1 chang2 hao3
+901017	胡佛#1认为#3，这是#2陨石#1带来的#1外星#1微生物#4。
+	hu2 fo2 ren4 wei2 zhe4 shi4 yvn3 shi2 dai4 lai2 de5 wai4 xing1 wei1 sheng1 wu4
+901018	因#1工钱低#3，他#1惹恼了#1“同行#3”，被人#1打了#1一顿#4。
+	yin1 gong1 qian2 di1 ta1 re6 nao3 le5 tong2 hang2 bei4 ren2 da3 le5 yi2 dun4
+901019	如果是#1用于#2个人#1挥霍#3，那她#1就是#2赤裸裸的#1诈骗#4。
+	ru2 guo3 shi4 yong4 yv2 ge4 ren2 hui1 huo4 na4 ta1 jiu4 shi4 chi4 luo6 luo3 de5 zha4 pian4
+901020	一点#1想法#1也没有#3，也#1想不#1出个#1名堂了#4。
+	yi4 dian3 xiang6 fa6 ye3 mei2 you3 ye6 xiang3 bu4 chu1 ge4 ming2 tang5 le5
+901021	他记得#1当年#2为了#1“逼”一下#1杨家#3，曾经#2揭了#1杨家#1屋顶上的#1瓦#4。
+	ta1 ji4 de5 dang1 nian2 wei4 le5 bi1 yi2 xia4 yang2 jia1 ceng2 jing1 jie1 le5 yang2 jia1 wu1 ding3 shang4 de5 wa3
+901022	她只要#2一接触#1水滴#3，皮肤#1就#1犹如#1火烧#4。
+	ta1 zhi3 yao4 yi4 jie1 chu4 shui3 di1 pi2 fu1 jiu4 you2 ru2 huo3 shao1
+901023	对于#1这次#1突发#1事件#3，秦光荣#1坦言#3，需要#1总结#1教训#4。
+	dui4 yv2 zhe4 ci4 tu1 fa1 shi4 jian4 qin2 guang1 rong2 tan3 yan2 xv1 yao4 zong3 jie2 jiao4 xvn5
+901024	从#2法理上#1讲#3，法无#1禁止#2即为#1允许#3，因此#1可视为#2没有#1法律#1障碍#4。
+	cong2 fa6 li3 shang4 jiang3 fa3 wu2 jin4 zhi3 ji2 wei2 yvn6 xv3 yin1 ci6 ke3 shi4 wei2 mei2 you6 fa3 lv4 zhang4 ai4
+901025	根据#1基本法#3，香港#1特区#1行政#1长官#3由#2选举#1委员会#1选出#4。
+	gen1 jv4 ji1 ben6 fa3 xiang1 gang3 te4 qv1 xing2 zheng4 zhang3 guan1 you2 xvan6 jv3 wei3 yvan2 hui4 xvan3 chu1
+901026	一周前#3，哑女#1入院#2开始#1进行#2各项#1常规#1检查#3，为#1手术#2做准备#4。
+	yi4 zhou1 qian2 ya6 nv3 ru4 yvan4 kai1 shi3 jin4 xing2 ge4 xiang4 chang2 gui1 jian3 cha2 wei4 shou3 shu4 zuo4 zhun3 bei4
+901027	女关员#2头部#1外伤#3，耳鸣#3，全身#1多处#1皮肤#1软组织#1损伤#4。
+	nv3 guan1 yvan2 tou2 bu4 wai4 shang1 er3 ming2 qvan2 shen1 duo1 chu4 pi2 fu1 ruan6 zu3 zhi5 sun3 shang1
+901028	一枚#1硬币#2落入#1吉他箱#3，小豪#2深深地#2鞠了#1一躬#4。
+	yi4 mei2 ying4 bi4 luo4 ru4 ji2 ta5 xiang1 xiao3 hao2 shen1 shen1 de5 jv1 le5 yi4 gong1
+901029	如果用#2验钞笔#1点照#3，瓶盖上#2会出现#1一个#1荧光点#3，而#1假酒#2则没有#4。
+	ru2 guo3 yong4 yan4 chao1 bi6 dian3 zhao4 ping2 gai4 shang4 hui4 chu1 xian4 yi2 ge4 ying2 guang1 dian3 er2 jia6 jiu3 ze2 mei2 you3
+901030	稳定#1物价#3、退休#1人员#1异地#1看病#3能够#2直接#1使用#1医保卡#4。
+	wen3 ding4 wu4 jia4 tui4 xiu1 ren2 yvan2 yi4 di4 kan4 bing4 neng2 gou4 zhi2 jie1 shi3 yong4 yi1 bao6 ka3
+901031	一次#1打工时的#1意外#3，赵县#1小伙儿#2张云朋的#1左腿#1被砸伤#4。
+	yi2 ci4 da3 gong1 shi2 de5 yi4 wai4 zhao4 xian4 xiao6 huor3 zhang1 yvn2 peng2 de5 zuo6 tui3 bei4 za2 shang1
+901032	她说#3，男子#1眼睛#1明显#1凹陷#3，皮肤#1发黄#3，头发#1自然卷#3，像是#1吸毒的#4。
+	ta1 shuo1 nan2 zi6 yan3 jing1 ming2 xian3 ao1 xian4 pi2 fu1 fa1 huang2 tou2 fa5 zi4 ran2 jvan3 xiang4 shi4 xi1 du2 de5
+901033	鞭炮#2因#2声音#1太大#3、太危险#3，不允许#1卖#4。
+	bian1 pao4 yin1 sheng1 yin1 tai4 da4 tai4 wei1 xian3 bu4 yvn6 xv3 mai4
+901034	奶源#1短缺#3，也让#1乳企#1生产#2出现#1原料#1缺口#4。
+	nai3 yvan2 duan3 qve1 ye3 rang4 ru6 qi3 sheng1 chan3 chu1 xian4 yvan2 liao4 qve1 kou3
+901035	写完#1此稿#3，记者#1已陪同#1翁秀英#3连夜向#2巫溪#1方向#1赶路#4。
+	xie3 wan2 ci6 gao3 ji4 zhe6 yi3 pei2 tong2 weng1 xiu4 ying1 lian2 ye4 xiang4 wu1 xi1 fang1 xiang4 gan3 lu4
+901036	梁莉莉#2借着#1酒劲儿#3，不停地#1在其#1父母#1面前#1数落我#4。
+	liang2 li4 li5 jie4 zhe5 jiu3 jinr4 bu4 ting2 de5 zai4 qi2 fu4 mu3 mian4 qian2 shu3 luo4 wo3
+901037	她一年#2到#1北京#1、长沙#1往返#1多少次#3，对于#1家里#3哪儿#2照顾得#1过来#4。
+	ta1 yi4 nian2 dao4 bei3 jing1 chang2 sha1 wang6 fan3 duo1 shao3 ci4 dui4 yv2 jia1 li3 nar3 zhao4 gu5 de5 guo4 lai2
+901038	在#2签订#1合同时#3，张女士#2允许#1自己#2携带#1宠物#1入住#4。
+	zai4 qian1 ding4 he2 tong5 shi2 zhang1 nv3 shi4 yvn6 xv3 zi4 ji3 xie2 dai4 chong3 wu4 ru4 zhu4
+901039	如果#1卖得#1不理想#3，明年#1再出门的#1盘缠#3就要#2另做#1打算了#4。
+	ru2 guo3 mai4 de5 bu4 li6 xiang3 ming2 nian2 zai4 chu1 men2 de5 pan2 chan5 jiu4 yao4 ling4 zuo4 da3 suan4 le5
+901040	厂房内#3，衣物#1、棉花#1等物品#3摆放#1凌乱#4。
+	chang3 fang2 nei4 yi1 wu4 mian2 hua1 deng3 wu4 pin3 bai3 fang4 ling2 luan4
+901041	哭#1一会儿#3，她会#1停下来#2朝你#1点点头#1致歉#4。
+	ku1 yi2 huir4 ta1 hui4 ting2 xia4 lai2 chao2 ni3 dian6 dian3 tou2 zhi4 qian4
+901042	半年后#3，唐某#1邀#1小慧#1来#1杭州玩#3，小慧#1爽快#1答应了#4。
+	ban4 nian2 hou4 tang2 mou3 yao1 xiao3 hui4 lai2 hang2 zhou1 wan2 xiao3 hui4 shuang3 kuai5 da1 ying4 le5
+901043	欧盟#1东扩后#3，意大利#1和#1匈牙利#3是#1罗姆人#1涌入#1最多的#1国家#4。
+	ou1 meng2 dong1 kuo4 hou4 yi4 da4 li4 he2 xiong1 ya2 li4 shi4 luo2 mu3 ren2 yong3 ru4 zui4 duo1 de5 guo2 jia1
+901044	所以#1她最近#2冒出了个#1念头#3，想#1组建#1一个#2“挑刺儿#1工作室#4”。
+	suo6 yi3 ta1 zui4 jin4 mao4 chu1 le5 ge5 nian4 tou2 xiang3 zu3 jian4 yi2 ge4 tiao1 cir4 gong1 zuo4 shi4
+901045	在#1这次#1经历中#3，最让#1徐勇#1感动的#3是#1领导的#1人情味儿#4。
+	zai4 zhe4 ci4 jing1 li4 zhong1 zui4 rang4 xv2 yong6 gan3 dong4 de5 shi4 ling6 dao3 de5 ren2 qing2 weir4
+901046	我说#3，我#1有个#1儿子#3，大家#1认得我#3，别人#1报复我#3，他说#3，你#1耍我啊#4。
+	wo3 shuo1 wo6 you3 ge5 er2 zi5 da4 jia1 ren4 de2 wo3 bie2 ren2 bao4 fu5 wo3 ta1 shuo1 ni3 shua6 wo3 a5
+901047	呆在#1家里#1没啥事儿#3，出来#1溜达#3，顺便#1买点药#4。
+	dai1 zai4 jia1 li3 mei2 sha2 shir4 chu1 lai2 liu1 da5 shun4 bian4 mai6 dian3 yao4
+901048	讲到#2金融#1杠杆#3，要弄#1清楚#2金融#1对#2房地产的#1调控#3有#1两种#1概念#4。
+	jiang3 dao4 jin1 rong2 gang4 gan3 yao4 nong4 qing1 chu3 jin1 rong2 dui4 fang2 di4 chan3 de5 tiao2 kong4 you3 liang6 zhong3 gai4 nian4
+901049	说我们#1故意#1不卖#1房子#3，真是#1冤枉#1我们了#4。
+	shuo1 wo3 men5 gu4 yi4 bu2 mai4 fang2 zi5 zhen1 shi5 yvan1 wang5 wo3 men5 le5
+901050	就在#1这个#1时候#3，陈某#1听到#1院子#1外边#3邻居#1也在#2嚷嚷#2家中#1被盗了#4。
+	jiu4 zai4 zhe4 ge5 shi2 hou4 chen2 mou3 ting1 dao4 yvan4 zi5 wai4 bian1 lin2 jv1 ye3 zai4 rang1 rang5 jia1 zhong1 bei4 dao4 le5
+901051	由于#1抵挡#1不过#3，这名#1男子#1便往#2海南#1大学#1方向#1逃跑#4。
+	you2 yv2 di6 dang3 bu2 guo4 zhe4 ming2 nan2 zi3 bian4 wang3 hai3 nan2 da4 xve2 fang1 xiang4 tao2 pao3
+901052	乘客#1称#3，这些#1毛毛虫#2是#1拿来#2食用的#4。
+	cheng2 ke4 cheng1 zhe4 xie1 mao2 mao2 chong2 shi4 na2 lai2 shi2 yong4 de5
+901053	要不是#1陈工#3，他#1媳妇儿#2肯定#1不会#1有今天#4。
+	yao4 bu2 shi4 chen2 gong1 ta1 xi2 fur5 ken3 ding4 bu2 hui4 you3 jin1 tian1
+901054	据他#1自己#1回忆#3，当时#1手跟#1鸡爪#1一样#1抽起来#3，肚子#1也感觉#1抽动#4。
+	jv4 ta1 zi4 ji3 hui2 yi4 dang1 shi2 shou3 gen1 ji1 zhua3 yi2 yang4 chou1 qi3 lai2 du4 zi5 ye6 gan3 jve2 chou1 dong4
+901055	说完#3，甩开#1文春秋的#1手#3扬长而去#4。
+	shuo1 wan2 shuai3 kai1 wen2 chun1 qiu1 de5 shou3 yang2 chang2 er2 qv4
+901056	根据#2线索#1显示#3，郑某#2既有#1可能#2已经#1改名#1换姓#3，漂白#1身份#4。
+	gen1 jv4 xian4 suo6 xian3 shi4 zheng4 mou3 ji4 you6 ke3 neng2 yi3 jing1 gai3 ming2 huan4 xing4 piao3 bai2 shen1 fen4
+901057	看图#3，电子#1菜单#2一“幕”#1了然#3，手指头#2点点#1戳戳#3就把菜#1选好了#4。
+	kan4 tu2 dian4 zi3 cai4 dan1 yi2 mu4 liao3 ran2 shou6 zhi3 tou5 dian6 dian3 chuo1 chuo1 jiu4 ba3 cai4 xvan6 hao3 le5
+901058	如果#1自个儿#2贪生怕死#1不去救#3，日后#1良心上#2都会#1不安稳#4。
+	ru2 guo3 zi4 ger3 tan1 sheng1 pa4 si3 bu2 qv4 jiu4 ri4 hou4 liang2 xin1 shang4 dou1 hui4 bu4 an1 wen3
+901059	儿子#1和#1老伴#2都#1指望#1不上#3，陈亚琴#2只得#1独自#1带孙女#1进京#4。
+	er2 zi5 he2 lao3 ban4 dou1 zhi3 wang4 bu2 shang4 chen2 ya4 qin2 zhi3 de2 du2 zi4 dai4 sun1 nv3 jin4 jing1
+901060	到#2天黑时#3，大伙儿#2终于#1把#1干渠的#1决口#2堵住了#4。
+	dao4 tian1 hei1 shi2 da4 huor3 zhong1 yv2 ba3 gan4 qv2 de5 jve2 kou6 du3 zhu4 le5
+901061	她#1只是个#1小娃娃#3，不懂事#3，我#1原谅她#4。
+	ta1 zhi3 shi4 ge5 xiao3 wa2 wa5 bu4 dong3 shi4 wo3 yvan2 liang4 ta1
+901062	为#2做好#1报道#3，我#1提前#1来到#2位于#1雅典#2东南部的#1比港#2探营#4。
+	wei4 zuo4 hao3 bao4 dao4 wo3 ti2 qian2 lai2 dao4 wei4 yv2 ya6 dian3 dong1 nan2 bu4 de5 bi6 gang3 tan4 ying2
+901063	如果#2经不住#1考验#3，法院#1则视为#1夫妻#1感情#2彻底#1破裂#3，准予#1离婚#4。
+	ru2 guo3 jing1 bu2 zhu4 kao3 yan4 fa3 yvan4 ze2 shi4 wei2 fu1 qi1 gan3 qing2 che4 di3 po4 lie4 zhun6 yv3 li2 hun1
+901064	在#2得知#1三哥#1被抓#3，在#1樱桃园内#1挖出#1纸箱时#3，赵刚#2心理#1防线#1瓦解#4。
+	zai4 de2 zhi1 san1 ge1 bei4 zhua1 zai4 ying1 tao2 yvan2 nei4 wa1 chu1 zhi3 xiang1 shi2 zhao4 gang1 xin1 li3 fang2 xian4 wa6 jie3
+901065	不料#2车上的#1男子#1下车#3，朝他#1抡了#1两拳#4。
+	bu2 liao4 che1 shang4 de5 nan2 zi3 xia4 che1 chao2 ta1 lun1 le5 liang3 qvan2
+901066	张雪#2很是#1反感#3，就想#2教训#1一下#1他#4。
+	zhang1 xve6 hen3 shi4 fan6 gan3 jiu4 xiang3 jiao4 xvn5 yi2 xia4 ta1
+901067	至于#2村民们#1长寿#3、和#1一些#1地震#1现象#3，则跟#2陨石坑#2扯不上#1边了#4。
+	zhi4 yv2 cun1 min2 men5 chang2 shou4 he2 yi4 xie1 di4 zhen4 xian4 xiang4 ze2 gen1 yvn3 shi2 keng1 che3 bu2 shang4 bian1 le5
+901068	一名#2张姓#1农户#1说#3，樱桃#1皮薄#3，轻轻#1碰到#1树干上#3，都会#1留下#1小窝#4。
+	yi4 ming2 zhang1 xing4 nong2 hu4 shuo1 ying1 tao5 pi2 bao2 qing1 qing1 peng4 dao4 shu4 gan4 shang4 du1 hui4 liu2 xia4 xiao3 wo1
+901069	说完#3，他#1抬起头#2举起#1矿泉水#1豪饮#3，眨眼间#3半瓶#1矿泉水#1就#1不见了#4。
+	shuo1 wan2 ta1 tai2 qi3 tou2 jv6 qi3 kuang4 qvan2 shui3 hao2 yin3 zha6 yan3 jian1 ban4 ping2 kuang4 qvan2 shui3 jiu4 bu2 jian4 le5
+901070	她的#1儿子#2已经#1工作#3，往#1那儿#1一站#3，看不出#1她的#1真实#1年龄#4。
+	ta1 de5 er2 zi5 yi3 jing1 gong1 zuo4 wang3 nar4 yi2 zhan4 kan4 bu4 chu1 ta1 de5 zhen1 shi2 nian2 ling2
+901071	原来的#1执政党#3“地区党#3”已呈#2分裂#1瓦解#1之势#4。
+	yvan2 lai2 de5 zhi2 zheng4 dang3 di4 qv1 dang3 yi3 cheng2 fen1 lie4 wa6 jie3 zhi1 shi4
+901072	可怜#1蛇众#3，欣欣然#2以为#1生路#1开#3，岂料#2凄惨惨#1死期#1迫#4。
+	ke3 lian2 she2 zhong4 xin1 xin1 ran2 yi3 wei2 sheng1 lu4 kai1 qi3 liao4 qi1 can6 can6 si3 qi1 po4
+901073	在#2答问时#3，袁贵仁#2依然#1延续了#1爽快#1而#1稳重的#1风格#4。
+	zai4 da2 wen4 shi2 yvan2 gui4 ren2 yi1 ran2 yan2 xv4 le5 shuang3 kuai4 er2 wen3 zhong4 de5 feng1 ge2
+901074	赖雪岗#2被#1沈某#2、江某#2、罗某#1等人#3当场#1制服后#3移交#1连城县#1公安局#4。
+	lai4 xve6 gang3 bei4 shen6 mou3 jiang1 mou3 luo2 mou6 deng3 ren2 dang1 chang3 zhi4 fu2 hou4 yi2 jiao1 lian2 cheng2 xian4 gong1 an1 jv2
+901075	陈东平#1提醒#3，使用#1驱蚊#1花露水时#3，要#2遵照#1其#1产品#1说明书#4。
+	chen2 dong1 ping2 ti2 xing3 shi3 yong4 qv1 wen2 hua1 lu4 shui3 shi2 yao4 zun1 zhao4 qi2 chan6 pin3 shuo1 ming2 shu1
+901076	看到#1记者#1走过来#3，她才把#1耳机#1摘下来#4。
+	kan4 dao4 ji4 zhe6 zou3 guo4 lai2 ta1 cai2 ba6 er3 ji1 zhai1 xia4 lai2
+901077	老婆#1跑了#3，在村里#2是一个#1丢人#1事儿#3，这让#2王高伟#2很#1没面子#4。
+	lao3 po5 pao3 le5 zai4 cun1 li3 shi4 yi2 ge4 diu1 ren2 shir4 zhe4 rang4 wang2 gao1 wei6 hen3 mei2 mian4 zi5
+901078	为#2避免#2“二次#1”受灾#3，规划#1特别#1注重#2选址#1安全#4。
+	wei2 bi4 mian3 er4 ci4 shou4 zai1 gui1 hua4 te4 bie2 zhu4 zhong4 xvan6 zhi3 an1 qvan2
+901079	但#2如果#1是到#2杭州#2、合肥#3、武汉#2、温州#1等地#3，那以后#2晚点儿#2才能#1到了#4。
+	dan4 ru2 guo3 shi4 dao4 hang2 zhou1 he2 fei2 wu3 han4 wen1 zhou1 deng3 di4 na4 yi3 hou4 wan6 dianr3 cai2 neng2 dao4 le5
+901080	为了#1生存#3，无论#1多苦#2、多累#3、多廉价的#1活儿#3，他#1都干#4。
+	wei4 le5 sheng1 cun2 wu2 lun4 duo1 ku3 duo1 lei4 duo1 lian2 jia4 de5 huor2 ta1 dou1 gan4
+901081	什么#1都让#1他买单#3，反而#1觉得#1不自在#3，没尊严#4。
+	shen2 me5 dou1 rang4 ta1 mai3 dan1 fan3 er2 jve2 de5 bu2 zi4 zai4 mei2 zun1 yan2
+901082	但#1最终#3，女司机#2还是#1耸耸肩#3表示#1自己#1不会#1吹气#4。
+	dan4 zui4 zhong1 nv3 si1 ji1 hai2 shi4 song6 song3 jian1 biao3 shi4 zi4 ji3 bu2 hui4 chui1 qi4
+901083	在#2程金涛#1眼里#3，妻子#1永远#1是#1美丽的#4。
+	zai4 cheng2 jin1 tao1 yan6 li3 qi1 zi3 yong6 yvan3 shi4 mei3 li4 de5
+901084	只要#1有决心#3，自然#1会找到#2切实#1稳妥#1可行的#1办法#4。
+	zhi3 yao4 you3 jve2 xin1 zi4 ran2 hui4 zhao3 dao4 qie4 shi2 wen6 tuo6 ke3 xing2 de5 ban4 fa3
+901085	小家伙#2吃饱后#3，不一会儿#2就#1睡着了#4。
+	xiao3 jia1 huo5 chi1 bao3 hou4 bu4 yi2 huir4 jiu4 shui4 zhao2 le5
+901086	司机#1被#2劝开后#3，小宇#1感觉#2有#1短暂的#1失忆#3，并#1有些#1头晕#4。
+	si1 ji1 bei4 qvan4 kai1 hou4 xiao6 yv6 gan3 jve2 you6 duan3 zan4 de5 shi1 yi4 bing4 you3 xie1 tou2 yvn1
+901087	他#2欣然#1允诺#3，慷慨陈辞#3，掷地有声#4。
+	ta1 xin1 ran2 yvn3 nuo4 kang1 kai3 chen2 ci2 zhi4 di4 you3 sheng1
+901088	她#1没想到#3，自己#2耍#1小聪明#3，最终#2却#1自投罗网#4。
+	ta1 mei2 xiang3 dao4 zi4 ji3 shua6 xiao3 cong1 ming5 zui4 zhong1 qve4 zi4 tou2 luo2 wang3
+901089	她刚进#1学校#1那会儿#3，在#1宿舍里#2使用#1电吹风#2也会#1跳闸#4。
+	ta1 gang1 jin4 xve2 xiao4 na4 huir4 zai4 su4 she4 li6 shi3 yong4 dian4 chui1 feng1 ye3 hui4 tiao4 zha2
+901090	他说#2打拼#1几年#3，为了#1未来#1攒点钱#3也#1没什么#1不好#3，我就#1同意了#4。
+	ta1 shuo1 da3 pin1 ji3 nian2 wei4 le5 wei4 lai2 zan6 dian3 qian2 ye3 mei2 shen2 me5 bu4 hao3 wo3 jiu4 tong2 yi4 le5
+901091	谁知#1一问#1才知道#3，王某#1压根儿#2不是#1什么#1抢劫犯#4。
+	shui2 zhi1 yi2 wen4 cai2 zhi1 dao5 wang2 mou3 ya4 genr1 bu2 shi4 shen2 me5 qiang3 jie2 fan4
+901092	但#2作为#1当事人的#2“打鬼子#1”舞#1表演#1团队#3对此#2却#1毫不知情#4。
+	dan4 zuo4 wei2 dang1 shi4 ren2 de5 da6 gui3 zi5 wu3 biao6 yan3 tuan2 dui4 dui4 ci3 qve4 hao2 bu4 zhi1 qing2
+901093	姐姐#2说#3“就是#1这样#1舔的#3”，边说#2还#1边#1做动作#4。
+	jie3 jie5 shuo1 jiu4 shi4 zhe4 yang4 tian3 de5 bian1 shuo1 hai2 bian1 zuo4 dong4 zuo4
+901094	吴女士#2情急#1之下#3，冲着#1男子#2就#1尖叫了#1一声#4。
+	wu2 nv3 shi4 qing2 ji2 zhi1 xia4 chong4 zhe5 nan2 zi3 jiu4 jian1 jiao4 le5 yi4 sheng1
+901095	李银环#1觉得#3，这是#1自己#1做得#1最有#1意义的#1事儿#4。
+	li3 yin2 huan2 jve2 de5 zhe4 shi4 zi4 ji3 zuo4 de5 zui4 you3 yi4 yi4 de5 shir4
+901096	你#2年年#1生猛#2都#1搞不定#1巴萨#3，就别#1指望#1我了#4。
+	ni3 nian2 nian2 sheng1 meng3 dou1 gao3 bu2 ding4 ba1 sa4 jiu4 bie2 zhi3 wang5 wo3 le5
+901097	但#2生日酒#2还得办#3，不过#2只摆#1几桌#3，控制在#2一万元#1以内#3，由他#1负责#4。
+	dan4 sheng1 ri5 jiu3 hai2 dei3 ban4 bu2 guo4 zhi6 bai6 ji3 zhuo1 kong4 zhi4 zai4 yi2 wan4 yvan2 yi3 nei4 you2 ta1 fu4 ze2
+901098	半年前#3，他和#2妻子#1女儿#3搬到#1石榴岗#2东大街#1租住#4。
+	ban4 nian2 qian2 ta1 he2 qi1 zi6 nv3 er2 ban1 dao4 shi2 liu5 gang3 dong1 da4 jie1 zu1 zhu4
+901099	据#2公开#1报导#3，正是#1刘允洲#1一案#2牵扯#1出了#1李元#4。
+	jv4 gong1 kai1 bao4 dao3 zheng4 shi4 liu2 yvn3 zhou1 yi2 an4 qian1 che3 chu1 le5 li3 yvan2
+901100	吴大云#2一怒#1之下#3，给了她#1一巴掌#4。
+	wu2 da4 yvn2 yi2 nu4 zhi1 xia4 gei3 le5 ta1 yi4 ba1 zhang5
+901101	尽管#2锈迹斑斑#3，它的#1存在#3仍#2昭示着#1双峰#2难以#1被抹掉的#1过去#4。
+	jin6 guan3 xiu4 ji4 ban1 ban1 ta1 de5 cun2 zai4 reng2 zhao1 shi4 zhe5 shuang1 feng1 nan2 yi3 bei4 mo3 diao4 de5 guo4 qv4
+901102	我说#3，我#1不仅是#1带着#1耳朵#1来的#3，我是#1带着心#1来的#4。
+	wo3 shuo1 wo3 bu4 jin3 shi4 dai4 zhe5 er3 duo5 lai2 de5 wo3 shi4 dai4 zhe5 xin1 lai2 de5
+901103	而在#2假#1网站里#3，根本#2就没有#1公司的#1名称#4。
+	er2 zai4 jia6 wang3 zhan4 li3 gen1 ben3 jiu4 mei2 you3 gong1 si1 de5 ming2 cheng1
+901104	网友#1评#3，此处#1计划#2成为#1国家#1田径#1训练#1基地#3，重点#1培养#2短跑#1选手#4。
+	wang6 you3 ping2 ci3 chu4 ji4 hua4 cheng2 wei2 guo2 jia1 tian2 jing4 xvn4 lian4 ji1 di4 zhong4 dian3 pei2 yang3 duan6 pao3 xvan6 shou3
+901105	看#1女孩儿#2一直在#1打电话#3，男子#1上前#1一步#3来回地#1在#1女孩儿#1身上#1磨蹭#4。
+	kan4 nv3 hair2 yi4 zhi2 zai4 da3 dian4 hua4 nan2 zi3 shang4 qian2 yi2 bu4 lai2 hui2 de5 zai4 nv3 hair2 shen1 shang5 mo2 ceng5
+901106	天不怕#3，地不怕#3，黄金#1搬回家#3，巴菲特#2，算个啥#3，大妈#2俺#1最大#4。
+	tian1 bu2 pa4 di4 bu2 pa4 huang2 jin1 ban1 hui2 jia1 ba1 fei1 te4 suan4 ge5 sha2 da4 ma1 an3 zui4 da4
+901107	她说#3，他#1内衣#1汗衫上#2都打了#1补丁#3，衬衫的#1领子#2也#1穿皱了#4。
+	ta1 shuo1 ta1 nei4 yi1 han4 shan1 shang4 dou1 da3 le5 bu3 ding5 chen4 shan1 de5 ling3 zi5 ye3 chuan1 zhou4 le5
+901108	骆琳#1说#3，全国#1各地#1要#1警钟长鸣#3，吸取#1教训#4。
+	luo4 lin2 shuo1 qvan2 guo2 ge4 di4 yao4 jing3 zhong1 chang2 ming2 xi1 qv3 jiao4 xvn5
+901109	民警#1找到#1买家#1陈某#3，将#1豆豆#2解救#1出来#4。
+	min2 jing6 zhao3 dao4 mai3 jia1 chen2 mou3 jiang1 dou4 dou5 jie3 jiu4 chu1 lai2
+901110	董大爷#1说#3，一个人#1辛苦#1把儿子#1养大#1成人#3，很#1不容易#4。
+	dong3 da4 ye5 shuo1 yi2 ge4 ren2 xin1 ku6 ba3 er2 zi5 yang3 da4 cheng2 ren2 hen3 bu4 rong2 yi4
+901111	地震#1发生时#3，杨正权#2正在#1催促#1妹妹#3完成#1暑假#1作业#4。
+	di4 zhen4 fa1 sheng1 shi2 yang2 zheng4 qvan2 zheng4 zai4 cui1 cu4 mei4 mei5 wan2 cheng2 shu3 jia4 zuo4 ye4
+901112	姚某#1被抓后#3，如实#1供述了#2蒙面#1持刀#1抢劫#3、强奸#1未遂的#1犯罪#1事实#4。
+	yao2 mou3 bei4 zhua1 hou4 ru2 shi2 gong1 shu4 le5 meng2 mian4 chi2 dao1 qiang3 jie2 qiang2 jian1 wei4 sui4 de5 fan4 zui4 shi4 shi2
+901113	看着#1“歪歪#1”远去的#1背影#3，黄女士#1感慨#1万千#4。
+	kan4 zhe5 wai1 wai1 yvan3 qv4 de5 bei4 ying3 huang2 nv3 shi4 gan6 kai3 wan4 qian1
+901115	他的#1生平#1思想#1和#1品格#1风范#3，永远是#1党#1和#1人民#1宝贵的#1精神#1财富#4。
+	ta1 de5 sheng1 ping2 si1 xiang3 he2 pin3 ge2 feng1 fan4 yong6 yvan3 shi4 dang3 he2 ren2 min2 bao3 gui4 de5 jing1 shen2 cai2 fu4
+901116	他的#1腰部#1、腿部#1都#1受了伤#3，幸运的#1是#3老伴儿#1没有#1受伤#4。
+	ta1 de5 yao1 bu4 tui3 bu4 dou1 shou4 le5 shang1 xing4 yvn4 de5 shi4 lao3 banr4 mei2 you3 shou4 shang1
+901117	稳定#2是#2改革#1发展的#1前提#3，必须#1坚持#2改革#1发展#1稳定的#1统一#4。
+	wen3 ding4 shi4 gai3 ge2 fa1 zhan3 de5 qian2 ti2 bi4 xv1 jian1 chi2 gai3 ge2 fa1 zhan6 wen3 ding4 de5 tong3 yi1
+901118	在#2于家#1看来#3，不能#1再这样#2傻傻#1等下去了#4。
+	zai4 yv2 jia1 kan4 lai5 bu4 neng2 zai4 zhe4 yang4 sha6 sha3 deng3 xia4 qv4 le5
+901119	东西#1要#1都在#1北京买#3，花销#1就#2太大了#4。
+	dong1 xi1 yao4 dou1 zai4 bei3 jing1 mai3 hua1 xiao1 jiu4 tai4 da4 le5
+901120	但她#1时不时的#2晃晃#1脑袋#3，用#1手背#2去揉揉#1右眼#4。
+	dan4 ta1 shi2 bu4 shi2 de5 huang4 huang5 nao3 dai5 yong4 shou3 bei4 qv4 rou2 rou5 you4 yan3
+901121	丁氏欣#1觉得#3崔长青#1人品好#3，勤快#1能干#3，知道#1心疼人#4。
+	ding1 shi4 xin1 jve2 de5 cui1 chang2 qing1 ren2 pin6 hao3 qin2 kuai5 neng2 gan4 zhi1 dao4 xin1 teng2 ren2
+901122	我们#1允许#1革新#3，但#2千万#1别#1变味儿#4。
+	wo3 men5 yvn6 xv3 ge2 xin1 dan4 qian1 wan4 bie2 bian4 weir4
+901123	反正#1我们#1老了#3，给#1娃娃#2留下点#1草地#1也好看#4。
+	fan3 zheng4 wo3 men5 lao3 le5 gei3 wa2 wa5 liu2 xia4 dian6 cao3 di4 ye6 hao3 kan4
+901124	每次#1醉酒后#3都要#1“耍酒疯#1”大闹#1一场#3，妻儿#1没少#1遭罪#4。
+	mei3 ci4 zui4 jiu3 hou4 dou1 yao4 shua6 jiu3 feng1 da4 nao4 yi4 chang3 qi1 er2 mei2 shao3 zao1 zui4
+901125	母亲#1熊英#1说#3，这笔钱#2作为#1嫁妆#3，本已#1给了#1女儿#4。
+	mu3 qin1 xiong2 ying1 shuo1 zhe4 bi3 qian2 zuo4 wei2 jia4 zhuang5 ben6 yi6 gei3 le5 nv3 er2
+901126	尽管#2耳朵上的#1猪毛#1很真#3，但#2实际上#2不是毛#3，是#1人造#1物质#4。
+	jin6 guan3 er3 duo5 shang4 de5 zhu1 mao2 hen3 zhen1 dan4 shi2 ji4 shang4 bu2 shi4 mao2 shi4 ren2 zao4 wu4 zhi4
+901127	需要#1经过#1市场#1检验#3，如果#1不公允#1可信#3，在#1市场#1竞争中#3会衰落#4。
+	xv1 yao4 jing1 guo4 shi4 chang6 jian3 yan4 ru2 guo3 bu4 gong1 yvn6 ke3 xin4 zai4 shi4 chang3 jing4 zheng1 zhong1 hui4 shuai1 luo4
+901128	据他#1称#3，瓦卡#2是一名#2退伍#1军人#3，已在#1射击场#2工作#1两年#4。
+	jv4 ta1 cheng1 wa6 ka3 shi4 yi4 ming2 tui4 wu3 jvn1 ren2 yi3 zai4 she4 ji1 chang3 gong1 zuo4 liang3 nian2
+901129	人家#1怕#1遗产税#3，你有#1一千亿#1身价#3，你也#1永远#1在赚钱#4。
+	ren2 jia1 pa4 yi2 chan3 shui4 ni6 you3 yi4 qian1 yi4 shen1 jia4 ni6 ye3 yong6 yvan3 zai4 zhuan4 qian2
+901130	她说#3，反正#1也没#1地方#1去#3，万一#1在那儿#2遇到个#1大领导呢#4。
+	ta1 shuo1 fan3 zheng4 ye3 mei2 di4 fang1 qv4 wan4 yi1 zai4 nar4 yv4 dao4 ge5 da4 ling6 dao3 ne5
+901131	但在#2她们的#1“同学#1”眼里#3，这些#1事儿#3，已经#1过去#4。
+	dan4 zai4 ta1 men5 de5 tong2 xve2 yan6 li3 zhe4 xie1 shir4 yi3 jing1 guo4 qv4
+901132	一旦#1取消#3，整个#1烟草#1行业#1就#1垮掉#4。
+	yi2 dan4 qv3 xiao1 zheng3 ge4 yan1 cao3 hang2 ye4 jiu4 kua3 diao4
+901133	不管#1怎么样#3，我#1一定#1努力#1赚钱#3，把#1娃娃#2拉扯大#4。
+	bu4 guan6 zen3 me5 yang4 wo3 yi2 ding4 nu3 li4 zhuan4 qian2 ba3 wa2 wa5 la1 che3 da4
+901134	两位#1警察#1阿姨#3替她#1打理了#1一番#3，白白净净的#1她#3很是#1惹人#1喜欢#4。
+	liang3 wei4 jing3 cha2 a1 yi2 ti4 ta1 da6 li3 le5 yi4 fan1 bai2 bai2 jing4 jing4 de5 ta1 hen3 shi4 re3 ren2 xi3 huan1
+901135	鸟儿#1鸣唱时#3，多带有#2同种#1识别的#1功能#4。
+	niao3 er2 ming2 chang4 shi2 duo1 dai4 you3 tong2 zhong3 shi2 bie2 de5 gong1 neng2
+901136	她说#3，子希#1个子#1矮小#3，一直都#2笑眯眯的#3，非常#1可爱#4。
+	ta1 shuo1 zi3 xi1 ge4 zi5 ai6 xiao3 yi4 zhi2 dou1 xiao4 mi1 mi1 de5 fei1 chang2 ke3 ai4
+901137	看奶奶#2抹着泪#2痛哭#1失声#3，小方梅#2埋下了#1头#3，在#1双眼间#2抹了#1几下#4。
+	kan4 nai3 nai5 mo3 zhe5 lei4 tong4 ku1 shi1 sheng1 xiao3 fang1 mei2 mai2 xia4 le5 tou2 zai4 shuang1 yan3 jian1 mo3 le5 ji3 xia4
+901138	在#1这些#1花销中#3，买#1礼品#2花销#1最多#3，其次是#1压岁钱#4。
+	zai4 zhe4 xie1 hua1 xiao1 zhong1 mai3 li6 pin3 hua1 xiao1 zui4 duo1 qi2 ci4 shi4 ya1 sui4 qian2
+901139	不管谁#2向他#1借钱#3，他都#1慷慨解囊#4。
+	bu4 guan3 shui2 xiang4 ta1 jie4 qian2 ta1 dou1 kang1 kai6 jie3 nang2
+901140	说白了吧#3，不扣#1纽扣#2就是#1为了#1透透风#3，舒服#1一点儿#4。
+	shuo1 bai2 le5 ba5 bu2 kou4 niu3 kou4 jiu4 shi4 wei4 le5 tou4 tou4 feng1 shu1 fu5 yi4 dianr3
+901141	情人节#1到了#3，丈夫#2画了#1一幅#1牡丹#2送给她#4。
+	qing2 ren2 jie2 dao4 le5 zhang4 fu1 hua4 le5 yi4 fu2 mu3 dan5 song4 gei3 ta1
+901142	低收入#2困难#1家庭#3，可用#1公积金#2缴纳#1物业费#4。
+	di1 shou1 ru4 kun4 nan2 jia1 ting2 ke3 yong4 gong1 ji1 jin1 jiao3 na4 wu4 ye4 fei4
+901143	地震#1发生后#3，大量#1民房#1倒塌#3，汽车#1损毁#3，不少#1民众#2吓得#1失声#1痛哭#4。
+	di4 zhen4 fa1 sheng1 hou4 da4 liang4 min2 fang2 dao3 ta1 qi4 che1 sun6 hui3 bu4 shao3 min2 zhong4 xia4 de5 shi1 sheng1 tong4 ku1
+901144	他#1耳背#3，要用#1很大的#1声音#3才能#1把一两个#1句子#3塞进#1他的#1耳朵#4。
+	ta1 er3 bei4 yao4 yong4 hen3 da4 de5 sheng1 yin1 cai2 neng2 ba3 yi4 liang3 ge4 jv4 zi5 sai1 jin4 ta1 de5 er3 duo5
+901145	据#2初步#1调查#1了解#3，女孩儿#2是被#1养父母#1“教训#1”不当#3，捆绑#1致死#4。
+	jv4 chu1 bu4 diao4 cha2 liao6 jie3 nv3 hair2 shi4 bei4 yang3 fu4 mu3 jiao4 xvn5 bu2 dang4 kun6 bang3 zhi4 si3
+901146	据王#2自己#1说#3，他曾#2亲手#1扶持了#1若干位#1身家#1过亿的#1富翁#4。
+	jv4 wang2 zi4 ji3 shuo1 ta1 ceng2 qin1 shou3 fu2 chi2 le5 ruo4 gan1 wei4 shen1 jia1 guo4 yi4 de5 fu4 weng1
+901147	对#2林志向的#1观点#3，琼海市#1潭门镇#2福田#1村支书#3黄田春#2深有#1同感#4。
+	dui4 lin2 zhi4 xiang4 de5 guan1 dian3 qiong2 hai3 shi4 tan2 men2 zhen4 fu2 tian2 cun1 zhi1 shu1 huang2 tian2 chun1 shen1 you3 tong2 gan3
+901148	我送桨#2给#1总理后#3，说了#1一番话#3，总理#1鼓掌#3，对我#1说#2“好啊#3，好啊#4”。
+	wo3 song4 jiang6 gei3 zong6 li3 hou4 shuo1 le5 yi4 fan1 hua4 zong6 li3 gu6 zhang3 dui4 wo3 shuo1 hao3 a5 hao3 a5
+901149	养牛的#1少了#3，头些年#2不挣钱#3，老百姓#2都操心#3，梦到#1养牛#2都头疼#4。
+	yang3 niu2 de5 shao3 le5 tou2 xie1 nian2 bu2 zheng4 qian2 lao6 bai3 xing4 dou1 cao1 xin1 meng4 dao4 yang3 niu2 dou1 tou2 teng2
+901150	如果#1司机#1愿意#1接#1这趟#1活儿#3，他就会#1联系#1叫车人#4。
+	ru2 guo3 si1 ji1 yvan4 yi4 jie1 zhe4 tang4 huor2 ta1 jiu4 hui4 lian2 xi4 jiao4 che1 ren2
+901151	可#2接送的#1次数#1多了#3，大人们#1手中的#1活儿#2又被#1耽搁了#4。
+	ke3 jie1 song4 de5 ci4 shu4 duo1 le5 da4 ren5 men5 shou3 zhong1 de5 huor2 you4 bei4 dan1 ge5 le5
+901152	陈某#1表示#2认罪#1悔罪#3，并不停#1抹眼泪#4。
+	chen2 mou6 biao3 shi4 ren4 zui4 hui3 zui4 bing4 bu4 ting2 mo6 yan3 lei4
+901153	他到了#1那儿#1之后#3，应该#1知道#2这就是#1胡万林#4。
+	ta1 dao4 le5 nar4 zhi1 hou4 ying1 gai1 zhi1 dao4 zhe4 jiu4 shi4 hu2 wan4 lin2
+901154	不管#1压力#1从哪儿#1减#3，都不#1应该#2由#1消费者#2来“买单#4”。
+	bu4 guan3 ya1 li4 cong2 nar6 jian3 dou1 bu2 ying1 gai1 you2 xiao1 fei4 zhe3 lai2 mai3 dan1
+901155	一说起#1父亲#3，两姐妹#2好像#1就有#1一肚子的#1话#3不知#1该往#1哪儿说#4。
+	yi4 shuo1 qi3 fu4 qin5 liang6 jie3 mei4 hao3 xiang4 jiu4 you3 yi2 du4 zi3 de5 hua4 bu4 zhi1 gai1 wang6 nar3 shuo1
+901156	以前#2你还#1上学的#1时候#3，买肉#1买菜#2，贴#1对子#3，都是#1你的#1活儿#4。
+	yi3 qian2 ni3 hai2 shang4 xve2 de5 shi2 hou4 mai3 rou4 mai3 cai4 tie1 dui4 zi5 dou1 shi4 ni3 de5 huor2
+901157	几天里#3，他的心#2一直#1绷得#1紧紧的#4。
+	ji3 tian1 li3 ta1 de5 xin1 yi4 zhi2 beng3 de5 jin6 jin3 de5
+901158	卡米拉#2在#1午餐后#3打电话#1给威廉#3，告诉他#3凯特#1太固执#4。
+	ka6 mi3 la1 zai4 wu3 can1 hou4 da3 dian4 hua4 gei3 wei1 lian2 gao4 su4 ta1 kai3 te4 tai4 gu4 zhi5
+901159	说干#1就干#3，大学生们#2拿起#1扫帚#2卖力地#1打扫#4。
+	shuo1 gan4 jiu4 gan4 da4 xve2 sheng1 men5 na2 qi3 sao4 zhou5 mai4 li4 de5 da6 sao3
+901160	除了#1精装修外#3，有的#1房企#1连车位#1都#1捆绑在#1一起#1销售#4。
+	chu2 le5 jing1 zhuang1 xiu1 wai4 you3 de5 fang2 qi3 lian2 che1 wei4 dou1 kun6 bang3 zai4 yi4 qi3 xiao1 shou4
+901161	但#2工作#1之后#3，海归的#1薪水#2就#1显示出#1惊人的#1增长#1幅度#4。
+	dan4 gong1 zuo4 zhi1 hou4 hai3 gui1 de5 xin1 shui5 jiu4 xian3 shi4 chu1 jing1 ren2 de5 zeng1 zhang3 fu2 du4
+901162	说得#1再白#1一点儿#3，加厚#1以后#2就是#1防弹#1玻璃#3，你#1砸砸#4。
+	shuo1 de5 zai4 bai2 yi4 dianr3 jia1 hou4 yi3 hou4 jiu4 shi4 fang2 dan4 bo1 li5 ni3 za2 za5
+901163	每当有#2老教授#3、学生#1去#1他那儿#1修车#3，他总会#2和#1别人#2聊上#1几句#4。
+	mei3 dang1 you6 lao3 jiao4 shou4 xve2 sheng1 qv4 ta1 nar4 xiu1 che1 ta1 zong3 hui4 he2 bie2 ren5 liao2 shang4 ji3 jv4
+901164	四个#1小伙伴#2商量了#1一会儿后#3，决定#1将钱#2交给#1银行#4。
+	si4 ge5 xiao6 huo3 ban4 shang1 liang5 le5 yi2 huir4 hou4 jve2 ding4 jiang1 qian2 jiao1 gei3 yin2 hang2
+901165	后来的#1“大跃进#3”，就是#1一个#1典型的#1例子#3，也是#1一个#1惨痛的#1教训#4。
+	hou4 lai2 de5 da4 yve4 jin4 jiu4 shi4 yi2 ge5 dian3 xing2 de5 li4 zi5 ye3 shi4 yi2 ge5 can3 tong4 de5 jiao4 xvn5
+901166	为#1逃避#3，他#1再次#1走进了#2三瓦窑#2派出所#4。
+	wei4 tao2 bi4 ta1 zai4 ci4 zou3 jin4 le5 san1 wa3 yao2 pai4 chu1 suo3
+901167	司机见#2有人#1质疑#1他酒驾#3，当即#1摇摇#1晃晃#2要#1跑离#1现场#4。
+	si1 ji1 jian4 you3 ren2 zhi4 yi2 ta1 jiu3 jia4 dang1 ji2 yao2 yao2 huang4 huang4 yao4 pao3 li2 xian4 chang3
+901168	也不怪#1老李#1发火#3，老#1小区的#1楼道#2本来#1就窄小#3，加上#2通风#1不畅#4。
+	ye3 bu2 guai4 lao6 li3 fa1 huo3 lao6 xiao3 qv1 de5 lou2 dao4 ben3 lai2 jiu4 zhai6 xiao3 jia1 shang4 tong1 feng1 bu2 chang4
+901169	万一#2她#1出事了#3，我#1无法向#2卜阳玲#1交待#4。
+	wan4 yi1 ta1 chu1 shi4 le5 wo3 wu2 fa3 xiang4 bu3 yang2 ling2 jiao1 dai4
+901170	据#2国家#1规定#3，亚硝酸盐#2不允许#1添加在#1生鲜肉#3、冷冻肉等#1食品中#4。
+	jv4 guo2 jia1 gui1 ding4 ya4 xiao1 suan1 yan2 bu4 yvn6 xv3 tian1 jia1 zai4 sheng1 xian1 rou4 leng3 dong4 rou4 deng3 shi2 pin3 zhong1
+901171	停下#1脚步#1一看#3，耳机线#2垂到了#1地上#4。
+	ting2 xia4 jiao3 bu4 yi2 kan4 er3 ji1 xian4 chui2 dao4 le5 di4 shang5
+901172	决定#2给予#1谭某#2开除#1处分#3，责令#1学校#2与其#1解除#2聘用#1合同#4。
+	jve2 ding4 ji6 yv3 tan2 mou3 kai1 chu2 chu3 fen4 ze2 ling4 xve2 xiao4 yv3 qi2 jie3 chu2 pin4 yong4 he2 tong5
+901173	一天#2两个#1来回#3，路上#1多少坑#3，哪儿#1好走#3，他都#1摸得#1清楚#4。
+	yi4 tian1 liang3 ge4 lai2 hui2 lu4 shang4 duo1 shao3 keng1 nar3 hao6 zou3 ta1 dou1 mo1 de5 qing1 chu5
+901174	对方#1说#3，是#2扮演#1一名#3吴姓#1著名#1演员#2所演#1主角的#1妹妹#4。
+	dui4 fang1 shuo1 shi4 ban4 yan3 yi4 ming2 wu2 xing4 zhu4 ming2 yan3 yvan2 suo6 yan3 zhu3 jve2 de5 mei4 mei5
+901175	在#2当今#1时代#3，无论#1去哪儿#1旅游#3，游客#1都应#1加强#2防范#1意识#4。
+	zai4 dang1 jin1 shi2 dai4 wu2 lun4 qv4 nar6 lv3 you2 you2 ke4 dou1 ying1 jia1 qiang2 fang2 fan4 yi4 shi5
+901176	为了#1把欠的#1“情债#1”还清#3，萍萍#1答应了#1余某#2卖掉#1自己的#1一个肾#4。
+	wei4 le5 ba3 qian4 de5 qing2 zhai4 huan2 qing1 ping2 ping5 da1 ying4 le5 yv2 mou3 mai4 diao4 zi4 ji3 de5 yi2 ge5 shen4
+901177	等#2阿俊#1走了#3，表妹#1欲言又止#3，终于#1吞吞吐吐地#2说了#1实话#4。
+	deng3 a1 jvn4 zou3 le5 biao3 mei4 yv4 yan2 you4 zhi3 zhong1 yv2 tun1 tun5 tu6 tu3 de5 shuo1 le5 shi2 hua4
+901178	小秦#1说#3，这笔钱#2都#1抵得上#2他们家#2两三年的#1开销了#4。
+	xiao3 qin2 shuo1 zhe4 bi3 qian2 dou1 di3 de5 shang4 ta1 men5 jia1 liang3 san1 nian2 de5 kai1 xiao1 le5
+901179	不时有#1挑夫到#1阴凉处#1歇息#3，捧起#1瓶子#1就往#1肚里#1灌水#4。
+	bu4 shi2 you3 tiao1 fu1 dao4 yin1 liang2 chu4 xie1 xi5 peng6 qi3 ping2 zi5 jiu4 wang3 du4 li3 guan4 shui3
+901180	面对#2妻子的#1质问#3，罗强#1倒#2爽快地#1承认了#4。
+	mian4 dui4 qi1 zi3 de5 zhi4 wen4 luo2 qiang2 dao4 shuang3 kuai5 de5 cheng2 ren4 le5
+901181	从#1北门#2沿着#1围墙#2到#1这棵#1槐树下#3，一溜儿#1全是#1卖香的#1摊位#4。
+	cong2 bei3 men2 yan2 zhe5 wei2 qiang2 dao4 zhe4 ke1 huai2 shu4 xia4 yi2 liur4 qvan2 shi4 mai4 xiang1 de5 tan1 wei4
+901182	这是#1因为#2他#1泄气了#3，因此#1在#1这点上#3就不要#1难为#1他了#4。
+	zhe4 shi4 yin1 wei4 ta1 xie4 qi4 le5 yin1 ci3 zai4 zhe4 dian3 shang4 jiu4 bu2 yao4 nan2 wei2 ta1 le5
+901183	不管#1怎么说#3，政府#1上微博#3，是件#2值得#1赞赏的#1事儿#4。
+	bu4 guan6 zen3 me5 shuo1 zheng4 fu3 shang4 wei1 bo2 shi4 jian4 zhi2 de2 zan4 shang3 de5 shir4
+901184	问到#2自己的#1孩子#3，肖超华#2稍#1沉默了#1一会儿#4。
+	wen4 dao4 zi4 ji3 de5 hai2 zi5 xiao4 chao1 hua2 shao1 chen2 mo4 le5 yi2 huir4
+901185	揣着#1几盒药#3，火车#2又将#1袁硕#1一家#3带回#1太原#4。
+	chuai1 zhe5 ji3 he2 yao4 huo3 che1 you4 jiang1 yvan2 shuo4 yi4 jia1 dai4 hui2 tai4 yvan2
+901186	不会选的#1人#3容易#1买到#1假品#3，看似#1便宜#3实际#1被骗了#4。
+	bu2 hui4 xvan3 de5 ren2 rong2 yi4 mai3 dao4 jia6 pin3 kan4 si4 pian2 yi5 shi2 ji4 bei4 pian4 le5
+901187	在#1空中#3，翁秀英#1双眼#2一直#1望着#1窗外#3，寻找着#1自己的#1家乡#4。
+	zai4 kong1 zhong1 weng1 xiu4 ying1 shuang1 yan3 yi4 zhi2 wang4 zhe5 chuang1 wai4 xvn2 zhao3 zhe5 zi4 ji3 de5 jia1 xiang1
+901188	由于#1是#1孤寡老人#3，街道#1安排#1她去#1敬老院#3，但#1老人#2不愿去#4。
+	you2 yv2 shi4 gu1 gua6 lao3 ren2 jie1 dao4 an1 pai2 ta1 qv4 jing4 lao3 yvan4 dan4 lao3 ren2 bu2 yvan4 qv4
+901189	答应后#3，从没有#1离开过#1家乡的#1塞某#3被#1拐骗到#2四川#1成都#4。
+	da1 ying5 hou4 cong2 mei2 you3 li2 kai1 guo4 jia1 xiang1 de5 sai4 mou3 bei4 guai3 pian4 dao4 si4 chuan1 cheng2 du1
+901190	另据#2新华网#1当日#1报道#3，辽宁省#1教育厅#2尚未#1介入#1调查#1此事#4。
+	ling4 jv4 xin1 hua2 wang3 dang4 ri4 bao4 dao4 liao2 ning2 sheng3 jiao4 yv4 ting1 shang4 wei4 jie4 ru4 diao4 cha2 ci3 shi4
+901191	永保#1一江#1净水#1北送#3，这是#1政府的#1态度#3，也是#2库区#1人民的#1心愿#4。
+	yong6 bao3 yi4 jiang1 jing4 shui6 bei3 song4 zhe4 shi4 zheng4 fu3 de5 tai4 du5 ye3 shi4 ku4 qv1 ren2 min2 de5 xin1 yvan4
+901192	中午#1时候#3，很适合#1外出#2晒晒#1太阳#3，做些#1户外#1活动#4。
+	zhong1 wu3 shi2 hou5 hen3 shi4 he2 wai4 chu1 shai4 shai5 tai4 yang5 zuo4 xie1 hu4 wai4 huo2 dong4
+901193	哥哥#1半夜#1醒来#3，妹妹#1刚好#1也醒着#3，就决定#2带她#1去兜风#4。
+	ge1 ge5 ban4 ye4 xing3 lai2 mei4 mei5 gang1 hao3 ye6 xing3 zhe5 jiu4 jve2 ding4 dai4 ta1 qv4 dou1 feng1
+901194	尸体#1在那儿#1挂着#3，晚上#1不吓死#3，后来都#2习惯了#3，习惯#1就没#1感觉了#4。
+	shi1 ti3 zai4 nar4 gua4 zhe5 wan3 shang5 bu2 xia4 si3 hou4 lai2 dou1 xi2 guan4 le5 xi2 guan4 jiu4 mei2 gan3 jve2 le5
+901195	据#2王雅敏#1介绍#3，类似的#2托管#1机构#3，在#1长沙市#1城区#1大量#1存在#4。
+	jv4 wang2 ya6 min3 jie4 shao4 lei4 si4 de5 tuo1 guan3 ji1 gou4 zai4 chang2 sha1 shi4 cheng2 qv1 da4 liang4 cun2 zai4
+901196	我说#3，娃娃#1如果#1很乖#3，爸爸#1就会#1飞过来#1看娃娃#4。
+	wo3 shuo1 wa2 wa5 ru2 guo6 hen3 guai1 ba4 ba5 jiu4 hui4 fei1 guo4 lai2 kan4 wa2 wa5
+901198	我本来#2就是#1做学问的#3，一直#1都没有#1放松#2学术#1研究#4。
+	wo6 ben3 lai2 jiu4 shi4 zuo4 xve2 wen5 de5 yi4 zhi2 dou1 mei2 you3 fang4 song1 xve2 shu4 yan2 jiu1
+901200	李四#1拿起#1筷子#3，夹了#1一长串#2牛百叶#3，咬起来#2觉得#1好脆#4。
+	li3 si4 na2 qi3 kuai4 zi5 jia1 le5 yi4 chang2 chuan4 niu2 bai3 ye4 yao6 qi3 lai2 jve2 de5 hao3 cui4
+901201	尽管他#3“不会#1辞职”的#1表态#2犹在#1耳边#3，但#2乌克兰#1议会#2却不#1答应#4。
+	jin6 guan3 ta1 bu2 hui4 ci2 zhi2 de5 biao3 tai4 you2 zai4 er3 bian1 dan4 wu1 ke4 lan2 yi4 hui4 qve4 bu4 da1 ying5
+901202	女孩儿#1叫#2张芝敏#3，贵州#1织金县#2野猫寨#1人#4。
+	nv3 hair2 jiao4 zhang1 zhi1 min3 gui4 zhou1 zhi1 jin1 xian4 ye3 mao1 zhai4 ren2
+901203	小耿#2在#2砍伤#1两人后#3，揣着刀#2逃离了#1现场#4。
+	xiao6 geng3 zai4 kan3 shang1 liang3 ren2 hou4 chuai1 zhe5 dao1 tao2 li2 le5 xian4 chang3
+901204	医生说#3，艳艳#2是个#1脑瘫儿#3，治不好#4。
+	yi1 sheng1 shuo1 yan4 yan5 shi4 ge4 nao3 tan1 er2 zhi4 bu5 hao3
+901205	这不#1结了#3，当心把#1刘大爷#1惹火了#3赏你#1几颗#1弹弹#4。
+	zhe4 bu4 jie2 le5 dang1 xin1 ba3 liu2 da4 ye5 re6 huo3 le5 shang6 ni6 ji3 ke1 dan4 dan5
+901206	如果#1政府#2不来#1救我#3，那么#1我垮了#3，就会把#2温州#1整个#1经济#1拉跨#4。
+	ru2 guo3 zheng4 fu3 bu4 lai2 jiu4 wo3 na4 me5 wo6 kua3 le5 jiu4 hui4 ba3 wen1 zhou1 zheng3 ge4 jing1 ji4 la1 kua4
+901207	她说#1那儿#2不像#1家#3，没有#1家的#1感觉#4。
+	ta1 shuo1 nar4 bu2 xiang4 jia1 mei2 you3 jia1 de5 gan3 jve2
+901208	到庭的#1张静#2苗条#1文弱#3，神情#1略显#1冰冷#4。
+	dao4 ting2 de5 zhang1 jing4 miao2 tiao2 wen2 ruo4 shen2 qing2 lve4 xian3 bing1 leng3
+901209	在#2众多的#1犬舍中#3，一排#2采钢板#1结构的#1蓝色#1犬舍#3引起#1记者#1注意#4。
+	zai4 zhong4 duo1 de5 qvan3 she4 zhong1 yi4 pai2 cai3 gang1 ban3 jie2 gou4 de5 lan2 se4 qvan3 she4 yin6 qi3 ji4 zhe3 zhu4 yi4
+901210	不要#1自行#1涂抹#2一些#1药物#2或#1食品#3，如#1牙膏#2、酱油#3、面粉#2、小苏打等#4。
+	bu2 yao4 zi4 xing2 tu2 mo3 yi4 xie1 yao4 wu4 huo4 shi2 pin3 ru2 ya2 gao1 jiang4 you2 mian4 fen6 xiao3 su1 da6 deng3
+901211	通过#1这些#1引领#3，使#2耍赖者#2少耍赖#3，救助者#2少点#1麻烦#4。
+	tong1 guo4 zhe4 xie1 yin6 ling3 shi3 shua3 lai4 zhe3 shao6 shua3 lai4 jiu4 zhu4 zhe3 shao6 dian3 ma2 fan5
+901212	八是#2坚定#1信心#3、振奋#1精神#3，重塑#1山西#1改革#1发展#1稳定的#2新形象#4。
+	ba1 shi4 jian1 ding4 xin4 xin1 zhen4 fen4 jing1 shen2 chong2 su4 shan1 xi1 gai3 ge2 fa1 zhan6 wen3 ding4 de5 xin1 xing2 xiang4
+901213	但#2特朗普#1说#3，自己#1准备好#2接受#1监督#4。
+	dan4 te4 lang6 pu3 shuo1 zi4 ji6 zhun3 bei4 hao3 jie1 shou4 jian1 du1
+901214	事后#2她才#1知道#3，被#1卷起的#2是#1动物园的#2饲养员#4。
+	shi4 hou4 ta1 cai2 zhi1 dao4 bei4 jvan6 qi3 de5 shi4 dong4 wu4 yvan2 de5 si4 yang3 yvan2
+901215	据#2王林#2称#3，他拥有#2香港#2永久#1居民#1身份#4。
+	jv4 wang2 lin2 cheng1 ta1 yong1 you3 xiang1 gang3 yong6 jiu3 jv1 min2 shen1 fen4
+901216	这两天#3，赶早#3，你#1还能在#2荷花#1塘边#3，看到#2这个#1小人儿#4。
+	zhe4 liang3 tian1 gan6 zao3 ni3 hai2 neng2 zai4 he2 hua1 tang2 bian1 kan4 dao4 zhe4 ge5 xiao3 renr2
+901217	就拿#1打拐#1来说#3，拐卖#1儿童#3，逼迫#1未成年人#1行乞#3，是#2人性#1大恶#4。
+	jiu4 na2 da6 guai3 lai2 shuo1 guai3 mai4 er2 tong2 bi1 po4 wei4 cheng2 nian2 ren2 xing2 qi3 shi4 ren2 xing4 da4 e4
+901218	不知道#2这个人#3，葫芦里#2卖的#1是啥药#4。
+	bu4 zhi1 dao4 zhe4 ge5 ren2 hu2 lu5 li3 mai4 de5 shi4 sha2 yao4
+901219	在#2翁佳年的#1脑海里#3，翁家山#1小学的#1模样#3清清楚楚#4。
+	zai4 weng1 jia1 nian2 de5 nao6 hai6 li3 weng1 jia1 shan1 xiao3 xve2 de5 mu2 yang4 qing1 qing1 chu6 chu3
+901220	望#2我们的#1国家#1富强#3，人民#1幸福#3，社会#1稳定#4。
+	wang4 wo3 men5 de5 guo2 jia1 fu4 qiang2 ren2 min2 xing4 fu2 she4 hui4 wen3 ding4
+901221	坐在#1水边#2却#1看不见#1鱼#3，总觉得#1别扭#4。
+	zuo4 zai4 shui3 bian1 qve4 kan4 bu5 jian4 yv2 zong3 jve2 de5 bie4 niu5
+901222	穷人#1帮#1穷人#3，造成#2帮她的#1人#2更穷#3，这是#1不义#4。
+	qiong2 ren2 bang1 qiong2 ren2 zao4 cheng2 bang1 ta1 de5 ren2 geng4 qiong2 zhe4 shi4 bu2 yi4
+901223	他#1爽快地#2交了#1房租#3，马某#2则继续#1去敲#2下一家的#1门#4。
+	ta1 shuang3 kuai4 de5 jiao1 le5 fang2 zu1 ma6 mou3 ze2 ji4 xv4 qv4 qiao1 xia4 yi4 jia1 de5 men2
+901224	事成后#3，张博强#2和#1众弟兄#3各得#1酬劳#4。
+	shi4 cheng2 hou4 zhang1 bo2 qiang2 he2 zhong4 di4 xiong5 ge4 de2 chou2 lao2
+901225	不#2疲劳#1驾驶#3，也不要#2打#1休闲#1牙祭#3，疲劳#1玩耍#4。
+	bu4 pi2 lao2 jia4 shi3 ye3 bu2 yao4 da3 xiu1 xian2 ya2 ji4 pi2 lao2 wan2 shua3
+901226	她虽然#2最终#2获#2撤销#1控罪#3，但她#1仍然#1感到#2十分#1冤枉#4。
+	ta1 sui1 ran2 zui4 zhong1 huo4 che4 xiao1 kong4 zui4 dan4 ta1 reng2 ran2 gan3 dao4 shi2 fen1 yvan1 wang5
+901227	不料#3解开#1束缚的#1狗#2立刻#1发狂#3，直接#1扑向她#2进行#1撕咬#4。
+	bu2 liao4 jie3 kai1 shu4 fu4 de5 gou3 li4 ke4 fa1 kuang2 zhi2 jie1 pu1 xiang4 ta1 jin4 xing2 si1 yao3
+901228	由于#1大家#1都很穷#3，出事后#3，她和#1一些#1亲戚#2凑钱#2买了#1两口#1棺材#4。
+	you2 yv2 da4 jia1 dou1 hen3 qiong2 chu1 shi4 hou4 ta1 he2 yi4 xie1 qin1 qi5 cou4 qian2 mai3 le5 liang6 kou3 guan1 cai5
+901229	除#2知名#1景区外#3，一些#1公园#2也在#2蠢蠢欲动#4。
+	chu2 zhi1 ming2 jing3 qv1 wai4 yi4 xie1 gong1 yvan2 ye3 zai4 chun6 chun3 yv4 dong4
+901230	如果#1我们#2慢慢腾腾#3，与#2发达#1地区的#1差距#2只会#1越拉#1越大#4。
+	ru2 guo6 wo3 men5 man4 man4 teng2 teng2 yv3 fa1 da2 di4 qv1 de5 cha1 jv4 zhi3 hui4 yve4 la1 yve4 da4
+901231	警察#1感叹#1说#3，老翁#1若愿意#1面对#1法律#3，也许#1就不会#2活活#1饿死#4。
+	jing3 cha2 gan3 tan4 shuo1 lao3 weng1 ruo4 yvan4 yi5 mian4 dui4 fa3 lv4 ye6 xv3 jiu4 bu2 hui4 huo2 huo2 e4 si3
+901232	地震#1来临时#3，六个#1家庭的#1房屋#3出现#1不同#1程度的#1损毁#4。
+	di4 zhen4 lai2 lin2 shi2 liu4 ge4 jia1 ting2 de5 fang2 wu1 chu1 xian4 bu4 tong2 cheng2 du4 de5 sun6 hui3
+901233	养牛场#2、养鸡场#1等#2得到#2大量#1补贴#4。
+	yang3 niu2 chang3 yang3 ji1 chang6 deng3 de2 dao4 da4 liang4 bu3 tie1
+901234	经#2交警#1认定#3，行人#1叶某#2负#1主要#1责任#3，史先生#2负#1次要#1责任#4。
+	jing1 jiao1 jing3 ren4 ding4 xing2 ren2 ye4 mou3 fu4 zhu3 yao4 ze2 ren4 shi3 xian1 sheng5 fu4 ci4 yao5 ze2 ren4
+901236	会场#2候选地#3包括#2福岛#1县政府#3、知事#1公舍等#4。
+	hui4 chang3 hou4 xvan3 di4 bao1 kuo4 fu2 dao3 xian4 zheng4 fu3 zhi1 shi4 gong1 she4 deng3
+901237	如果#2去那儿#1加油#3，三马子#2来回#1一趟#3一箱油#2就#1用完了#3，得不偿失#4。
+	ru2 guo3 qv4 nar4 jia1 you2 san1 ma3 zi5 lai2 hui2 yi2 tang4 yi4 xiang1 you2 jiu4 yong4 wan2 le5 de2 bu4 chang2 shi1
+901238	她说#3，她将#1这钱#2都拿去#1给#1流浪#1狗儿#2猫儿#2治病了#4。
+	ta1 shuo1 ta1 jiang1 zhe4 qian2 dou1 na2 qv4 gei3 liu2 lang4 gour3 maor1 zhi4 bing4 le5
+901239	对#2这起#1错案的#1发生#3，我们#1深感#1痛心#3、愧疚#2和#1自责#3，教训#2十分#1深刻#4。
+	dui4 zhe4 qi3 cuo4 an4 de5 fa1 sheng1 wo3 men5 shen1 gan3 tong4 xin1 kui4 jiu4 he2 zi4 ze2 jiao4 xvn5 shi2 fen1 shen1 ke4
+901240	他#2耳朵#1有些背#3，只有#2大声#1和他#1说话#2才能#1听见#4。
+	ta1 er6 duo5 you3 xie1 bei4 zhi6 you3 da4 sheng1 he2 ta1 shuo1 hua4 cai2 neng2 ting1 jian4
+901241	为#2逃避#1追查#3，他将#2手机卡#1掰坏#3悄悄#1扔在了#1路边#4。
+	wei4 tao2 bi4 zhui1 cha2 ta1 jiang1 shou3 ji1 ka3 bai1 huai4 qiao1 qiao1 reng1 zai4 le5 lu4 bian1
+901242	咬着牙#3，摇脑袋#3，揉眼睛#3，起床后的#1徐嘉祥#3努力#1让自己#1清醒#4。
+	yao3 zhe5 ya2 yao2 nao3 dai5 rou2 yan3 jing5 qi3 chuang2 hou4 de5 xv2 jia1 xiang2 nu3 li4 rang4 zi4 ji3 qing1 xing3
+901243	他拄着#1拐杖#3，一瘸#1一拐地#2提前#1两天#2赶到#1学校#3，安排#1开学#1事宜#4。
+	ta1 zhu3 zhe5 guai3 zhang4 yi4 qve2 yi4 guai3 de5 ti2 qian2 liang3 tian1 gan3 dao4 xve2 xiao4 an1 pai2 kai1 xve2 shi4 yi2
+901245	只要#1有时间#3，大家#1都会到#3，还会#1邀请#2当年的#1老师#1一块儿#2叙叙旧#4。
+	zhi3 yao4 you3 shi2 jian1 da4 jia1 dou1 hui4 dao4 hai2 hui4 yao1 qing3 dang1 nian2 de5 lao3 shi1 yi2 kuair4 xv4 xv4 jiu4
+901246	她说#3，后来#1姥姥#2年龄#1大了#3，听力#1变差#3，她就#1附在#2姥姥#1耳畔#2唱几句#4。
+	ta1 shuo1 hou4 lai2 lao3 lao5 nian2 ling2 da4 le5 ting1 li4 bian4 cha4 ta1 jiu4 fu4 zai4 lao3 lao5 er3 pan4 chang4 ji3 jv4
+901247	相对#2机构#1数量#3，环评师的#1人数#2却#1并不#1富余#4。
+	xiang1 dui4 ji1 gou4 shu4 liang4 huan2 ping2 shi1 de5 ren2 shu4 qve4 bing4 bu2 fu4 yv2
+901248	周末#2只要#1有空#3，他就会#1带儿子#1去图书馆#2、书院门等#1地方#4。
+	zhou1 mo4 zhi3 yao4 you3 kong4 ta1 jiu4 hui4 dai4 er5 zi3 qv4 tu2 shu1 guan3 shu1 yvan4 men2 deng3 di4 fang1
+901249	小店#2即使#1要公示#3，还是#1将面部#2用#1马赛克#1抹去#2较为#1妥当#4。
+	xiao3 dian4 ji2 shi3 yao4 gong1 shi4 hai2 shi5 jiang1 mian4 bu4 yong4 ma3 sai4 ke4 mo3 qv4 jiao4 wei2 tuo3 dang4
+901250	一进入#1体制内#3，陈生#1觉得#2公务员#2也#1不适合#1自己#3，他又#2蠢蠢欲动#4。
+	yi2 jin4 ru4 ti3 zhi4 nei4 chen2 sheng1 jve2 de5 gong1 wu4 yvan2 ye3 bu2 shi4 he2 zi4 ji3 ta1 you4 chun6 chun3 yv4 dong4
+901251	其他#1餐厅#2虽允许#2自带#1酒水#3，但却#1需要#2单加钱#4。
+	qi2 ta1 can1 ting1 sui1 yvn6 xv3 zi4 dai4 jiu6 shui3 dan4 qve4 xv1 yao4 dan1 jia1 qian2
+901252	五姐妹#1说#3，医院#1于#2当天#1下午#3要求#1母亲#1出院#4。
+	wu6 jie3 mei4 shuo1 yi1 yvan4 yv2 dang4 tian1 xia4 wu3 yao1 qiu2 mu3 qin1 chu1 yvan4
+901253	一天后#3，在#2仔仔的#1陪同下#3，曾某#2向#1广州#1珠海#1警方#2投案#1自首#4。
+	yi4 tian1 hou4 zai4 zai6 zai3 de5 pei2 tong2 xia4 zeng1 mou3 xiang4 guang3 zhou1 zhu1 hai6 jing3 fang1 tou2 an4 zi4 shou3
+901254	我呢#3，那就在#2地球#1重力#1作用下#3，爱#1停哪儿#1停哪儿#4。
+	wo3 ne5 na4 jiu4 zai4 di4 qiu2 zhong4 li4 zuo4 yong4 xia4 ai4 ting2 nar3 ting2 nar3
+901255	为#1装病#3，刘宏#2咬紧牙关#2节食#1半年#3，瘦得#1只剩#1皮包#1骨头#4。
+	wei4 zhuang1 bing4 liu2 hong2 yao6 jin3 ya2 guan1 jie2 shi2 ban4 nian2 shou4 de5 zhi3 sheng4 pi2 bao1 gu3 tou5
+901256	家里#1停电了#3，晚上#2还#1不知道#2去哪儿#1安顿#4。
+	jia1 li3 ting2 dian4 le5 wan3 shang5 hai2 bu4 zhi1 dao4 qv4 nar3 an1 dun4
+901257	他们#1就把#2自个儿的#1家#3“武装”了#1起来#4。
+	ta1 men5 jiu4 ba3 zi4 ger3 de5 jia1 wu3 zhuang1 le5 qi3 lai2
+901258	港府#1强调#3，会#2继续#1奉行#2简约#1施政的#1原则#3，避免#1奢华#4。
+	gang6 fu3 qiang2 diao4 hui4 ji4 xv4 feng4 xing2 jian3 yve1 shi1 zheng4 de5 yvan2 ze2 bi4 mian3 she1 hua2
+901259	最起码#3，要先#2咨询#1一下#2专业#1人士#3，不要#1闹出#1笑话#4。
+	zui4 qi6 ma3 yao4 xian1 zi1 xvn2 yi2 xia4 zhuan1 ye4 ren2 shi4 bu2 yao4 nao4 chu1 xiao4 hua5
+901260	鉴于#2冀中#1星的#2身体#1情况#3，法庭#2特别#1准许#1其#2躺着#1说话#4。
+	jian4 yv2 ji4 zhong1 xing1 de5 shen1 ti3 qing2 kuang4 fa3 ting2 te4 bie2 zhun6 xv3 qi2 tang3 zhe5 shuo1 hua4
+901261	鉴于#2被告人的#1身体#1状况#3，审判长#2允许#1其#2坐着#1说话#4。
+	jian4 yv2 bei4 gao4 ren2 de5 shen1 ti3 zhuang4 kuang4 shen3 pan4 zhang3 yvn6 xv3 qi2 zuo4 zhe5 shuo1 hua4
+901262	等到#2走进#1里边#3，眼前#1一片#2极其#1破败#1、肮脏#1景象#3，把他们#2吓了#1出来#4。
+	deng3 dao4 zou3 jin4 li3 bian1 yan3 qian2 yi2 pian4 ji2 qi2 po4 bai4 ang1 zang1 jing3 xiang4 ba3 ta1 men5 xia4 le4 chu1 lai5
+901263	完整#1鸭蛋#2煮熟#1去壳后#1有弹性#3，还#1散发着#1一股#2化学#1制剂#1气味#4。
+	wan2 zheng3 ya1 dan4 zhu3 shu2 qv4 ke2 hou4 you3 tan2 xing4 hai2 san4 fa1 zhe5 yi4 gu3 hua4 xve2 zhi4 ji4 qi4 wei4
+901264	记者#2从#1图片上#1看到#3，面包#1霉变#1严重#3，已经#2呈#2青绿色#3，令人#1作呕#4。
+	ji4 zhe3 cong2 tu2 pian4 shang4 kan4 dao4 mian4 bao1 mei2 bian4 yan2 zhong4 yi3 jing1 cheng2 qing1 lv4 se4 ling4 ren2 zuo4 ou3
+901265	人到#1七十#3，刘深灵#2还#1很有#1干劲儿#4。
+	ren2 dao4 qi1 shi2 liu2 shen1 ling2 hai2 hen6 you3 gan4 jinr4
+901266	水面#1之下#3建有#2“水下#1辽金#1遗址#2展览馆#4”。
+	shui3 mian4 zhi1 xia4 jian4 you6 shui3 xia4 liao2 jin1 yi2 zhi3 zhan6 lan6 guan3
+901267	医生#1还发现#3，他的#1一只#1耳朵#2和#1手臂上#3还有#1被人#2撕咬的#1痕迹#4。
+	yi1 sheng1 hai2 fa1 xian4 ta1 de5 yi4 zhi1 er3 duo5 he2 shou3 bi4 shang4 hai2 you3 bei4 ren2 si1 yao3 de5 hen2 ji4
+901268	怕#1该男子#1出事#3，民警#1将他#1扶上#1警车#3带到#2交巡警#1平台#1醒酒#4。
+	pa4 gai1 nan2 zi3 chu1 shi4 min2 jing3 jiang1 ta1 fu2 shang4 jing3 che1 dai4 dao4 jiao1 xvn2 jing3 ping2 tai2 xing6 jiu3
+901269	剥开#1胶囊#3，有#2黄绿色#2粉末状#1物质#4。
+	bao1 kai1 jiao1 nang2 you3 huang2 lv4 se4 fen3 mo4 zhuang4 wu4 zhi4
+901270	轮到#1休息时#3，他都会#2跑出去#1喘口气#3，做个#1深呼吸#1再回来#4。
+	lun2 dao4 xiu1 xi5 shi2 ta1 dou1 hui4 pao3 chu1 qv5 chuan6 kou3 qi4 zuo4 ge5 shen1 hu1 xi1 zai4 hui2 lai5
+901271	如果#1可能的#1话#3，你#1可以去#2中纪委#1查查#4。
+	ru2 guo6 ke3 neng2 de5 hua4 ni3 ke6 yi3 qv4 zhong1 ji4 wei3 cha2 cha5
+901272	在#2同事#1眼中#3，颜艳红#2人#2还算#1漂亮#3，她#1喜欢#1打扮#3，希望#2嫁个#1有钱人#4。
+	zai4 tong2 shi4 yan3 zhong1 yan2 yan4 hong2 ren2 hai2 suan4 piao4 liang5 ta1 xi3 huan1 da3 ban5 xi1 wang4 jia4 ge5 you3 qian2 ren2
+901273	三四#1年前#3，我们家#2生#1闺女时#2就#1找过她#3，当时#1对她的#1印象#2挺好的#4。
+	san1 si4 nian2 qian2 wo3 men5 jia1 sheng1 gui1 nv5 shi2 jiu4 zhao3 guo4 ta1 dang1 shi2 dui4 ta1 de5 yin4 xiang4 ting6 hao3 de5
+901274	而#2斯彭斯#1认为#3，中国#1已经#1过了#2刘易斯#1拐点#3，人口#1红利#1将消失#4。
+	er2 si1 peng2 si1 ren4 wei2 zhong1 guo2 yi3 jing1 guo4 le5 liu2 yi4 si1 guai6 dian3 ren2 kou3 hong2 li4 jiang1 xiao1 shi1
+901275	由于#2时间#1仓促#3，出现在#2人们#1面前的#2娃欧#1商场#3像个#1丑小鸭#4。
+	you2 yv2 shi2 jian1 cang1 cu4 chu1 xian4 zai4 ren2 men5 mian4 qian2 de5 wa2 ou1 shang1 chang3 xiang4 ge4 chou6 xiao3 ya1
+901276	她们#1说#3，她们就#2指望着#1彼此#1活下去#4。
+	ta1 men5 shuo1 ta1 men5 jiu4 zhi3 wang4 zhe5 bi6 ci3 huo2 xia4 qv4
+901278	她#1舍弃了#1钱包#3，死死#1护住了#1准考证#4。
+	ta1 she3 qi4 le5 qian2 bao1 si6 si3 hu4 zhu4 le5 zhun6 kao3 zheng4
+901279	在#1网上#3，两人#1比较#1聊得来#3，郑先生#1把她#1当#1妹妹看#4。
+	zai4 wang3 shang5 liang3 ren2 bi3 jiao4 liao2 de5 lai2 zheng4 xian1 sheng5 ba3 ta1 dang1 mei4 mei5 kan4
+901280	一进#1工地#3，就跟#2蹲小号#1似的#3，有没有#1活儿#2都得#1等着#3，出不来#4。
+	yi2 jin4 gong1 di4 jiu4 gen1 dun1 xiao3 hao4 shi4 de5 you3 mei2 you3 huor2 dou1 dei6 deng3 zhe5 chu1 bu4 lai2
+901281	饭局#1多了#3，刘刚#2还总结了#1一套#2饭桌#1上的#1学问#4。
+	fan4 jv2 duo1 le5 liu2 gang1 hai2 zong3 jie2 le5 yi2 tao4 fan4 zhuo1 shang4 de5 xve2 wen4
+901282	经过#1医生#1检查#3，洋洋的#1耳朵里#3被塞入#1一枚#1异物#3，疑似#1纽扣#4。
+	jing1 guo4 yi1 sheng1 jian3 cha2 yang2 yang5 de5 er3 duo5 li3 bei4 sai1 ru4 yi4 mei2 yi4 wu4 yi2 si4 niu3 kou4
+901283	她笑说#3现对#1剪辑#1有兴趣#3，开玩笑#1说#3看#1是否有#1导演#2要#1请她#1剪辑#4。
+	ta1 xiao4 shuo1 xian4 dui4 jian3 ji2 you3 xing4 qv4 kai1 wan2 xiao4 shuo1 kan4 shi4 fou6 you3 dao6 yan3 yao4 qing3 ta1 jian3 ji2
+901284	李秀荣#1虽然#1结过婚#3，但没有#2生育过#1儿女#3，老伴#1过世后#3孤寡#1至今#4。
+	li3 xiu4 rong2 sui1 ran2 jie2 guo4 hun1 dan4 mei2 you3 sheng1 yv4 guo4 er2 nv3 lao3 ban4 guo4 shi4 hou4 gu1 gua3 zhi4 jin1
+901285	她#1永远#1不会#1知道#3，这笔钱#2每次#1都被#1偷偷#2退了#1回去#4。
+	ta1 yong6 yvan3 bu2 hui4 zhi1 dao4 zhe4 bi3 qian2 mei3 ci4 dou1 bei4 tou1 tou1 tui4 le5 hui2 qv4
+901286	夫生#1日日#1说恩情#3，未死#1又随#1人去也#4。
+	fu1 sheng1 ri4 ri4 shuo1 en1 qing2 wei4 si3 you4 sui2 ren2 qv4 ye3
+901287	为了#1不让#1生猪#1被烤成#2“铁板烧#3”，工人们#2又是#1浇水#3，又是#1割耳朵#4。
+	wei4 le5 bu2 rang4 sheng1 zhu1 bei4 kao3 cheng2 tie6 ban3 shao1 gong1 ren2 men5 you4 shi4 jiao1 shui3 you4 shi4 ge1 er3 duo5
+901288	一查#1下来#3，发现钱#2还在#1班主任#1那儿#4。
+	yi4 cha2 xia4 lai2 fa1 xian4 qian2 hai2 zai4 ban1 zhu3 ren4 nar4
+901289	她#1一动不动#3，只是#1眼睛#2呆呆地#2看着#1易大爷#4。
+	ta1 yi2 dong4 bu2 dong4 zhi3 shi4 yan3 jing5 dai1 dai1 de5 kan4 zhe5 yi4 da4 ye5
+901290	小民#2若非#1翘首苦#3，何故#1望梅#1费思量#4。
+	xiao3 min2 ruo4 fei1 qiao4 shou6 ku3 he2 gu4 wang4 mei2 fei4 si1 liang5
+901291	子夜#1时分#3，月亮#2运行到#2正南方#1天空#4。
+	zi3 ye4 shi2 fen1 yve4 liang5 yvn4 xing2 dao4 zheng4 nan2 fang1 tian1 kong1
+901292	别看#1他残疾#3，他#1干起#1活儿来#2非常#1麻利#4。
+	bie2 kan4 ta1 can2 ji2 ta1 gan4 qi3 huor2 lai2 fei1 chang2 ma2 li4
+901293	在#2田桂荣#1家#3，沙永增#1老人#2永远#1排在#1第一位#4。
+	zai4 tian2 gui4 rong2 jia1 sha1 yong3 zeng1 lao3 ren2 yong6 yvan3 pai2 zai4 di4 yi1 wei4
+901295	说得#1高兴了#3，马达#1唱起了#1歌#3，小英#1也#1忍不住#1跟着#2哼了#1起来#4。
+	shuo1 de5 gao1 xing4 le5 ma3 da2 chang4 qi3 le5 ge1 xiao3 ying1 ye6 ren3 bu2 zhu4 gen1 zhe5 heng1 le5 qi3 lai2
+901296	外婆#1将菜#1烧好#2叫#1吃饭时#3，才发现#2翁小姐#1已不见#4。
+	wai4 po2 jiang1 cai4 shao1 hao3 jiao4 chi1 fan4 shi2 cai2 fa1 xian4 weng1 xiao6 jie6 yi3 bu2 jian4
+901299	两人#2聊了#1一会儿#3，阿芳#1邀请#1他到#1住处#1作客#4。
+	liang3 ren2 liao2 le5 yi2 huir4 a1 fang1 yao1 qing3 ta1 dao4 zhu4 chu4 zuo4 ke4
+901300	家人们#2则要#2强忍#1悲痛#3，一边#1哄着#1乐乐#1玩#2一边#1落泪#4。
+	jia1 ren2 men5 ze2 yao4 qiang2 ren3 bei1 tong4 yi4 bian1 hong3 zhe5 le4 le5 wan2 yi4 bian1 luo4 lei4
+901301	一到#1饭点儿#3，总有#1好几家人#2不约而同#2把#1做好的#1饭菜#2送到#1诊所#4。
+	yi2 dao4 fan4 dianr3 zong6 you3 hao6 ji3 jia1 ren2 bu4 yve1 er2 tong2 ba3 zuo4 hao3 de5 fan4 cai4 song4 dao4 zhen6 suo3
+901302	班伯里#1说#3，医院#1床位#2始终#1是一个#2很大的#1问题#4。
+	ban1 bo2 li3 shuo1 yi1 yvan4 chuang2 wei4 shi3 zhong1 shi4 yi2 ge5 hen3 da4 de5 wen4 ti2
+901303	如果#1愿意#3，你也#1可以#1说说#3北京#1女孩儿的#1缺点#4。
+	ru2 guo3 yvan4 yi4 ni6 ye3 ke6 yi3 shuo1 shuo5 bei3 jing1 nv3 hair2 de5 qve1 dian3
+901304	女儿#1曾向#1关关#2提及#1此事#3，得到#2关关的#1极力#1反对#4。
+	nv3 er2 ceng2 xiang4 guan1 guan1 ti2 ji2 ci3 shi4 de2 dao4 guan1 guan1 de5 ji2 li4 fan3 dui4
+901305	各部门#1都说#3，这事儿#2和#1他们#1没有#1关系#4。
+	ge4 bu4 men2 dou1 shuo1 zhe4 shir4 he2 ta1 men5 mei2 you3 guan1 xi4
+901306	与#2一般#1犬舍#1不同#3，该犬舍#3内外#1套间#1面积#1略小#3，但#1室内#2却有#1空调#4。
+	yv3 yi4 ban1 qvan3 she4 bu4 tong2 gai1 qvan3 she4 nei4 wai4 tao4 jian1 mian4 ji5 lve4 xiao3 dan4 shi4 nei4 qve4 you3 kong1 tiao2
+901307	就算是#2推着#1我去#3，也想#2再叫上#1两嗓子#4。
+	jiu4 suan4 shi4 tui1 zhe5 wo3 qv4 ye6 xiang3 zai4 jiao4 shang4 liang6 sang3 zi5
+901308	从#2棉花#1到#1生姜#3，一些#1农户#1在谈及#1价格#1下跌时#3，都大呼#2看不懂#4。
+	cong2 mian2 hua1 dao4 sheng1 jiang1 yi4 xie1 nong2 hu4 zai4 tan2 ji2 jia4 ge2 xia4 die1 shi2 dou1 da4 hu1 kan4 bu4 dong3
+901311	物价#1得到#2较好#1控制#3，涨幅#1低于#1全国#1平均#1水平#4。
+	wu4 jia4 de2 dao4 jiao4 hao3 kong4 zhi4 zhang3 fu2 di1 yv2 qvan2 guo2 ping2 jvn1 shui3 ping2
+901312	他#1走路的#1时候#3一瘸#1一拐#2，会说疼#4。
+	ta1 zou3 lu4 de5 shi2 hou4 yi4 qve2 yi4 guai3 hui4 shuo1 teng2
+901313	一旦#2被别人#1冤枉#3，那种#1痛苦感#3终生#1难忘#4。
+	yi2 dan4 bei4 bie2 ren2 yvan1 wang5 na4 zhong3 tong4 ku6 gan3 zhong1 sheng1 nan2 wang4
+901314	等#2这个#1问完了#3，我又#1追问了#1一个#2他#1生日的#1问题#4。
+	deng3 zhe4 ge5 wen4 wan2 le5 wo3 you4 zhui1 wen4 le5 yi2 ge5 ta1 sheng1 ri5 de5 wen4 ti2
+901315	她说#2现场#1很热#3、火声#1很大#3，有点儿#1吓人#3，不过#2只#1持续了#1几分钟#4。
+	ta1 shuo1 xian4 chang6 hen3 re4 huo3 sheng1 hen3 da4 you6 dianr3 xia4 ren2 bu2 guo4 zhi3 chi2 xv4 le5 ji3 fen1 zhong1
+901316	保险#1公司#1负责人#1则说#3，不给#1发票#3，盖章#1收据#1也行#4。
+	bao6 xian3 gong1 si1 fu4 ze2 ren2 ze2 shuo1 bu4 gei3 fa1 piao4 gai4 zhang1 shou1 jv4 ye3 xing2
+901317	刚#1冒个#1脑袋#3，瓦仔#1拿把#1砍刀#2就#1劈过来#4。
+	gang1 mao4 ge5 nao3 dai5 wa6 zai3 na2 ba6 kan3 dao1 jiu4 pi1 guo4 lai2
+901318	一旦#1开放#3，机场#1博物馆#2将#2允许#1候机#1旅客#2免费#1参观#4。
+	yi2 dan4 kai1 fang4 ji1 chang3 bo2 wu4 guan3 jiang1 yvn6 xv3 hou4 ji1 lv3 ke4 mian3 fei4 can1 guan1
+901319	那个#1环境#3，一般#2稍微#1年纪#1大点儿#2就#1受不了#4。
+	na4 ge5 huan2 jing4 yi4 ban1 shao1 wei1 nian2 ji4 da4 dianr3 jiu4 shou4 bu5 liao3
+901320	他们#2就和#1我妹妹#2吵了#1几句#3，我#1还去#1劝架了#4。
+	ta1 men5 jiu4 he2 wo3 mei4 mei5 chao3 le5 ji3 jv4 wo3 hai2 qv4 qvan4 jia4 le5
+901321	她的#1肩膀#2被肩带#1勒得#3凹陷#1生茧#3，皮肉#1摩擦得#2红肿#1出血#4。
+	ta1 de5 jian1 bang3 bei4 jian1 dai4 lei1 de5 ao1 xian4 sheng1 jian3 pi2 rou4 mo2 ca1 de5 hong2 zhong3 chu1 xie3
+901322	与会者#1说#3，马英九#2对于#1此事#2态度#1一致#3，完全#1没有#1改变#4。
+	yv4 hui4 zhe3 shuo1 ma3 ying1 jiu3 dui4 yv2 ci3 shi4 tai4 du5 yi2 zhi4 wan2 qvan2 mei2 you6 gai3 bian4
+901323	我#2母亲#2看到了#3，赶紧#1拉扯#3，却#2无济于事#4。
+	wo6 mu3 qin1 kan4 dao4 le5 gan6 jin3 la1 che5 qve4 wu2 ji4 yv2 shi4
+901324	在#1村里#3，他是#1一个#2“沉默寡言”的#1人#4。
+	zai4 cun1 li3 ta1 shi4 yi2 ge5 chen2 mo4 gua3 yan2 de5 ren2
+901325	据#2周某#1交代#3，他与#1妻子#1孔某#2带#1儿子#3原先在#2海南#1打工#4。
+	jv4 zhou1 mou3 jiao1 dai4 ta1 yv3 qi1 zi3 kong6 mou3 dai4 er2 zi5 yvan2 xian1 zai4 hai3 nan2 da3 gong1
+901326	为了#1省钱#3，王继才#2在夏天#2从不穿#1鞋子#3，只穿个#1裤衩#4。
+	wei4 le5 sheng3 qian2 wang2 ji4 cai2 zai4 xia4 tian1 cong2 bu4 chuan1 xie2 zi5 zhi3 chuan1 ge5 ku4 cha3
+901327	等她#1睁开眼#3，只见#1同伴#1赵女士#2头上的#1血#3顺着脸#1往下流#4。
+	deng3 ta1 zheng1 kai1 yan3 zhi3 jian4 tong2 ban4 zhao4 nv3 shi4 tou2 shang4 de5 xie3 shun4 zhe5 lian6 wang3 xia4 liu2
+901328	事到#1如今#3，亿万#1富翁的#1妻儿#2生活#1窘迫#4。
+	shi4 dao4 ru2 jin1 yi4 wan4 fu4 weng1 de5 qi1 er2 sheng1 huo2 jiong3 po4
+901329	据交代#3，他在#1太原#1打工#1多年#3，靠着#1一手#2木匠#1手艺#2养家#1糊口#4。
+	jv4 jiao1 dai4 ta1 zai4 tai4 yvan2 da3 gong1 duo1 nian2 kao4 zhe5 yi4 shou3 mu4 jiang5 shou3 yi4 yang3 jia1 hu2 kou3
+901330	两个#1多月来#3，释永海的#1焦灼#2达到#1顶点#4。
+	liang3 ge5 duo1 yve4 lai2 shi4 yong6 hai3 de5 jiao1 zhuo2 da2 dao4 ding6 dian3
+901331	树皮#1灰色#3，具皮孔#3，枝光滑#3，内含#2番木鳖碱#4。
+	shu4 pi2 hui1 se4 jv4 pi2 kong3 zhi1 guang1 hua2 nei4 han2 fan1 mu4 bie1 jian3
+901332	他提出#3，建设#2智慧#1城市#3应该#2允许#1失败#3、允许#1探索#4。
+	ta1 ti2 chu1 jian4 she4 zhi4 hui4 cheng2 shi4 ying1 gai1 yvn6 xv3 shi1 bai4 yvn6 xv3 tan4 suo3
+901333	会谈前#3，肯雅塔#2在#2总统府#1广场#3为#2李克强#2举行#1隆重的#1欢迎#1仪式#4。
+	hui4 tan2 qian2 ken3 ya6 ta3 zai4 zong6 tong6 fu3 guang6 chang3 wei4 li3 ke4 qiang2 jv3 xing2 long2 zhong4 de5 huan1 ying2 yi2 shi4
+901334	女儿#2在哪儿#3、做什么#3，她#1更#1不清楚#4。
+	nv3 er2 zai4 nar3 zuo4 shen2 me5 ta1 geng4 bu4 qing1 chu5
+901335	小宝宝#2被送到#1医院#3，但#1遗憾的#1是#3，小宝宝#2再也#1没有#1醒过来#4。
+	xiao6 bao3 bao5 bei4 song4 dao4 yi1 yvan4 dan4 yi2 han4 de5 shi4 xiao6 bao3 bao5 zai4 ye3 mei2 you6 xing3 guo4 lai2
+901336	他在#1江西的#1时候#3，我妹妹#2生了#1一个#1女儿#3，我#1爸爸#2特别#1高兴#4。
+	ta1 zai4 jiang1 xi1 de5 shi2 hou4 wo3 mei4 mei5 sheng1 le5 yi2 ge4 nv3 er2 wo3 ba4 ba5 te4 bie2 gao1 xing4
+901337	即使#1这回#3，俺也#1觉得#1人家能#1相信俺#2还得上吗#4。
+	ji2 shi3 zhe4 hui2 an6 ye3 jve2 de5 ren2 jia1 neng2 xiang1 xin4 an3 huan2 de5 shang4 ma5
+901338	她#1站在#1那儿#3，不多#1说话#3，眼神#2特别#1茫然#1无助#4。
+	ta1 zhan4 zai4 nar4 bu4 duo1 shuo1 hua4 yan3 shen2 te4 bie2 mang2 ran2 wu2 zhu4
+901339	回校后#3，大家#2开会#1商量#3，干脆#2成立了#1一个#2“伪娘团#3”，专门#1搞反串#4。
+	hui2 xiao4 hou4 da4 jia1 kai1 hui4 shang1 liang5 gan1 cui4 cheng2 li4 le5 yi2 ge5 wei3 niang2 tuan2 zhuan1 men2 gao6 fan3 chuan4
+901340	不说#1别的#3，春节#1期间#3，吃请的#1事儿#3，基本#1与#1我们#1无关#4。
+	bu4 shuo1 bie2 de5 chun1 jie2 qi1 jian1 chi1 qing3 de5 shir4 ji1 ben3 yv6 wo3 men5 wu2 guan1
+901341	每想#1及此#3，彭外妹#2都会#2偷偷#1抹眼泪#4。
+	mei6 xiang3 ji2 ci3 peng2 wai4 mei4 dou1 hui4 tou1 tou1 mo6 yan3 lei4
+901342	问他#1怎么了#3，他#1却又#2没事儿#1人#1似的#3笑着#1岔开#1话题#4。
+	wen4 ta1 zen3 me5 le5 ta1 qve4 you4 mei2 shir4 ren2 shi4 de5 xiao4 zhe5 cha4 kai1 hua4 ti2
+901343	孙老师#1当时#1还说#3，好好#1看病#3，早点儿#1回来#4。
+	sun1 lao3 shi1 dang1 shi2 hai2 shuo1 hao3 hao1 kan4 bing4 zao6 dianr3 hui2 lai5
+901344	党史#2颠倒的#1东西#2多了#3，我们#1不能#1这样讲#4。
+	dang6 shi3 dian1 dao3 de5 dong1 xi5 duo1 le5 wo3 men5 bu4 neng2 zhe4 yang4 jiang3
+901345	刘红宇#1说#3，现在#2在北京#1打车#3真不#1是件#2容易的#1事儿#4。
+	liu2 hong2 yv3 shuo1 xian4 zai4 zai4 bei3 jing1 da3 che1 zhen1 bu2 shi4 jian4 rong2 yi4 de5 shir4
+901346	在#2鸟网#1下方#1地面#3，也有#1很多#1飞羽#4。
+	zai4 niao6 wang3 xia4 fang1 di4 mian4 ye6 you6 hen3 duo1 fei1 yv3
+901347	妻子#2也#1不同意#3，死别#1已经#1让她#1心碎#3，怎可#2再添#1刀割#4。
+	qi1 zi6 ye3 bu4 tong2 yi4 si3 bie2 yi3 jing1 rang4 ta1 xin1 sui4 zen6 ke3 zai4 tian1 dao1 ge1
+901348	她#2左手#1左腿#1残疾#3，左手#1不能#1拿东西#3，走路#2一瘸#1一拐#4。
+	ta1 zuo6 shou3 zuo6 tui3 can2 ji2 zuo6 shou3 bu4 neng2 na2 dong1 xi5 zou3 lu4 yi4 qve2 yi4 guai3
+901349	眼见#2身上的#1“盘缠#1”越来越#1少#3，吉某#1就#1开始#2动起了#1歪心思#4。
+	yan3 jian4 shen1 shang4 de5 pan2 chan5 yve4 lai2 yve4 shao3 ji2 mou3 jiu4 kai1 shi3 dong4 qi3 le5 wai1 xin1 si5
+901350	不足#1五分钟#3，她#1再次#2回到#1病房#3，不一会儿#3，传出#1一阵阵#1哭声#4。
+	bu4 zu2 wu3 fen1 zhong1 ta1 zai4 ci4 hui2 dao4 bing4 fang2 bu4 yi2 huir4 chuan2 chu1 yi2 zhen4 zhen4 ku1 sheng1
+902001	老婆饼#1里#2有#1老婆吗#4？
+	lao3 po2 bing6 li3 you6 lao3 po2 ma5
+902002	不会#1有的车#2没地儿#1停吗#4？
+	bu2 hui4 you3 de5 che1 mei2 dir4 ting2 ma5
+902003	世界#1遗产#1大会#2允许#1“加塞儿#4”？
+	shi4 jie4 yi2 chan3 da4 hui4 yvn6 xv3 jia1 sair1
+902004	面对#2自己的#1白发#1亲娘#3，当#1儿子的#2真就#1下得去#1手#4？
+	mian4 dui4 zi4 ji3 de4 bai2 fa4 qin1 niang2 dang1 er2 zi5 de5 zhen1 jiu4 xia4 de5 qv4 shou3
+902005	袜子#2换#1手套#3，有什么#1意义呢#4？
+	wa4 zi5 huan4 shou3 tao4 you3 shen2 me5 yi4 yi4 ne5
+902006	抚远的#1大马哈鱼#3生活在#1日本海#4？
+	fu6 yvan3 de5 da4 ma3 ha1 yv2 sheng1 huo2 zai4 ri4 ben6 hai3
+902007	你#1好像#2也#1过过#2十岁#1生日的吧#4？
+	ni6 hao3 xiang4 ye3 guo4 guo5 shi2 sui4 sheng1 ri4 de5 ba5
+902008	怎么#1别人#2吵吵#1两句#3，她也#1要生#4？
+	zen3 me5 bie2 ren2 chao1 chao5 liang3 jv4 ta1 ye3 yao4 sheng1
+902009	猜猜看#3，它的#1名字#2叫什么#4？
+	cai1 cai5 kan4 ta1 de5 ming2 zi5 jiao4 shen2 me5
+902010	演讲#2透露出#1哪些#1阅读#1特点#4？
+	yan6 jiang3 tou4 lu4 chu1 na3 xie1 yve4 du2 te4 dian3
+902011	丑老头#2配#1丑#1老太太#4？
+	chou6 lao3 tou2 pei4 chou6 lao3 tai4 tai5
+902012	云南#2为何要#2删除#1该规定#4？
+	yvn2 nan2 wei4 he2 yao4 shan1 chu2 gai1 gui1 ding4
+902013	您#2自个儿#1算一下#3怎么样#1合算些#4？
+	nin2 zi4 ger3 suan4 yi2 xia4 zen3 me5 yang4 he2 suan4 xie1
+902014	还会像#1以前#3让我#1玩儿命#1搞案子吗#4？
+	hai2 hui4 xiang4 yi3 qian2 rang4 wo3 wanr2 ming4 gao3 an4 zi5 ma5
+902015	有没有#1带孩子#3在北京#1逛逛#4？
+	you3 mei2 you3 dai4 hai2 zi5 zai4 bei3 jing1 guang4 guang5
+902016	上次的#1活儿#3什么#1时间#1送来#4？
+	shang4 ci4 de5 huor2 shen2 me5 shi2 jian1 song4 lai2
+902017	女教师#1穿#1黑丝袜#3算不算#1“不得体#4”？
+	nv3 jiao4 shi1 chuan1 hei1 si1 wa4 suan4 bu2 suan4 bu4 de2 ti3
+902018	而对#1当事的#1百姓#1来说#3，刺痛的#2又#1岂止#1是耳朵#4？
+	er2 dui4 dang1 shi4 de5 bai3 xing4 lai2 shuo1 ci4 tong4 de5 you4 qi6 zhi3 shi4 er3 duo5
+902019	要买#2什么样的#1滤气器#3比较好#4？
+	yao4 mai3 shen2 me5 yang4 de5 lv4 qi4 qi4 bi3 jiao4 hao3
+902020	五角#1大楼#2发言人#2杰夫#4？
+	wu6 jiao3 da4 lou2 fa1 yan2 ren2 jie2 fu1
+902021	东郊#1椰林#2人工岛#1项目#3，是否#1经过了#2规划#1批准呢#4？
+	dong1 jiao1 ye1 lin2 ren2 gong1 dao3 xiang4 mu5 shi4 fou3 jing1 guo4 le5 gui1 hua4 pi1 zhun3 ne5
+902023	带#2儿女#2回#1内地#1生活#4？
+	dai4 er2 nv3 hui2 nei4 di4 sheng1 huo2
+902024	那俩#1女孩儿#2为何#1轻生#4？
+	na4 lia6 nv3 hair2 wei4 he2 qing1 sheng1
+902025	以#2己之#1昏昏#3，何能#2使人#1昭昭#4？
+	yi6 ji3 zhi1 hun1 hun1 he2 neng2 shi3 ren2 zhao1 zhao1
+902026	怎么#2又#1蹦出个#1户主#4？
+	zen3 me5 you4 beng4 chu1 ge5 hu4 zhu3
+902027	样本量#1设置#3是否#1合理#4？
+	yang4 ben3 liang4 she4 zhi5 shi4 fou3 he2 li3
+902028	现在#2我们还#1无法#1揣测#2是脱水#4？
+	xian4 zai4 wo3 men5 hai2 wu2 fa6 chuai3 ce4 shi4 tuo1 shui3
+902029	晚点#2超过#1多长#1时间#3按#2时间#1赔偿#4？
+	wan6 dian3 chao1 guo4 duo1 chang2 shi2 jian1 an4 shi2 jian1 pei2 chang2
+902030	恶臭#1气体#2从哪儿#1来的#4？
+	e4 chou4 qi4 ti3 cong2 nar3 lai2 de5
+902031	有没有#2自动#2除颤仪#4？
+	you3 mei2 you3 zi4 dong4 chu2 chan4 yi2
+902032	北美的#1救济#1制度#3又是#1如何#1运作的#4？
+	bei6 mei3 de5 jiu4 ji4 zhi4 du4 you4 shi4 ru2 he2 yvn4 zuo4 de5
+902033	当#2孩子#1上学后#3，花销#1就会#2减少了吗#4？
+	dang1 hai2 zi5 shang4 xve2 hou4 hua1 xiao1 jiu4 hui4 jian6 shao3 le5 ma5
+902034	要不#2把棉袄#1穿上#4？
+	yao4 bu4 ba3 mian2 ao3 chuan1 shang4
+902035	看#1几分钟#2算#1没分寸#4？
+	kan4 ji3 fen1 zhong1 suan4 mei2 fen1 cun4
+902036	春来#1我不#2先开口#3，哪个#1虫儿#2敢做声#4？
+	chun1 lai2 wo3 bu4 xian1 kai1 kou3 na3 ge4 chong2 er2 gan3 zuo4 sheng1
+902037	会不会#2招来#2一群#2又一群#2蹭饭者#4？
+	hui4 bu2 hui4 zhao1 lai2 yi4 qvn2 you4 yi4 qvn2 ceng4 fan4 zhe3
+902038	不都是#2将身材#2显得#2凹凸有致吗#4？
+	bu4 dou1 shi4 jiang1 shen1 cai2 xian3 de5 ao1 tu1 you3 zhi4 ma5
+902039	测测#2你是#1哪位#1神仙#1在世#4？
+	ce4 ce5 ni3 shi4 na3 wei4 shen2 xian1 zai4 shi4
+902040	他会#1算上#2各种#1费用#3，怎么#1掰扯#1清楚#4？
+	ta1 hui4 suan4 shang5 ge4 zhong3 fei4 yong5 zen3 me5 bai1 che3 qing1 chu5
+902041	娃娃#2都#1成家了吗#4？
+	wa2 wa5 dou1 cheng2 jia1 le5 ma5
+902042	大群#1蛤蟆#2集体#1跳上#1公路#3，是#1地震#2要来了吗#4？
+	da4 qvn2 ha2 ma5 ji2 ti3 tiao4 shang4 gong1 lu4 shi4 di4 zhen4 yao4 lai2 le5 ma5
+902043	更#2怎能#2预先#1估判#1收成呢#4？
+	geng4 zen3 neng2 yv4 xian1 gu1 pan4 shou1 cheng5 ne5
+902044	一个#2处级#1干部#3，怎么有#2这么大#1胆子#4？
+	yi2 ge5 chu4 ji2 gan4 bu4 zen3 me5 you3 zhe4 me5 da4 dan3 zi5
+902045	崖城镇#2为何#1瞒报#1声称#2“没有#1这回事#4”？
+	ya2 cheng2 zhen4 wei4 he2 man2 bao4 sheng1 cheng1 mei2 you3 zhe4 hui2 shi4
+902046	瓦房村的#1地下水#2是否#2被污染#3，污染#1原因#2是什么#4？
+	wa3 fang2 cun1 de5 di4 xia4 shui3 shi4 fou3 bei4 wu1 ran3 wu1 ran3 yvan2 yin1 shi4 shen2 me5
+902047	陨石#1到底#1啥样子#4？
+	yvn3 shi2 dao4 di3 sha2 yang4 zi5
+902048	谁来#1查查#3给#1“少爷#1”撑腰的#1“老爷#2”是谁#4？
+	shui2 lai2 cha2 cha5 gei3 shao4 ye5 cheng1 yao1 de5 lao3 ye5 shi4 shui2
+902049	大伙儿#2都#1很纳闷#3，好好的#1工棚#2怎么会#1着了火呢#4？
+	da4 huor3 dou1 hen3 na4 men4 hao3 hao1 de5 gong1 peng2 zen3 me5 hui4 zhao2 le5 huo3 ne5
+902050	都是#1这个#1价儿#3，你#1手里#1有多少#4？
+	dou1 shi4 zhe4 ge5 jiar4 ni3 shou6 li6 you3 duo1 shao3
+903001	要不要#2穿棉袄啊#4？
+	yao4 bu2 yao4 chuan1 mian2 ao3 a5
+903002	啊哈#3，忙完#1一天#1又一天#3，想#1打电话#3，这货#1你#1睡了吗#4？
+	a1 ha5 mang2 wan2 yi4 tian1 you4 yi4 tian1 xiang6 da3 dian4 hua4 zhe4 huo4 ni3 shui4 le5 ma5
+903003	我#1舌头#2烫歪了#3，谁来#1给我#1吹吹#4？
+	wo3 she2 tou5 tang4 wai1 le5 shui2 lai2 gei6 wo3 chui1 chui5
+903004	我感觉#2我是#1多余的#3不是吗#4？
+	wo6 gan3 jve2 wo3 shi4 duo1 yv2 de5 bu2 shi4 ma5
+903005	为啥#2好白菜#2都让#2猪#1给拱了呢#4？
+	wei4 sha2 hao3 bai2 cai4 dou1 rang4 zhu1 gei6 gong3 le5 ne5
+903006	什么#1女人心#1海底针#3，不就是#1女人#2太#1矫情了#4？
+	shen2 me5 nv3 ren2 xin1 hai6 di3 zhen1 bu2 jiu4 shi4 nv3 ren2 tai4 jiao6 qing5 le5
+903007	数学题#2都不会#1做呢#3，有哪个#2数学#1天才#2教教俺#2行不#4？
+	shu4 xve2 ti2 dou1 bu2 hui4 zuo4 ne5 you6 na3 ge5 shu4 xve2 tian1 cai2 jiao4 jiao4 an3 xing2 bu4
+903008	偶#2写了#1言情#1小说#3，要不要#2看那#4？
+	ou6 xie3 le5 yan2 qing2 xiao3 shuo1 yao4 bu2 yao4 kan4 na5
+903009	勇敢的#1去闯#3，我没有#1什么#2值钱的#4？
+	yong6 gan3 de5 qv4 chuang3 wo3 mei2 you3 shen2 me5 zhi2 qian2 de5
+903010	给我#1一根#2杠杆#3，我#1试试#4？
+	gei6 wo3 yi4 gen1 gang4 gan3 wo3 shi4 shi5
+903011	看得出#1是#2古盐#1作坊吗#4？
+	kan4 de5 chu1 shi4 gu3 yan2 zuo1 fang5 ma5
+903012	计划#2赶不上#1变化#3，只能说#2老天#1你怎么#1又#1打盹了#4？
+	ji4 hua4 gan3 bu2 shang4 bian4 hua4 zhi3 neng2 shuo1 lao3 tian1 ni6 zen3 me5 you4 da6 dun3 le5
+903013	帅帅#1小宝宝#3，今天#2加油了吗#4？
+	shuai4 shuai5 xiao6 bao3 bao5 jin1 tian1 jia1 you2 le5 ma5
+903014	意志力#2又一次#1被#1瓦解了#3，接下来#2不知道#2会#1怎样#4？
+	yi4 zhi4 li4 you4 yi2 ci4 bei4 wa6 jie3 le5 jie1 xia4 lai2 bu4 zhi1 dao4 hui4 zen3 yang4
+903015	男朋友#1出轨#3，我#1该不该#2给他点#2教训#1再离开#4？
+	nan2 peng2 you5 chu1 gui3 wo3 gai1 bu5 gai1 gei3 ta1 dian3 jiao4 xvn4 zai4 li2 kai1
+903016	难道#2刀锋#2要出#1灯笼#4？
+	nan2 dao4 dao1 feng1 yao4 chu1 deng1 long5
+903017	从南#1到北#3，雪#1长得#1啥样#4？
+	cong2 nan2 dao4 bei3 xve6 zhang3 de5 sha2 yang4
+903018	现在#2已经#1过了#1中秋#3，进入#1十六#3，月儿#2在哪里#4？
+	xian4 zai4 yi3 jing1 guo4 le5 zhong1 qiu1 jin4 ru4 shi2 liu4 yver4 zai4 na6 li3
+903019	网#1你妹#3，对我#1有仇#4？
+	wang6 ni3 mei4 dui4 wo6 you3 chou2
+903020	还记的#2你们#1小学#2，初中#3和#1高中的#1绰号吗#4？
+	hai2 ji4 de5 ni3 men5 xiao3 xve2 chu1 zhong1 he2 gao1 zhong1 de5 chuo4 hao4 ma5
+903021	猜猜#2哪个#1是姐姐#3，哪个#1是妹妹#4？
+	cai1 cai5 na3 ge5 shi4 jie3 jie5 na3 ge5 shi4 mei4 mei5
+903022	女人#1真的#1只要#2脸蛋儿#1好看#1就行#4？
+	nv3 ren2 zhen1 de5 zhi3 yao4 lian3 danr4 hao3 kan4 jiu4 xing2
+903023	咬牙#2买了张#2软卧#3，回来的#1车票#1买不上#2怎么办呀#4？
+	yao3 ya2 mai3 le5 zhang1 ruan3 wo4 hui2 lai5 de5 che1 piao4 mai3 bu2 shang4 zen3 me5 ban4 ya5
+903024	土豹子#2喜欢#1奢侈品#3，错了吗#4？
+	tu3 bao4 zi5 xi3 huan1 she1 chi6 pin3 cuo4 le5 ma5
+903025	华丽的#1外表下#3，怎么#1都有着#1一颗#2肮脏的#1心#4？
+	hua2 li4 de5 wai4 biao3 xia4 zen3 me5 dou1 you3 zhe5 yi4 ke1 ang1 zang1 de5 xin1
+903026	恶心#1至极#3，用的着#2这样吗#4？
+	e3 xin1 zhi4 ji2 yong4 de5 zhao2 zhe4 yang4 ma5
+903028	想找个#2安静的#1地儿#1学习#3怎么#1这么难#4？
+	xiang6 zhao3 ge5 an1 jing4 de5 dir4 xve2 xi2 zen3 me5 zhe4 me5 nan2
+903029	脚后跟#1裂口子#1怎么办#4？
+	jiao3 hou4 gen1 lie4 kou3 zi5 zen3 me5 ban4
+903030	我#2是不是#2有点儿#1傻#4？
+	wo3 shi4 bu2 shi4 you6 dianr6 sha3
+903031	茅台#2用碗喝#3，会不会#2太#1豪气了#1点儿#4？
+	mao2 tai2 yong4 wan3 he1 hui4 bu2 hui4 tai4 hao2 qi4 le5 dianr3
+903032	能#2不那么#1火儿吗#4？
+	neng2 bu2 na4 me5 huor3 ma5
+903033	在下#2斗胆#1问下#3，阁下是#2哪一路#1鸟人#4？
+	zai4 xia4 dou6 dan3 wen4 xia4 ge2 xia4 shi4 na3 yi2 lu4 niao3 ren2
+903034	人#2为什么#1要#2长耳朵#3，留一个#1洞#2不就#1行了吗#4？
+	ren2 wei4 shen2 me5 yao4 zhang6 er3 duo5 liu2 yi2 ge5 dong4 bu2 jiu4 xing2 le5 ma5
+903035	样品#2都被#1收了#3，卖个#1几儿#4？
+	yang4 pin3 dou1 bei4 shou1 le5 mai4 ge4 jir3
+903036	无解的#2皇马#1，巴萨#3，你#1颤抖了么#4？
+	wu2 jie3 de5 huang2 ma3 ba1 sa4 ni3 chan4 dou3 le5 me5
+903037	真让人#1不爽#3，说话时#2动动#1脑子#2好吗#4？
+	zhen1 rang4 ren2 bu4 shuang3 shuo1 hua4 shi2 dong4 dong5 nao3 zi5 hao3 ma5
+903038	姚露#3，你#1到底#2爱我吗#4？
+	yao2 lu4 ni3 dao4 di3 ai4 wo3 ma5
+903039	一定#1要窘#2低调点儿#1没得#4？
+	yi2 ding4 yao4 jiong3 di1 diao4 dianr3 mei2 de5
+903040	今晚#2怎么就#1这么#1冷呢#3，狗狗#2不冷吗#4？
+	jin1 wan6 zen3 me5 jiu4 zhe4 me5 leng3 ne5 gou3 gou5 bu4 leng3 ma5
+903041	勇气#1没了#3，要#1拿什么#1去坚持#1下去#4？
+	yong3 qi4 mei2 le5 yao4 na2 shen2 me5 qv4 jian1 chi2 xia4 qv4
+903042	说人前#2，落人后#3，叫人#1逮住#2说不够#4？
+	shuo1 ren2 qian2 luo4 ren2 hou4 jiao4 ren2 dai3 zhu4 shuo1 bu2 gou4
+903043	谁能#2扭转#1运程#3，谁在#2篡改#1剧情#4？
+	shui2 neng2 niu6 zhuan3 yvn4 cheng2 shui2 zai4 cuan4 gai3 jv4 qing2
+903044	离开#2通讯录#3，你能#1背下#2谁的#1电话号#4？
+	li2 kai1 tong1 xvn4 lu4 ni3 neng2 bei4 xia4 shui2 de5 dian4 hua4 hao4
+903045	睡不着#3，那东西#2那么#1伤人#3，是#1蠢蠢欲动了吗#4？
+	shui4 bu4 zhao2 na4 dong1 xi5 na4 me5 shang1 ren2 shi4 chun6 chun3 yv4 dong4 le5 ma5
+903046	用什么#1来#2惩罚你#3，我的#1心#4？
+	yong4 shen2 me5 lai2 cheng2 fa2 ni3 wo3 de5 xin1
+903047	谁去#1济南#2九顶塔#2民俗#1风情园#4？
+	shui2 qv4 ji3 nan2 jiu6 ding6 ta3 min2 su2 feng1 qing2 yvan2
+903048	喉咙#2干#3、痛#3，偶有#1咳嗽#3，声音#1嘶哑#3，怎么办呢#4？
+	hou2 long2 gan4 tong4 ou6 you3 ke2 sou5 sheng1 yin1 si1 ya3 zen3 me5 ban4 ne5
+903049	仰望#1蓝天#3你#2是否#1知道#2鸟儿的#1快乐#4？
+	yang3 wang4 lan2 tian1 ni3 shi4 fou3 zhi1 dao4 niao3 er2 de5 kuai4 le4
+903050	明明#1是你#1不对#3，却要#2一家人#2一起#1哄你#3，良心#1安吗#4？
+	ming2 ming2 shi4 ni3 bu2 dui4 qve4 yao4 yi4 jia1 ren2 yi4 qi3 hong6 ni3 liang2 xin1 an1 ma5
+904001	明天#1要#1早起#3，奋斗#2要#1逞早#4。
+	ming2 tian1 yao4 zao6 qi3 fen4 dou4 yao4 cheng6 zao3
+904003	孤意#1如月#2寂如莲#3，孤月#1独映#2人不眠#3，灯深#1月浅#2两相念#4。
+	gu1 yi4 ru2 yve4 ji4 ru2 lian2 gu1 yve4 du2 ying4 ren2 bu4 mian2 deng1 shen1 yve4 qian6 liang3 xiang1 nian4
+904004	昨天#2和#1我姐#1顶嘴#3，然后#2就#1说了#1一句#1你妹#3，说完#1我就#1后悔了#4。
+	zuo2 tian1 he2 wo6 jie3 ding6 zui3 ran2 hou4 jiu4 shuo1 le5 yi2 jv4 ni3 mei4 shuo1 wan2 wo3 jiu4 hou4 hui3 le5
+904005	家中#1养了#1三只#1大肉狗#3，威风凛凛啊#4。
+	jia1 zhong1 yang3 le5 san1 zhi1 da4 rou4 gou3 wei1 feng1 lin6 lin3 a5
+904006	登登#2黄鹤楼#3，看看#2鹦鹉洲#4。
+	deng1 deng5 huang2 he4 lou2 kan4 kan5 ying1 wu3 zhou1
+904007	好久#1没吃#1菜梗#3，口水#1流一地昂#4。
+	hao6 jiu3 mei2 chi1 cai4 geng3 kou6 shui3 liu2 yi2 di4 ang2
+904008	吃饭饭了#3，老妈#1做的#2山药#1排骨汤#4。
+	chi1 fan4 fan5 le5 lao3 ma1 zuo4 de5 shan1 yao4 pai2 gu3 tang1
+904009	迂回的#2盘山#1公路#4。
+	yv1 hui2 de5 pan2 shan1 gong1 lu4
+904010	这世界#2太复杂#3、混淆#2我想#1说的#1话#3、我#1不懂#2太复杂的#1步伐#4。
+	zhe4 shi4 jie4 tai4 fu4 za2 hun4 xiao2 wo6 xiang3 shuo1 de5 hua4 wo3 bu4 dong3 tai4 fu4 za2 de5 bu4 fa2
+904011	在这个#2肮脏的#1社会#3，你的#1清白#2根本#1无法#1证明#3，唯有#1淡定#4。
+	zai4 zhe4 ge5 ang1 zang5 de5 she4 hui4 ni3 de5 qing1 bai2 gen1 ben3 wu2 fa3 zheng4 ming2 wei2 you3 dan4 ding4
+904012	天上#2不会#1掉馅饼#3，但会#2飞来#1横祸#3，所以#1要#2谨慎#1低调#4。
+	tian1 shang4 bu2 hui4 diao4 xian4 bing3 dan4 hui4 fei1 lai2 heng4 huo4 suo6 yi3 yao4 jin3 shen4 di1 diao4
+904013	兵儿#3、真的#2很想你#4。
+	bingr1 zhen1 de5 hen3 xiang6 ni3
+904014	苔花#1如米小#3，也学#1牡丹开#4。
+	tai2 hua1 ru2 mi6 xiao3 ye3 xve2 mu3 dan5 kai1
+904015	我#1真的#1服你了#3、嚼神#1你#1无敌#4。
+	wo3 zhen1 de5 fu2 ni3 le5 jve2 shen2 ni3 wu2 di2
+904016	大海啊#3，全是水#3，骏马呀#3，四条腿#3，爱情啊#3，嘴对嘴#4。
+	da4 hai3 a5 qvan2 shi4 shui3 jvn4 ma3 ya5 si4 tiao2 tui3 ai4 qing2 a5 zui3 dui4 zui3
+904017	爱情#2要#1爱的#1轰轰烈烈#3，友情#2要#1交的#1坦坦荡荡#4。
+	ai4 qing2 yao4 ai4 de5 hong1 hong1 lie4 lie4 you3 qing2 yao4 jiao1 de5 tan6 tan3 dang4 dang4
+904019	爸爸#1老了#3，脾气#2也#1越来越#1倔#4。
+	ba4 ba5 lao3 le5 pi2 qi5 ye3 yve4 lai2 yve4 jve4
+904020	转过脸#3，咧嘴#1一笑#3，感觉#1脸部#1胀热#3，大概#2是那种#2想#1哭泣的#1感觉#4。
+	zhuan3 guo4 lian3 lie6 zui3 yi2 xiao4 gan3 jve2 lian3 bu4 zhang4 re4 da4 gai4 shi4 na1 zhong6 xiang3 ku1 qi4 de5 gan3 jve2
+904021	稀疏的#1雨声#3，却让#1我的痛#2深入#1骨髓#4。
+	xi1 shu1 de5 yv3 sheng1 qve4 rang4 wo3 de5 tong4 shen1 ru4 gu6 sui3
+904022	学习#1英宽#2分寸#1敏感#3，认真#1谨慎#3，黑白分明#3，端庄#1聪慧#4。
+	xve2 xi2 ying1 kuan1 fen1 cun5 min6 gan3 ren4 zhen1 jin3 shen4 hei1 bai2 fen1 ming2 duan1 zhuang1 cong1 hui4
+904023	八台#1剖宫产#3，到此#1为止吧#4。
+	ba1 tai2 pou1 gong1 chan3 dao4 ci3 wei2 zhi3 ba5
+904024	为什么#1我#2那么#1倒霉#3，每次#1去街上#2都会#1碰到#2那些#1混混#4。
+	wei4 shen2 me5 wo3 na4 me5 dao3 mei2 mei3 ci4 qv4 jie1 shang4 dou1 hui4 peng4 dao4 na4 xie1 hun4 hun5
+904025	下一站的#1幸福#3，是否#1有你#2在身旁#4。
+	xia4 yi2 zhan4 de5 xing4 fu2 shi4 fou3 you6 ni3 zai4 shen1 pang2
+904026	想要#2抱养个#1小孩儿#3，男娃#1女娃#1都行#3，付#1营养费#4。
+	xiang3 yao4 bao4 yang3 ge5 xiao3 hair2 nan2 wa2 nv3 wa2 dou1 xing2 fu4 ying2 yang3 fei4
+904027	汪洋#1一片#3，全是#1车#4。
+	wang1 yang2 yi2 pian4 qvan2 shi4 che1
+904028	损你#2，骂你#3，是#1因为#2你是#1我的#1好兄弟#4。
+	sun6 ni3 ma4 ni3 shi4 yin1 wei4 ni3 shi4 wo3 de5 hao3 xiong1 di4
+904029	没了#1热情的#1友谊#3，也就#2逐渐#1被#1拉开了#1距离#4。
+	mei2 le5 re4 qing2 de5 you3 yi4 ye3 jiu4 zhu2 jian4 bei4 la1 kai1 le5 jv4 li2
+904030	人生#1就像#2开飞机#3，飞多高#2不是#1关键#3，关键是#3落地#1一定要#1稳当#4。
+	ren2 sheng1 jiu4 xiang4 kai1 fei1 ji1 fei1 duo1 gao1 bu2 shi4 guan1 jian4 guan1 jian4 shi4 luo4 di4 yi2 ding4 yao4 wen3 dang1
+904031	最近#2审美#1疲劳了#4。
+	zui4 jin4 shen6 mei3 pi2 lao2 le5
+904032	我#1只爱#2爱我的#1人#4。
+	wo6 zhi3 ai4 ai4 wo3 de5 ren2
+904033	猎人的#1陷阱中#2常有#1肉香#3，渔夫的#1钓竿上#2必有#1鱼饵#4。
+	lie4 ren2 de5 xian4 jing3 zhong1 chang2 you3 rou4 xiang1 yv2 fu1 de5 diao4 gan1 shang4 bi4 you3 yv2 er3
+904034	老公#2来个#1搂亲儿#4。
+	lao3 gong1 lai2 ge4 lou3 qinr1
+904035	大厅#1就是#1木有#2包间#1得劲儿#4。
+	da4 ting1 jiu4 shi4 mu4 you3 bao1 jian1 dei3 jinr4
+904036	拉#1惨了#3，人都#1瓤了#4。
+	la1 can3 le5 ren2 dou1 rang2 le5
+904037	安安稳稳#1过#1一辈子#3，妥妥的#3，比#1什么#1都强#4。
+	an1 an1 wen6 wen3 guo4 yi2 bei4 zi5 tuo6 tuo3 de5 bi3 shen2 me5 dou1 qiang2
+904038	人生#2就像#1泡沫#3，在#2灿烂时#1破碎#2或#1陨落#4。
+	ren2 sheng1 jiu4 xiang4 pao4 mo4 zai4 can4 lan4 shi2 po4 sui4 huo4 yvn3 luo4
+904039	回家#2回家#3，我#1在这儿#2只有#2添乱的#1份儿#3，帮不#1上忙#4。
+	hui2 jia1 hui2 jia1 wo3 zai4 zher4 zhi6 you3 tian1 luan4 de5 fenr4 bang1 bu2 shang4 mang2
+904040	宴席#1散了#3，总会#1有种#2失落的#1感觉#4。
+	yan4 xi2 san4 le5 zong3 hui4 you6 zhong3 shi1 luo4 de5 gan3 jve2
+904041	新#1开业的#1店#3，小滑梯#2还不错#3，全家桶#2实在#1难恭维#3，失败#2失望啊#4。
+	xin1 kai1 ye4 de5 dian4 xiao3 hua2 ti1 hai2 bu2 cuo4 qvan2 jia1 tong3 shi2 zai4 nan2 gong1 wei2 shi1 bai4 shi1 wang4 a5
+904042	且把#1思念#2遥相寄#4。
+	qie6 ba3 si1 nian4 yao2 xiang1 ji4
+904043	大半夜#2找闺女嘞#3、平常#2不好好#1管教#4。
+	da4 ban4 ye4 zhao3 gui1 nv5 lei5 ping2 chang2 bu4 hao3 hao1 guan3 jiao4
+904044	要怪#2就怪吧#3，我#1无言#4。
+	yao4 guai4 jiu4 guai4 ba5 wo3 wu2 yan2
+904045	自经#1倒塔#2少#1睡眠#3，长夜#1坑爹#2何由彻#4。
+	zi4 jing1 dao4 ta6 shao3 shui4 mian2 chang2 ye4 keng1 die1 he2 you2 che4
+904046	姐妹儿#2化好妆了#3，今儿#2全程#1直播#4。
+	jie3 meir4 hua4 hao3 zhuang1 le5 jinr1 qvan2 cheng2 zhi2 bo1
+904047	帅气#1迷人的#1侄儿#4。
+	shuai4 qi5 mi2 ren2 de5 zhi2 er5
+904048	只闻#1经声#3，不见#1僧人#4。
+	zhi1 wen2 jing1 sheng1 bu2 jian4 seng1 ren2
+904049	这两天#2够累了#3，为什么#1一个个#2都要#1来烦我#3，不能#1让人#2喘口气么#4。
+	zhe4 liang3 tian1 gou4 lei4 le5 wei4 shen2 me5 yi2 ge4 ge4 dou1 yao4 lai2 fan2 wo3 bu4 neng2 rang4 ren2 chuan6 kou3 qi4 me5
+904050	一个人#3，干净利落#4。
+	yi2 ge4 ren2 gan1 jing4 li4 luo5
+904051	孤山#1野岭#3，孤男#1寡女#3，连翻#1几座山#1都没#1休息#3，云里#1雾里的#1真美#4。
+	gu1 shan1 ye6 ling3 gu1 nan2 gua6 nv3 lian2 fan1 ji3 zuo4 shan1 dou1 mei2 xiu1 xi5 yvn2 li3 wu4 li3 de5 zhen1 mei3
+904052	蒙上#1眼睛#3，就#2没有了#1阻碍#4。
+	meng1 shang4 yan3 jing1 jiu4 mei2 you3 le5 zu3 ai4
+904053	如果能#2回到#1从前#3，我#1绝对#2不会#1嫁给#1一个#2不会#1疼你#2宠你的#1男人#4。
+	ru2 guo3 neng2 hui2 dao4 cong2 qian2 wo3 jve2 dui4 bu2 hui4 jia4 gei3 yi2 ge4 bu2 hui4 teng2 ni3 chong6 ni3 de5 nan2 ren5
+904054	脚后跟#2皮#1磨破了#3，海盗船#2坐的#1泪奔#1想吐#2苦逼的#1十一#4。
+	jiao3 hou4 gen1 pi2 mo2 po4 le5 hai3 dao4 chuan2 zuo4 de5 lei4 ben1 xiang3 tu4 ku3 bi1 de5 shi2 yi1
+904055	奇达旺#3，有点像#2成都#1七八月的#1桑拿天#3，闷热#1潮湿#4。
+	qi2 da2 wang4 you6 dian3 xiang4 cheng2 du1 qi1 ba1 yve4 de5 sang1 na2 tian1 men1 re4 chao2 shi1
+904056	人是#1铁#3，范儿#1是钢#3，一天#1不装#1憋得慌#4。
+	ren2 shi4 tie3 fanr4 shi4 gang1 yi4 tian1 bu4 zhuang1 bie1 de5 huang1
+904057	老虎海#3，风平浪静#4。
+	lao6 hu6 hai3 feng1 ping2 lang4 jing4
+904058	越淘#2越#1开心#3，哈哈#3，我们#1今儿个#2收获#4。
+	yve4 tao2 yve4 kai1 xin1 ha1 ha1 wo3 men5 jinr1 ge5 shou1 huo4
+904059	以老卖老#3，一堆#1狗屎#4。
+	yi6 lao3 mai4 lao3 yi4 dui1 gou6 shi3
+904060	牙啊#3，你#1使劲#2折磨#1我噢#4。
+	ya2 a5 ni6 shi3 jin4 zhe2 mo2 wo3 o1
+904061	沙湖里的#1人群#2，驼群#4。
+	sha1 hu2 li3 de5 ren2 qvn2 tuo2 qvn2
+904062	隐忍了#1多少年了#3，我已#1多久#2没有#1充满#1激情#4。
+	yin6 ren3 le5 duo1 shao3 nian2 le5 wo6 yi3 duo1 jiu3 mei2 you3 chong1 man3 ji1 qing2
+904063	待#2浮花#1浪蕊#1俱尽#3，伴君#1幽独#4。
+	dai4 fu2 hua1 lang4 rui3 jv4 jin3 ban4 jvn1 you1 du2
+904064	十二点#1睡觉#3，睡到#2三点钟#1醒#2就#1睡不着#2难受#1死了#3，比死#2还难受#4。
+	shi2 er4 dian3 shui4 jiao4 shui4 dao4 san1 dian3 zhong1 xing3 jiu4 shui4 bu4 zhao2 nan2 shou4 si3 le5 bi6 si3 hai2 nan2 shou4
+904065	人头#1攒动#2邀月门#3，水泄不通#1石丈亭#4。
+	ren2 tou2 cuan2 dong4 yao1 yve4 men2 shui3 xie4 bu4 tong1 shi2 zhang4 ting2
+904066	怎么有#2这么多的#2框框#4。
+	zen3 me5 you3 zhe4 me5 duo1 de5 kuang4 kuang5
+904067	手机#1永久#1被收#3，电话号#1已弃#4。
+	shou3 ji1 yong6 jiu3 bei4 shou1 dian4 hua4 hao4 yi3 qi4
+904068	家里#2温差#1真大#3，昨天#2真不该#1晾膘#4。
+	jia1 li3 wen1 cha1 zhen1 da4 zuo2 tian1 zhen1 bu4 gai1 liang4 biao1
+904069	大脖筋#1疼#3，不是#1落枕#4。
+	da4 bo2 jin1 teng2 bu2 shi4 lao4 zhen3
+904070	姐是#1纯爷们#3，姐#1需要#2娶媳妇儿#4。
+	jie3 shi4 chun2 ye2 men5 jie3 xv1 yao4 qv3 xi2 fur5
+904071	家的#1网#2又#1上不去了#3，什么#1破玩意儿#4。
+	jia1 de5 wang3 you4 shang4 bu2 qv4 le5 shen2 me5 po4 wan2 yir4
+904072	别人#2在过节#3，劳资#2还在#1上班#3，还被#1牲口彪#4。
+	bie2 ren2 zai4 guo4 jie2 lao2 zi1 hai2 zai4 shang4 ban1 hai2 bei4 sheng1 kou5 biao1
+904073	今天#2怎么#1回事#3，打牌#1老是输#3，惨死了#3，以后#1再也#1不打牌了#4。
+	jin1 tian1 zen3 me5 hui2 shi4 da3 pai2 lao3 shi4 shu1 can6 si3 le5 yi3 hou4 zai4 ye3 bu4 da3 pai2 le5
+904074	湖边#1晨练#3，风#2一阵阵#1吹来#3，送来#2丝丝#1凉意#3，南方的#1秋#2悄然#1而至#4。
+	hu2 bian1 chen2 lian4 feng1 yi2 zhen4 zhen4 chui1 lai2 song4 lai2 si1 si1 liang2 yi4 nan2 fang1 de5 qiu1 qiao3 ran2 er2 zhi4
+904075	今年#1收成#2不如#1去年#3，不过#1也算#1丰收#4。
+	jin1 nian2 shou1 cheng5 bu4 ru2 qv4 nian2 bu2 guo4 ye3 suan4 feng1 shou1
+904076	天气#1变冷了#3，不能#1再#1大裤衩#2和#1拖鞋了#4。
+	tian1 qi4 bian4 leng3 le5 bu4 neng2 zai4 da4 ku4 cha4 he2 tuo1 xie2 le5
+904077	一船#2红#1中国#3，万众#1跟党#1走#4。
+	yi4 chuan2 hong2 zhong1 guo2 wan4 zhong4 gen1 dang6 zou3
+904078	辣手#1摧花#3，可怜#2外婆家#2院子里的#1小花儿们#4。
+	la4 shou3 cui1 hua1 ke3 lian2 wai4 po2 jia1 yvan4 zi5 li3 de5 xiao3 huar1 men5
+904079	今早#1起来#2一起#1浇草#3，卡卡#2倍感#1新鲜#4。
+	jin1 zao6 qi3 lai2 yi4 qi3 jiao1 cao3 ka6 ka3 bei4 gan3 xin1 xian1
+904080	孤身#2壮铁胆#3，壮志#2鬼门关#4。
+	gu1 shen1 zhuang4 tie6 dan3 zhuang4 zhi4 gui3 men2 guan1
+904081	结婚的#1女孩儿#3，今天#1把你#1送到#2你婆家#3，就别#2跟着#1回来了#4。
+	jie2 hun1 de5 nv3 hair2 jin1 tian1 ba6 ni3 song4 dao4 ni3 po2 jia1 jiu4 bie2 gen1 zhe5 hui2 lai2 le5
+904082	委婉#1幽暗#3，无言以对#4。
+	wei6 wan3 you1 an4 wu2 yan2 yi3 dui4
+904083	晒晒#1太阳#2，吹吹#1海风#3，更想#1睡觉了#4。
+	shai4 shai4 tai4 yang2 chui1 chui5 hai3 feng1 geng4 xiang3 shui4 jiao4 le5
+904084	手指头#2让#1蚊子#1给叮了#3，天儿#4。
+	shou6 zhi3 tou2 rang4 wen2 zi5 gei3 ding1 le5 tianr1
+904085	第一次#2体会到了#1应酬#4。
+	di4 yi1 ci4 ti3 hui4 dao4 le5 ying4 chou5
+904086	啥时#1能#1迈过#1这道#2坎啊#4。
+	sha4 shi2 neng2 mai4 guo4 zhe4 dao4 kan3 a5
+904087	外婆#2实在#1啰嗦#3，受不了#3，人#1老了#1一句话#1要问#1好几次#4。
+	wai4 po2 shi2 zai4 luo1 suo5 shou4 bu4 liao3 ren2 lao3 le5 yi2 jv4 hua4 yao4 wen4 hao6 ji3 ci4
+904088	姐#2年纪#1大了#3，玩儿不了#2刺激的#3，腿软了#3，明儿#2赶紧#1回家#4。
+	jie3 nian2 ji4 da4 le5 wanr2 bu4 liao3 ci4 ji1 de5 tui6 ruan3 le5 mingr2 gan6 jin3 hui2 jia1
+904089	生活#1总有#2磕磕绊绊#3，我们#2笑对#1每一天#4。
+	sheng1 huo2 zong6 you3 ke1 ke1 ban4 ban4 wo3 men5 xiao4 dui4 mei3 yi4 tian1
+904090	还在#1张望#2谁的#1脸庞#3，阳光下#2透彻#2洒满#1忧伤的#1光#4。
+	hai2 zai4 zhang1 wang4 shui2 de5 lian3 pang2 yang2 guang1 xia4 tou4 che4 sa6 man3 you1 shang1 de5 guang1
+904091	孤独#1患者#2活该#1自我#1拉扯#4。
+	gu1 du2 huan4 zhe3 huo2 gai1 zi4 wo3 la1 che3
+904092	孤州#1蓑立翁#3，独钓#2寒江雪#4。
+	gu1 zhou1 suo1 li4 weng1 du2 diao4 han2 jiang1 xve3
+904093	打个盹#3，路过的#1同志#2请留下#1脚印#1与#1墨迹#4。
+	da3 ge4 dun3 lu4 guo4 de5 tong2 zhi4 qing3 liu2 xia4 jiao3 yin4 yv3 mo4 ji4
+904094	今晚#1忘记#1买菜了#3，奶粉#1加稀饭#2糊弄#1一餐#2也#1蛮有味的#3，哈哈#4。
+	jin1 wan3 wang4 ji4 mai3 cai4 le5 nai6 fen3 jia1 xi1 fan4 hu4 nong4 yi4 can1 ye3 man2 you3 wei4 de5 ha1 ha1
+904095	儿子的#1脚#2被我#1弄伤了#3，还#1包扎了#3，真晕#1我#4。
+	er2 zi5 de5 jiao3 bei4 wo3 nong4 shang1 le5 hai2 bao1 za1 le5 zhen1 yvn1 wo3
+904096	啦啦啦#3啦啦#1啦啦#3，爱爱#1爱爱#3爱爱#1爱爱#4。
+	la1 la1 la1 la1 la1 la1 la1 ai4 ai4 ai4 ai4 ai4 ai4 ai4 ai4
+904097	天#1晴朗#3那花儿#2朵朵#1绽放#3，闻#1花香#3那甜蜜#2好似#1蜂糖#4。
+	tian1 qing2 lang3 na4 huar1 duo6 duo3 zhan4 fang4 wen2 hua1 xiang1 na4 tian2 mi4 hao3 si4 feng1 tang2
+904098	大家#2都知道#2这是#1哪儿#4。
+	da4 jia1 dou1 zhi1 dao4 zhe4 shi4 nar3
+904099	突然#1之间#3，大雨#1倾盆#4。
+	tu1 ran2 zhi1 jian1 da4 yv3 qing1 pen2
+904100	三轮车#1没超载#3，转角#2慢慢拐#4。
+	san1 lun2 che1 mei2 chao1 zai4 zhuan6 jiao3 man4 man4 guai3
