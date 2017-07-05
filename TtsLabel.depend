@@ -1,0 +1,23 @@
+# depslib dependency file v1.0
+1352479504 source:d:\so_tts\tool\train_hts_model\ttslabel\ttslabel\getcharinfo.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"getCharInfo.h"
+
+1339856762 d:\so_tts\tool\train_hts_model\ttslabel\ttslabel\getcharinfo.h
+
+1352479504 source:d:\1-项目\so_tts\tool\train_hts_model\ttslabel\ttslabel\getcharinfo.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"getCharInfo.h"
+
+1339856762 d:\1-项目\so_tts\tool\train_hts_model\ttslabel\ttslabel\getcharinfo.h
+
+1457083496 source:d:\1-项目\so_tts\tool\train_hts_model\ttslabel\ttslabel\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"getCharInfo.h"
+
