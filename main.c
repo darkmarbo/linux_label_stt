@@ -68,7 +68,7 @@ int main(int argc, char *argv[])
         return 0;
     }
 
-    char *line_1, *line_2, *lname, *sname;
+    char *line_1, *line_2, *lname, *sname, *line_1_tmp;
     line_1  =   (char *)malloc(sizeof(char)*MAX_LEN);
     line_2  =   (char *)malloc(sizeof(char)*MAX_LEN);
     lname   =   (char *)malloc(sizeof(char)*120);
@@ -102,14 +102,34 @@ int main(int argc, char *argv[])
         dropReturnTag(line_1);
         dropReturnTag(line_2);
 
-        Split(line_1,pinyin,&nSeg);
+        // split line_1 
+        int flag = 0;
+        int jj = 0;
+        for(jj=0; jj<strlen(line_1); jj++)
+        {
+            if(line_1[jj] == '\t')
+            {
+                line_1[jj] = '\0';
+                line_1_tmp = line_1+jj+1;
+                flag = 1;
+            }
+        }
+
+        if(flag == 0)
+        {
+            printf("input line format err: %s\n",line_1);
+            return 0;
+        }
+
+        Split(line_1_tmp, pinyin,&nSeg);
         if(char2short(line_2,tag) != nSeg)
         {
             //printf("warning: %s \n",line_1);
         }
         TtsLabel_ObtainLabelCharSeq(cif,pinyin,nSeg,tag);
+
         //itoa(ii+1, lname, 10);
-        snprintf(lname, 10, "%d", ii+1);
+        snprintf(lname, 100, "%s", line_1);
         strcat(lname, ".lab");
         strcpy(sname, "full/");
         strcat(sname, lname);

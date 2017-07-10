@@ -18,17 +18,29 @@ num_line = int(len(lines)/2);
 for i in range(num_line):
     #print (i);
 
-    ### 瓜农|要 生存$市民 有需求
+    ### 000001 瓜农|要 生存$市民 有需求
     ln1 = lines[i*2].decode('utf-8');
+    list_ln1 = ln1.split("\t");
+    if len(list_ln1)<2:
+        print("ERROR:format err: %s"%(ln1));
+        sys.exit(0);
+    id = list_ln1[0];
+    ln1 = list_ln1[1];
+
     ### gua1 nong2 yao4 sheng1 cun2 shi4 min2 you3 xv1 qiu2
     ln2 = lines[i*2+1].decode('utf-8');
+    list_ln2 = ln2.split("\t");
+    if len(list_ln2)<2:
+        print("ERROR:format err: %s"%(ln2));
+        sys.exit(0);
+    ln2 = list_ln2[1];
 	
     ln2 = ln2.replace('\n','');
     ln2,num = re.subn('([^e])r([123456])','\g<1>\g<2> er5',ln2);
     ln2,num = re.subn('([qwertyuioplkjhgfdsazxcvbnm])er([123456])','\g<1>e\g<2> er5',ln2);
     ln2,num = re.subn('6','2',ln2);
     ln2,num = re.subn('([yjqx])v','\g<1>u',ln2);
-    fp.write(ln2+'\n');
+    fp.write(id+'\t'+ln2+'\n');
 	
     ln1=ln1.replace('  \n','\n');
     ln1=ln1.replace(' \n','\n');
