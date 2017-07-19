@@ -10,4 +10,8 @@ TtsLabel:   label
 extract_feature:    cmp
     输入wav目录  使用matlab 并行提取特征 
 
+interval_pro:
+    interval 后处理 
+
+
 
