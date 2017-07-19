@@ -1,0 +1,125 @@
+**** warning ****
+This is a temporary version. Please use with care.
+**** end of warning ****
+
+The procedures and data, so-called STRAIGHT-suite, in this directory
+are under the copyright of ATR Human Information Processing Research
+laboratories, Wakayama University, CREST and Prof. Hideki Kawahara. No
+programs and data in this directory should be distributed without the
+written permission by Prof. Hideki Kawahara.
+
+Hideki Kawahara, Professor
+Media Design Informatics Group 
+Design and Information Science Dept.
+Faculty of Systems Engineering, Wakayama University
+Sakaedani, Wakayama, Wakayama 640-8510, Japan
+Phone: +81-734-57-8461 Fax: +81-734-57-8112
+E-mail: kawahara@sys.wakayama-u.ac.jp
+
+However, the copyright holders do not wish to restrict the use of
+STRAIGHT-suite for research purpose. Permission for research use
+may be provided without any problem, if requested. If you wish to
+apply STRAIGHT-suite for commercial use, please contact Dr. Katagiri
+of ATR Human Information Processing Research laboratories.
+
+Shigeru Katagiri, Dr.
+Head, 1st department
+ATR Human Information Processing Research Laboratories
+2-2 Hikaridai, Seika-cho, Soraku-gun,
+Kyoto 619-0288, Japan
+Phone: +81-774-95-1054  Fax: +81-774-95-1008
+E-mail: katagiri@hip.atr.co.jp
+
+NO WARRANTY: STRAIGHT-suite is always under construction. The
+copyright holders do not have any responsibilities for possible damage
+or loss of assets which may be caused by improper or proper use of
+STRAIGHT-suite. Please use it at your own risk.
+
+Documents:
+Please do not disclose these URL. They are subject to change.
+http://www.sys.wakayama-u.ac.jp/~kawahara/puzzlet/getstartSTRAIGHT.ps.gz
+
+You can also check relations between different STRAIGHT versions under
+the following URL.
+http://www.sys.wakayama-u.ac.jp/~kawahara/puzzlet/STRAIGHTcomparison.html
+
+Last update: 08 November, 1999.
+
+- ---------------
+History of updates
+
+Release note: STRAIGHTV30kr16 (08/Nobember/1999)
+
+Minor bug fix to the previous version. This version is still tentative.
+
+Release note: STRAIGHTV30kr15 (23/September/1999)
+
+A major extension on synthetic source is implemented. The new synthesis 
+routine uses aperiodicity information in synthesis. There are several
+obvious refinement plans. Therefore, this version will be replaced soon.
+
+Release note: STRAIGHTV30kr11 (03/September/1999)
+
+A major extension on source characteristics is implemented in this
+revision. An ad-hoc periodicity model was introduced and seems working
+reasonably. The older part is still effective and it allows you to
+compare different revisions. Detailed discussion can be found in
+Eurospeech'99 and IEICEJ/ASJ technical report 07.1999.
+
+Release note: STRAIGHTV30kr10 (01/August/1999)
+
+A minor bug in refineF02.m is fixed.
+
+Release note: STRAIGHTV30kr10 (01/August/1999)
+
+Stabilized maintenance version. New series is under development
+by Dr. Zolfaghari.
+
+(1) F0 refinement using multiple harmonic components is introduced.
+(2) Asymmetric envelope shaping is introduced.
+(3) some parameter tweeking based on the DRT test by Dr. Zolfaghari.
+(4) Additional parameter tweeking using EGG data.
+
+Release note: STRAIGHTV30kr9 (25/July/1999)
+
+Stabilized maintenance version. New series is under development
+by Dr. Zolfaghari.
+
+(1) Irrelevant GUI buttons are disabled.
+(2) Synthesis source wave is revised.
+
+Release note: STRAIGHTV30kr9 (18/July/1999)
+
+Stabilized maintenance version. New series is under development
+by Dr. Zolfaghari.
+
+(1) V/UV decision is crisp.
+(2) Spectrum smoothing  mode is crisp.
+(3) Small bug in synthesis was fixed.
+(4) C/N ratio compensation is disabled. Raw estimation is used instead.
+
+Release note: STRAIGHTV30r7 (17/May/1999)
+
+(1) New sampling frequency (12,500 Hz) was added.
+(2) F0 search upper limit, higher than 1 kHz, properly works now.
+(3) Bugs in F0 tracking algorithm were fixed.
+(4) Byte order for plane binary file can be selected now.
+(5) Multi band analysis was tentatively disabled.
+(6) Bugs in aiffread.m were fixed.
+(7) Small pop-noise in resynthesized speech is reduced.
+
+Modified files since STRAIGHTV30r6
+
+Obsolete files were not deleted yet.
+
+f0track4.m
+f0track5.m
+fixpF0VexMltpBG4.m
+getfsfrommenu.m
+straightCIv1.m
+straightpanel98.mat
+straightSynthTB05.m
+syncgui.m
+straightPanel98.m
+README
+
