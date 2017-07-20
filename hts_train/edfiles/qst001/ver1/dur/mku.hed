@@ -1,0 +1,12 @@
+
+TR 2
+
+// load trees for dur
+LT "/home/szm/tts/train_hts_model/4.train.8000.auto/trees/qst001/ver1/dur/dur.inf.untied"
+
+// make unseen model
+AU "/home/szm/tts/train_hts_model/4.train.8000.auto/data/lists/full_all.list"
+
+// make model compact
+CO "/home/szm/tts/train_hts_model/4.train.8000.auto/models/qst001/ver1/dur/tiedlist"
+

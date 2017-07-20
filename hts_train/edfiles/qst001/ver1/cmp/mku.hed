@@ -1,0 +1,15 @@
+
+TR 2
+
+// load trees for mgc
+LT "/home/szm/tts/train_hts_model/4.train.8000.auto/trees/qst001/ver1/cmp/mgc.inf.untied"
+
+// load trees for lf0
+LT "/home/szm/tts/train_hts_model/4.train.8000.auto/trees/qst001/ver1/cmp/lf0.inf.untied"
+
+// make unseen model
+AU "/home/szm/tts/train_hts_model/4.train.8000.auto/data/lists/full_all.list"
+
+// make model compact
+CO "/home/szm/tts/train_hts_model/4.train.8000.auto/models/qst001/ver1/cmp/tiedlist"
+
