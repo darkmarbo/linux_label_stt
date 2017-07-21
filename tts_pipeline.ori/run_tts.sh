@@ -71,31 +71,31 @@ cd ${dir_int}
    mv interval   ../
 cd -
 
-#################################  3  label 序列生成 
-#### 结果: full
-#rm -rf ${dir_label}/${file_py}
-#mv ${file_py}  ${dir_label}
-#rm -rf full
-#
-#cd ${dir_label}
-#    ./run.sh   ${file_py} 
-#    mv full ../
-#    mv ${file_py}  ../
-#cd -
-#
-#
-#################################   4  提取特征  
-#rm -rf ${dir_cmp}/wave  ${dir_cmp}/cmp
-#mv  ${dir_wav}   ${dir_cmp}/wave 
-#rm -rf cmp
-#
-#cd ${dir_cmp}
-#    ./run.sh 
-#    mv cmp ../
-#    mv wave ../${dir_wav}
-#
-#cd -
-#
+################################  3  label 序列生成 
+### 结果: full
+rm -rf ${dir_label}/${file_py}
+mv ${file_py}  ${dir_label}
+rm -rf full
+
+cd ${dir_label}
+    ./run.sh   ${file_py} 
+    mv full ../
+    mv ${file_py}  ../
+cd -
+
+
+################################   4  提取特征  
+rm -rf ${dir_cmp}/wave  ${dir_cmp}/cmp
+mv  ${dir_wav}   ${dir_cmp}/wave 
+rm -rf cmp
+
+cd ${dir_cmp}
+    ./run.sh 
+    mv cmp ../
+    mv wave ../${dir_wav}
+
+cd -
+
 #################################     5   训练 hts
 ls -1 cmp | awk -F"." '{print $1}' > tmp111
 ls -1 full | awk -F"." '{print $1}' > tmp222
