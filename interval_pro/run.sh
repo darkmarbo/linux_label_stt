@@ -40,19 +40,22 @@ cat ${dir_pro}/* |awk '{print $3}'|sort|uniq > ${dir_pro}.yinsu
 md5sum mono.list
 md5sum ${dir_pro}.yinsu
 
-md5sum ${dir_pro}/* | awk '{print $1}' > pro.md5sum.new 
-md5sum interval_pro.bak.ok/* | awk '{print $1}' > pro.md5sum.ok 
-md5sum pro.md5sum.new  pro.md5sum.ok 
-rm -rf  pro.md5sum.new  pro.md5sum.ok 
+#md5sum ${dir_pro}/* | awk '{print $1}' > pro.md5sum.new 
+#md5sum interval_pro.bak.ok/* | awk '{print $1}' > pro.md5sum.ok 
+#md5sum pro.md5sum.new  pro.md5sum.ok 
+#rm -rf  pro.md5sum.new  pro.md5sum.ok 
 
-#### 将interval 重命名成 000001.lab 
+#### 将interval 重命名成  
 rm -rf ${dir_rename} && mkdir -p ${dir_rename}
 
 ii=000001
-ls -1 ${dir_pro} |sort -n | while read file
+ls -1 ${dir_pro} | sort -n | while read file
 do
-    tmp=`printf %06d $ii`
+    #tmp=`printf %06d $ii`
+    #new_name=${tmp}.lab
+    tmp=${file%.interval}
     new_name=${tmp}.lab
+
     #echo "$file --> $new_name"
     cp ${dir_pro}/$file  ${dir_rename}/${new_name}
 

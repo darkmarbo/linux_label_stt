@@ -45,32 +45,32 @@ fi
 
 
 
-################################## 1 前端处理 + 切音  
-#### 结果: interval  ${file_py}
-#### 需要配置 19  192  27  211 的ssh等效性连接 
-#rm -rf ${dir_front}/${file}   ${dir_front}/${dir_wav}
-#mv ${file} ${dir_wav}   ${dir_front}
-#rm -rf interval  ${file_py}
-#
-#cd ${dir_front}
-#    ./run.sh  ${file} ${dir_wav}
-#    mv interval/hehe ../interval
-#    mv  ${file}   ${dir_wav}  ../
-#    mv   ${file_py}  ../
-#cd -
-#
-################################### 2 interval 处理 重命名
-#### 结果: mono
-#rm -rf ${dir_int}/interval
-#mv interval  ${dir_int}
-#rm -rf mono
-#
-#cd ${dir_int}
-#   ./run.sh interval 
-#   mv  interval_pro_rename  ../mono
-#   mv interval   ../
-#cd -
-#
+################################# 1 前端处理 + 切音  
+### 结果: interval  ${file_py}
+### 需要配置 19  192  27  211 的ssh等效性连接 
+rm -rf ${dir_front}/${file}   ${dir_front}/${dir_wav}
+mv ${file} ${dir_wav}   ${dir_front}
+rm -rf interval  ${file_py}
+
+cd ${dir_front}
+    ./run.sh  ${file} ${dir_wav}
+    mv interval/hehe ../interval
+    mv  ${file}   ${dir_wav}  ../
+    mv   ${file_py}  ../
+cd -
+
+################################## 2 interval 处理 重命名
+### 结果: mono
+rm -rf ${dir_int}/interval
+mv interval  ${dir_int}
+rm -rf mono
+
+cd ${dir_int}
+   ./run.sh interval 
+   mv  interval_pro_rename  ../mono
+   mv interval   ../
+cd -
+
 #################################  3  label 序列生成 
 #### 结果: full
 #rm -rf ${dir_label}/${file_py}
@@ -84,7 +84,7 @@ fi
 #cd -
 #
 #
-################################   4  提取特征  
+#################################   4  提取特征  
 #rm -rf ${dir_cmp}/wave  ${dir_cmp}/cmp
 #mv  ${dir_wav}   ${dir_cmp}/wave 
 #rm -rf cmp
@@ -96,7 +96,7 @@ fi
 #
 #cd -
 #
-################################     5   训练 hts
+#################################     5   训练 hts
 ls -1 cmp | awk -F"." '{print $1}' > tmp111
 ls -1 full | awk -F"." '{print $1}' > tmp222
 ls -1 mono | awk -F"." '{print $1}' > tmp333
@@ -126,10 +126,9 @@ do
     cp ${file}  ${dir_hts}/data/labels/gen/
 done
 
-### data 下 make labels
+### 运行  data 下 make labels
 cd ${dir_hts}/data && make labels && cd - 
 
-### 运行 
 cd ${dir_hts}
     perl scripts/Training.pl  scripts/Config.pm
 cd -

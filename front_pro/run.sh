@@ -2,7 +2,8 @@
 
 if(($#<2));then
     echo "usage: $0 file_txt  dir_wav "
-    echo "sample: $0 hehe.txt(UTF8文本)  RSTS202(语音目录) "
+    echo "file_txt 格式: id_num+TAB+content"
+    echo "dir_wav 格式: id_num.wav 与文本id_num完全对应的"
     exit 
 fi
 
@@ -48,6 +49,17 @@ ip_211="forcealignment@10.10.10.211"
 dir_211="/home/forcealignment/zh-cn-common"
 #### 内部包含 project/tts_8000/wav/1/  
 
+### 带id 的txt 预处理
+mv -f ${file}  ${file}.bak
+awk -F"\t" '{print $1}' ${file}.bak  > ${file}.id
+awk -F"\t" '{print $2}' ${file}.bak  > ${file}
+size_id=`wc -c ${file}.id | awk '{print $1}'`
+size_txt=`wc -c ${file} | awk '{print $1}'`
+if((${size_txt}<${size_id}));then
+    echo "format err:${file}"
+    rm -rf lock;
+    exit 1
+fi
 
 #################################  1   简体中文-TN  序号55 
 ### 把目标机器上的 临时目录清空 
@@ -70,6 +82,7 @@ else
     rm -rf lock;
     exit
 fi
+mv -f ${file}.bak  ${file}
 
 #################################   2    简体中文-韵律标注  序号55 
 ### 把目标机器上的 临时目录清空 
@@ -87,7 +100,7 @@ ssh  -p 22 ${ip_27}  "
 scp -P 22 ${ip_27}:${dir_27}/${file_pros_zip}  ${dir_A}/ 
 rm -rf tmp && mkdir -p tmp
 unzip ${file_pros_zip}  -d tmp
-mv tmp/${file_tn}  ${file_pros} 
+mv -f tmp/${file_tn}  ${file_pros} 
 rm -rf ${file_pros_zip}
 
 if [ -f ${dir_A}/${file_pros} ];then
@@ -100,8 +113,6 @@ fi
 
 
 #################################    3   发音预测   序号17  
-
-
 scp -P 22 ${dir_A}/${file_pros}  ${ip_192}:${dir_192} 
 
 ssh  -p 22 ${ip_192}  "
@@ -119,8 +130,13 @@ else
     exit
 fi
 
-################################   4  拆分音素  自动对齐 
-python py2phone.py ${file}_pinyin.txt  ${file}_yinsu.txt  
+### 将 id 拼回来 
+python merge_id.py  ${file_pinyin}  ${file}.id  ${file_pinyin}.merge
+mv -f ${file_pinyin}.merge   ${file_pinyin}
+
+
+#################################   4  拆分音素  自动对齐 
+python py2phone.py ${file_pinyin}  ${file}_yinsu.txt  
 
 dd=`date +%H%M%S`
 name_211="${dir_211}/project/${dd}"   ### 211 上的目录名字 
@@ -152,14 +168,14 @@ ssh  -p 22 ${ip_211}  "
 ## python test.py;
 
 rm -rf interval && scp -r ${ip_211}:${result}  ./
-md5sum interval/hehe/* | awk '{print $1}' > ttt
+#md5sum interval/hehe/* | awk '{print $1}' > ttt
 
 
 
 
 rm -rf lock;
 
-echo "整个流程执行完毕!"
+echo "front_pro 执行完毕!"
 
 
 
