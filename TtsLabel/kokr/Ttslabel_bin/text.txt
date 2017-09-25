@@ -1,0 +1,994 @@
+010001	밤이 되자%황야는/더욱더 두렵게 보인다%.
+	ba mi / doe ja / hwang ya neun / deo uk tteo / du ryeop kke / bo in da
+010002	비가/너무 적게 내려%땅껍질만 겨우 적셨을 뿐이다%.
+	bi ga / neo mu / jeo kke / nae ryeo / ttang kkeop jjil man / gyeo u / jeok syeo sseul / ppu ni da
+010003	네가/믿든 안 믿든%사실은 사실이다%.
+	ne ga / mit tteun / an / mit tteun / sa si reun / sa si li da
+010004	너무 장시간 볶아%곤죽이 되지 않도록 주의한다%.
+	neo mu / jang si gan / bo kka / gon ju gi / doe ji / an to rok / ju ui han da
+010005	불은%속이 비어야 하고%, 사람은/속이 꽉/차야 한다%.
+	bu reun / so gi / bi eo ya / ha go / sa ra meun / so gi / kkwak / cha ya / han da
+010007	애가/정상이 아니니까%받고도 찝찝하다%.
+	ae ga / jeong sang i / a ni ni kka / bat kko do / jjip jji pa da
+010008	흙을 이용해%논의 토질을 좋게 하였다%.
+	heul geul / i yong hae / no nui / to ji reul / jo ke / ha yeot tta
+010009	우리 강촉%, 누굴 닮아서 이렇게 머리가 좋냐%.
+	u ri / gang chok / nu gul / dal ma seo / i reo ke / meo ri ga / jot nya
+010010	장쯔이%과연/한국과 남다른 인연을 자랑하고 있다%.
+	jang jjeu i / gwa yeon / han guk kkwa / nam da reun / in yeo neul / ja rang ha go / it tta
+010011	각각%인자형 거탑을%하나씩 세워요%.
+	gak kkak / in ja hyeong / geo ta beul / ha na ssik / se wo yo
+010012	주말마다 햄프맨 바에서 근무했었고%.
+	ju mal ma da / haem peu maen / ppa e seo / geun mu hae sseot go
+010013	아직도 우즈벡 축구 역사에서/회자되는 일이다%.
+	a jik tto / u jeu bek / chuk kku / yeok ssa e seo / hoe ja doe neun / i li da
+010014	저는%궈이린에 가서 놀고 싶어요%.
+	jeo neun / kkwo i ri ne / ga seo / nol go / si peo yo
+010015	사진에서 접한 것보다%기대 이상으로 예뻤다%.
+	sa ji ne seo / jeo pan / geot ppo da / gi dae / i sang eu ro / ye ppeot tta
+010016	신한은행 곽주영이%동료의 패스를 놓치고 있다%.
+	si nan eu naeng / gwak ju yeong i / dong nyo ui / pae seu reul / not chi go / it tta
+010017	단과대별%편입생 쏠림 현상도 심각했다%.
+	dan kkwa dae byeol / pyeo nip ssaeng / ssol lim / hyeon sang do / sim ga kaet tta
+010018	귀여운 루돌프 코와%깜찍한 표정이 눈에 띈다%.
+	gwi yeo un / ru dol peu / ko wa / kkam jji kan / pyo jeong i / nu ne / ttuin da
+010019	그녀는 항상%검소한 옷차림을 하고 있었다%.
+	geu nyeo neun / hang sang / geom so han / ot cha ri meul / ha go / i sseot tta
+010020	늦장부리지 말고%시급히 귀국해라%.
+	neut jjang bu ri ji / mal go / si geu pi / gwi gu kae ra
+010021	엘니뇨와 함께%북태평양 십년 진동이 범인이다%.
+	el li nyo wa / ham kke / buk tae pyeong yang / sim nyeon / jin dong i / beo min i da
+010022	샹탕에서 쑤저우로 가는/차표를 사고 싶어요%.
+	syang tang e seo / ssu jeo u ro / ga neun / cha pyo reul / sa go / si peo yo
+010023	그녀의 독살스러운 꼴은%사람을 두렵게 한다%.
+	geu nyeo ui / dok ssal seu reo un / kko reun / sa ra meul / du ryeop kke / han da
+010024	내가%이번엔 일빠로 대시해서%확 사귈 거니까%.
+	nae ga / i beo nen / il ppa ro / dae si hae seo / hwak / sa gwil / geo ni kka
+010025	의무병 가족의%우대 무휼금 기준을 높이다%.
+	ui mu byeong / ga jo gui / u dae / mu hyul geum / gi ju neul / no pi da
+010026	어%, 그게%, 당신도 알다시피%캔디랑 나랑 헤어졌잖아%.
+	eo / geu ge / dang sin do / al da si pi / kaen di rang / na rang / he eo jyeot jja na
+010027	가족력이네요%라는 짧은 글을 남겼다%.
+	ga jong nyeo gi ne yo / ra neun / jjal beun / geu reul / nam gyeot tta
+010028	수연 역에는%고은아가 낙점돼/함께 호흡을 맞춘다%.
+	su yeon / yeo ge neun / go eu na ga / nak jjeom dwae / ham kke / ho heu beul / mat chun da
+010029	그녀는%그한테/악담을 퍼부었다%.
+	geu nyeo neun / geu han te / ak tta meul / peo bu eot tta
+010030	새하얀 집들이%성냥곽처럼/오밀조밀 모여 있다%.
+	sae ha yan / jip tteu ri / seong nyang gwak cheo reom / o mil jo mil / mo yeo / it tta
+010031	저는/청링에 대해/아주 궁금해요%.
+	jeo neun / cheong ling e / dae hae / a ju / gung geum hae yo
+010032	이중/가장 으뜸 경관은%역시 소매물도와 등대섬%.
+	i jung / ga jang / eu tteum / gyeong gwa neun / yeok ssi / so mae mul do wa / deung dae seom
+010033	사무실 안이 너무 더워%밖으로 나와/바람을 쐬다%.
+	sa mu sil / a ni / neo mu / deo wo / ba kkeu ro / na wa / ba ra meul / ssoe da
+010034	우현이가/회삿돈 갖고 날라서%부도 났어%.
+	u hyeo ni ga / hoe sat tton / gat kko / nal la seo / bu do / na sseo
+010035	루앤은%트리트와 웃으며/농담을 하고 있었다%.
+	ru ae neun / teu ri teu wa / u seu myeo / nong da meul / ha go / i sseot tta
+010036	헤헤 하고%두어 차례/냉소하였다%.
+	he he / ha go / du eo / cha rye / naeng so ha yeot tta
+010037	비쓱거리며%가까스로 일어났다%.
+	bi sseuk kkeo ri myeo / ga kka seu ro / i reo nat tta
+010038	같은 당의/홍종학 의원 역시%비난의 수위가 쎘다%.
+	ga teun / dang i / hong jong hak / ui won / yeok ssi / bi na nui / su wi ga / sset tta
+010039	과연/될성부른 나무는%떡잎부터 남다른 법%.
+	gwa yeon / doel sseong bu reun / na mu neun / tteong nip bu teo / nam da reun / beop
+010040	정신을 차리고/앞을 봤는데%온통 깜깜했어요%.
+	jeong si neul / cha ri go / a peul / bwat neun de / on tong / kkam kka mae sseo yo
+010041	그는%뜰 안의 가장/앞줄 아파트에/살고 있습니다%.
+	geu neun / tteu / ra nui / ga jang / ap jjul / a pa teu e / sal go / it seum ni da
+010042	나는%그의 단점을%단단히 틀어쥐고 있다%.
+	na neun / geu ui / dan jjeo meul / dan da ni / teu reo jwi go / it tta
+010043	볼륨 노브도%전작에 비해/획기적으로 개선됐다%.
+	bol lyum / no beu do / jeon ja ge / bi hae / hoek kki jeo geu ro / gae seon dwaet tta
+010044	우리 마봉 씨는%눈이/어쩜 그렇게 크냐%.
+	u ri / ma bong / ssi neun / nu ni / eo jjeom / geu reo ke / keu nya
+010045	위에서부터/훑고 내려오려구요%.
+	wi e seo bu teo / hul kko / nae ryeo o ryeo gu yo
+010046	그는 날마다%빈둥빈둥 놀고만 있다%.
+	geu neun / nal ma da / bin dung bin dung / nol go man / it tta
+010047	옮긴 후의 업무 분위기가%예전보다 좋지 못하다%.
+	om gin / hu i / eom mu / bu nwi gi ga / ye jeon bo da / jo chi / mo ta da
+010048	그것도 모르다니%나이가 아깝다%.
+	geu geot tto / mo reu da ni / na i ga / a kkap tta
+010049	프랑스의 밤이 펼쳐지는%쁘띠프랑스 야간개장%.
+	peu rang seu ui / ba mi / pyeol cheo ji neun / ppeu tti peu rang seu / ya gan gae jang
+010050	당근을%찜통에/쪄서 먹어도 좋다%.
+	dang geu neul / jjim tong e / jjyeo seo / meo geo do / jo ta
+010051	찌라시 단속에%회의적인 목소리도 있다%.
+	jji ra si / dan so ge / hoe ui jeo gin / mok sso ri do / it tta
+010052	셋째야%, 어서 일어나라%학교 가야지%.
+	se jjae ya / eo seo / i reo na ra / hak kkyo / ga ya ji
+010053	다른 무엇보다도%나는/너무나 배가 고팠다%.
+	da reun / mu eot ppo da do / na neun / neo mu na / bae ga / go pat tta
+010054	다채로운 컬러의/자화상 시리즈도 곁들였다%.
+	da chae ro un / keol leo ui / ja hwa sang / si ri jeu do / gyeot tteul lyeot tta
+010055	정준하 형%, 강남%, 김정훈 동생들 함께해서 즐거웠어%.
+	jeong ju na / hyeong / gang nam / gim jeong hun / dong saeng deul / ham kke hae seo / jeul geo wo sseo
+010056	이번 화보는%아디다스의/의상을 입고 진행됐다%.
+	i beon / hwa bo neun / a di da seu ui / ui sang eul / ip kko / jin haeng dwaet tta
+010057	그는%암컷 강아지를%조금 믿지 못해요%.
+	geu neun / am keot / gang a ji reul / jo geum / mit jji / mo tae yo
+010058	승유를 살릴 방도를 내놓으란 말이야%.
+	seung yu reul / sal lil / bang do reul / nae no eu ran / ma ri ya
+010059	박승호 시장의 유치 의지는%꽤 단단하다%.
+	bak sseung ho / si jang ui / yu chi / ui ji neun / kkwae / dan dan ha da
+010060	아이를 발가벗기고/몸을 씻기다%.
+	a i reul / bal ga beot kki go / mo meul / ssit kki da
+010061	창가에 있는%푹신한 좌석- 하나를 원해요%.
+	chang kka e / it neun / puk ssi nan / jwa seok / ha na reul / wo nae yo
+010062	왼쪽부터%홍성흔%, 펠릭스 피에%, 김광현%.
+	oen jjok bu teo / hong seong heun / pel lik sseu / pi e / gim gwang hyeon
+010063	역전의 역전을 거듭한 끝에%가까스로 이기다%.
+	yeok jjeo nui / yeok jjeo neul / geo deu pan / kkeu te / ga kka seu ro / i gi da
+010064	운동 건아들이%영광을 안고/영광스럽게 돌아오다%.
+	un dong / geo na deu ri / yeong gwang eul / an kko / yeong gwang seu reop kke / do ra o da
+010065	써니가/팔꿈치나 어깨를 깨물고%엉덩이를 만진다%.
+	sseo ni ga / pal kkum chi na / eo kkae reul / kkae mul go / eong deong i reul / man jin da
+010066	집이 좋긴 좋지만%아깝게도/깊이가 너무 얕다%.
+	ji bi / jo kin / jo chi man / a kkap kke do / gi pi ga / neo mu / yat tta
+010067	그들은%도둑 맞은 보석을%혈안이 되어 찾았다%.
+	geu deu reun / do duk / ma jeun / bo seo geul / hyeo ra ni / doe eo / cha jat tta
+010068	님의 논리는%전혀 설득력 없습니다%.
+	ni mui / nol li neun / jeon hyeo / seol tteung nyeok / eop sseum ni da
+010069	나는/지금까지%다른 사람에게 기댄 적이 없다%.
+	na neun / ji geum kka ji / da reun / sa ra me ge / gi daen / jeo gi / eop tta
+010070	낮은 학업 성취도는%정서적 장애와 결부된다%.
+	na jeun / ha geop / seong chwi do neun / jeong seo jeok / jang ae wa / gyeol bu doen da
+010071	붉은 빛이 우러나%물이 붉게 되다%.
+	bul geun / bi chi / u reo na / mu ri / bul kke / doe da
+010072	어차피 여윳돈으로 투자한 거니까%.
+	eo cha pi / yeo yut tto neu ro / tu ja han / geo ni kka
+010073	바쁘다는 사람을 물고 늘어져%놔주질 않는다%.
+	ba ppeu da neun / sa ra meul / mul go / neu reo jyeo / nwa ju jil / an neun da
+010074	받은 금액은 대부분%용돈과 유흥비 등으로 썼다%.
+	ba deun / geu mae geun / dae bu bun / yong tton gwa / yu heung bi / deung eu ro / sseot tta
+010075	소속 클럽 볼턴에서도%항상 출전한다%.
+	so sok / keul leop / bol teo ne seo do / hang sang / chul jjeo nan da
+010076	사람은/자기의 보잘것없음을%느낄수 있어요%.
+	sa ra meun / ja gi ui / bo jal kkeot / eop sseu meul neu kkil ssu / i sseo yo
+010077	그는 언제나%아들딸들에 대하여/떠들어 댄다%.
+	geu neun / eon je na / a deul ttal deu re / dae ha yeo / tteo deu reo / daen da
+010078	그러나%여전히 최종 후보군조차/좁히지 못했다%.
+	geu reo na / yeo jeo ni / choe jong / hu bo gun jo cha / jo pi ji / mo taet tta
+010079	초경량 알로이 포크에%픽시 변속레버가 달려 있다%.
+	cho gyeong nyang / al lo i / po keu e / pik ssi / byeon song le beo ga / dal lyeo / it tta
+010080	지금 멜버른은%그야말로 스포츠 축제에 빠져 있다%.
+	ji geum / mel beo reu neun / geu ya mal lo / seu po cheu / chuk jje e / ppa jyeo / it tta
+010081	그들이 필요한 것은%안온한 집이다%.
+	geu deu ri / pi ryo han / geo seun / an o nan / ji bi da
+010082	카카오톡에는%경찰 마크를 모두 뺐다%.
+	ka ka o to ge neun / gyeong chal / ma keu reul / mo du / ppaet tta
+010083	이 천은%안과 밖이 모두/같은 무늬에/같은 색깔이다%.
+	i / cheo neun / an gwa / ba kki / mo du / ga teun / mu ni e / ga teun / saek kka ri da
+010084	여자가 늙으면%노랗게 바랜 진주처럼%가치가 없다%.
+	yeo ja ga / neul geu myeon / no ra ke / ba raen / jin ju cheo reom / ga chi ga / eop tta
+010085	우리 회사의/우선 선택은%춘츄 항공이에요%.
+	u ri / hoe sa ui / u seon / seon tae geun / chun chyu / hang gong i e yo
+010086	비가 멎고/날이 개니%, 달은/씻은 듯이 밝다%.
+	bi ga / meot kko / na ri / gae ni / da reun / ssi seun / deu si / bak tta
+010087	일종의/특별 자습시간이라고나 할까%.
+	il jjong ui / teuk ppyeol / ja seup ssi ga ni ra go na / hal kka
+010088	이런 동물들은%캥거루 주위에서 생활하고 있어요%.
+	i reon / dong mul deu reun / kaeng geo ru / ju wi e seo / saeng hwal ha go / i sseo yo
+010089	조정에 인맥이 있으면%벼슬하기 쉽다%.
+	jo jeong e / in mae gi / i sseu myeon / byeo seul ha gi / swip tta
+010090	이윤성 박사님도%슈렌샤우스 벡셀 샤우젤이네%.
+	i yun seong / bak ssa nim do / syu ren sya u seu / bek ssel / sya u je ri ne
+010091	엄마%, 스튜핏이%이상한 동영상 보고 있어%.
+	eom ma / seu tyu pi si / i sang han / dong yeong sang / bo go / i sseo
+010092	김이브는%그때는 웹캠이 없었다%.
+	gi mi beu neun / geu ttae neun / wep kae mi / eop sseot tta
+010093	팩트로 얘기해야 되겠던데%, 하시려면%.
+	paek teu ro / yae gi hae ya / doe get tteon de / ha si ryeo myeon
+010094	거기엔 정말%초콜릿 칩이 들어 있다%.
+	geo gi en / jeong mal / cho kol lit / chi bi / deu reo / it tta
+010095	어느 곳의 황토에/싹이 돋지 않으랴%.
+	eo neu / go sui / hwang to e / ssa gi / dot jji / an eu rya
+010096	가을부터/유난히/번번히 눈에 띄는%앵클 부츠%.
+	ga eul bu teo / yu na ni / beon beo ni / nu ne / tti neun / aeng geul / bu cheu
+010097	접수 기간은%적합자/채용 시까지다%.
+	jeop ssu / gi ga neun / jeo kap jja / chae yong / si kka ji da
+010098	큰소리만/떵떵 치지만%정말 능력은 하나도 없다%.
+	keun so ri man / tteong tteong / chi ji man / jeong mal / neung nyeo geun / ha na do / eop tta
+010099	아이들의 혼례를%서둘렀으면 합니다%.
+	a i deu rui / hol lye reul / seo dul leo sseu myeon / ham ni da
+010100	아이는 필연코%꾹%참아 견디며%소망을 이룰거에요%.
+	a i neun / pil lyeon ko / kkuk / cha ma / gyeon di myeo / so mang eul / i rul kkeo e yo
+010101	이 출구는%영화팬들로%꽉/막혔다%.
+	i / chul gu neun / yeong wa paen deul lo / kkwak / ma kyeot tta
+010102	마치/좋치 않은 냄새가 있는것 같아요%.
+	ma chi / jot chi / a neun / naem sae ga / it neun geot / ga ta yo
+010103	왁자지껄한 거리가%다시 돌아오는 것이다%.
+	wak ja ji kkeo lan / geo ri ga / da si / do ra o neun / geo si da
+010104	어디엔가%너를 숨기고 있는 까닭이야%.
+	eo di en ga / neo reul / sum gi go / it neun / kka da gi ya
+010105	우리/박선생님%고기 먹고 힘내요%.
+	u ri / bak sseon saeng nim / go gi / meok kko / him nae yo
+010106	어깨가 넓은건%챙피한 일도 아닌데요%.
+	eo kkae ga / neol beun geon / chaeng pi han / il do / a nin de yo
+010107	이번 여름캠프%어떤사람은/가고 싶어하고%.
+	i beon / yeo reum kaem peu / eo tteon sa ra meun / ga go / si peo ha go
+010109	에인트호벤 박지성이%드리블을 하고 있다%.
+	e in teu ho ben / bak jji seong i / deu ri beu reul / ha go / it tta
+010110	찍는다%담는다%그리고/바로 보낸다%.
+	jjing neun da / dam neun da / geu ri go / ba ro / bo naen da
+010111	이 글자는%마치 백범 김구 선생의 자필 같다%.
+	i / geul jja neun / ma chi / baek ppeom / gim gu / seon saeng ui / ja pil / gat tta
+010112	너는 어쩌면%악귀를 만났을지도 모른다%.
+	neo neun / eo jjeo myeon / ak kkwi reul / man na sseul ji do / mo reun da
+010113	나는/기회가/아주 적을 것으로 예측됩니다%.
+	na neun / gi hoe ga / a ju / jeo geul / geo seu ro / ye cheuk ttoem ni da
+010114	김정은/지팡이 없이 등장/관련 뉴스%.
+	gim jeong eun / ji pang i / eop ssi / deung jang / gwal lyeon / nyu seu
+010115	듀얼탭 전면 카메라/해상도 테스트%.
+	dyu eol taep / jeon myeon / ka me ra / hae sang do / te seu teu
+010116	공주마마%, 직강 김승유라 하옵니다%.
+	gong ju ma ma / jik kkang / gim seung yu ra / ha om ni da
+010117	무주택 서민에 대한%디딤돌 대출 지원도 확대한다%.
+	mu ju taek / seo mi ne / dae han / di dim ttol / dae chul / ji won do / hwak ttae han da
+010118	형은/나보다 키가 크고%힘도 셉니다%.
+	hyeong eun / na bo da / ki ga / keu go / him do / sem ni da
+010119	사탕을/와드득와 드득%깨물어 먹다%.
+	sa tang eul / wa deu deuk / wa deu deuk / kkae mu reo / meok tta
+010120	내가 찾은 액체는%그녀 몸에서 생긴거야%.
+	nae ga / cha jeun / aek che neun / geu nyeo / mo me seo / saeng gin geo ya
+010121	신문에 게재된%광고지면을 보는 켄%.
+	sin mu ne / ge jae doen / gwang go ji myeo neul / bo neun / ken
+010122	사랑의 추억%, 슬픔의 기억 등의%희로애락이요%.
+	sa rang ui / chu eok / seul peu mui / gi eok / deung ui / hi ro ae ra gi yo
+010123	밭머리에%들풀이 빽빽이 자라고 있다%.
+	bat meo ri e / deul pu ri / ppaek ppae gi / ja ra go / it tta
+010124	지속적인 치료 덕분에%방귀도 줄어들었다%.
+	ji sok jjeo gin / chi ryo / deok ppu ne / bang gwi do / ju reo deu reot tta
+010125	종탑은%높이가 삼십삼 미터에요%.
+	jong ta beun / no pi ga / sam sip sam / mi teo e yo
+010126	석유 화학은%글감 산업의/중요한 부분을 이룬다%.
+	seo gyu / hwa ha geun / geul kkam / sa neo bui / jung yo han / bu bu neul / i run da
+010127	그가/가래를 뱉게끔 도와주세요%.
+	geu ga / ga rae reul / baet kke kkeum / do wa ju se yo
+010128	바쁜 와중에%짬 내서 메세지 보내고 있어요%.
+	ba ppeun / wa jung e / jjam / nae seo / me sse ji / bo nae go / i sseo yo
+010129	다수 거실에는%안락의자가 하나/있을 것입니다%.
+	da su / geo si re neun / al la gui ja ga / ha na / i sseul / geo sim ni da
+010130	당신 아들이%칠판에 엉덩이를 그렸어요%.
+	dang sin / a deu ri / chil pa ne / eong deong i reul / geu ryeo sseo yo
+010131	사이버폭력%근절 대책에 대해서도%의견을 나눴다%.
+	ssa i beo pong nyeok / geun jeol / dae chae ge / dae hae seo do / ui gyeo neul / na nwot tta
+010132	반면%쑨양은/고전할 것으로 내다봤다%.
+	ban myeon / ssun yang eun / go jeo nal / kkeo seu ro / nae da bwat tta
+010133	가능하면/습한 공기를 흡입하는 것이 좋다%.
+	ga neung ha myeon / seu pan / gong gi reul / heu bi pa neun / geo si / jo ta
+010134	맛은 물론%클럽 분위기의 음악까지 흡족했다%.
+	ma seun / mul lon / keul leop / bun wi gi ui / eu mak kka ji / heup jjo kaet tta
+010135	내가/당구장에 갖다 바친 돈이 얼만데%.
+	nae ga / dang gu jang e / gat tta / ba chin / do ni / eol man de
+010136	친구인%랜디 백스터씨 꺼기도 해요%.
+	chin gu in / raen di / baek seu teo ssi / kkeo gi do / hae yo
+010137	달걀 깨려고%도끼 가져오라 하지 마라%.
+	dal gyal / kkae ryeo go / do kki / ga jyeo o ra / ha ji / ma ra
+010138	양상문 감독도%딜레마에 빠져있다%.
+	yang sang mun / gam dok tto / dil le ma e / ppa jyeo it tta
+010139	덕분에/퓨쳐스리그/올스타 포수로 뽑혔다%.
+	deok ppu ne / pyu cheo seu ri geu / ol seu ta / po su ro / ppo pyeot tta
+010140	누에가 뽕잎을%모짝모짝/갉아 먹는다%.
+	nu e ga / ppong i peul / mo jjak mo jjak / gal ga / meong neun da
+010141	교통 위반 운전은%범칙금을 부과해야 한다%.
+	gyo tong / wi ban / un jeo neun / beom chik kkeu meul / bu gwa hae ya / han da
+010142	그런데%음악적 스팩트럼이 넓어졌다%.
+	geu reon de / eu mak jjeok / seu paek teu reo mi / neol beo jyeot tta
+010143	그렇다면 그들의 팔뚝 굵이는/얼마나 될까%.
+	geu reo ta myeon / geu deu rui / pal ttuk / gul gi neun / eol ma na / doel kka
+010144	빅토르 안에게%조국은 무엇일까%.
+	bik to reu / an e ge / jo gu geun / mu eo sil kka
+010145	건축물들은%모든 북구라파에서/으뜸으로 뽑혀요%.
+	geon chung mul deu reun / mo deun / buk kku ra pa e seo / eu tteu meu ro / ppo ppyeo yo
+010146	문을 넘으면%신라에서 백제로 간다는 곳이다%.
+	mu neul / neo meu myeon / sil la e seo / baek je ro / gan da neun / go si da
+010147	제가/햄버커 하나를/배상해드릴게요%.
+	je ga / haem beo geo / ha na reul / bae sang hae deu ril ge yo
+010148	박쌤/오늘 기분/되게 업돼 보여요%.
+	bak ssaem / o neul / gi bun / doe ge / eop ttwae / bo yeo yo
+010149	아킬레스건인 레프트가%아무래도 불안하다%.
+	a kil le seu geo nin / re peu teu ga / a mu rae do / bu ran ha da
+010150	다행이도 헐변이라%조금/늦게 갚아도 되겠다%.
+	da haeng i do / heol byeo ni ra / jo geum / neut kke / ga pa do / doe get tta
+010151	모든 함정과 항공기는%긴급 출동태세를 갖췄다%.
+	mo deun / ham jeong gwa / hang gong gi neun / gin geup / chul ttong tae se reul / gat chwot tta
+010152	내가/벤자민 호버를 만나다니%믿기지가 않네%.
+	nae ga / ben ja min / ho beo reul / man na da ni / mit kki ji ga / an ne
+010153	연구의 핵심은%자원 선순환 모델 구축에 있다%.
+	yeon gu ui / haek ssi meun / ja won / seon su nwan / mo del / gu chu ge / it tta
+010154	엑소 중국인 멤버/잇딴 이탈%, 크리스에 이어%루한도%.
+	ek sso / jung gu gin / mem beo / it ttan / i tal / keu ri seu e / i eo / ru han do
+010155	어림도 없어%걔에게 대꾸하지 마%.
+	eo rim do / eop sseo / gyae e ge / dae kku ha ji / ma
+010156	악에게 지지 말고%계속 선으로 악을 이기십시오%.
+	a ge ge / ji ji / mal go / ge sok / seo neu ro / a geul / i gi sip ssi o
+010157	덕분에%나는 바닥에 꽈당했잖아%.
+	deok ppu ne / na neun / ba da ge / kkwa dang haet ja na
+010158	빔프로젝터의 가격도%많이 내렸다%.
+	bim peu ro jek teo ui / ga gyeok tto / ma ni / nae ryeot tta
+010159	김응룡 감독은%여론의 질타를 받기 시작했다%.
+	gi meung nyong / gam do geun / yeo ron ui / jil ta reul / bat kki / si ja kaet tta
+010160	휙- 하는 소리와 함께%공로가/바스켓 안에 들어갔다%.
+	hwik / ha neun / so ri wa / ham kke / gong ro ga / ba seu ket / a ne / deu reo gat tta
+010161	넝마를 주워 팔아%생계를 유지하다%.
+	neong ma reul / ju wo / pa ra / saeng gye reul / yu ji ha da
+010162	갈 때%될수록 학생증을 가지고 가세요%.
+	gal / ttae / doel ssu rok / hak ssaeng jjeung eul / ga ji go / ga se yo
+010163	융족의 왕이%천자의 은총에 배복하다%.
+	yung jo gui / wang i / cheon ja ui / eun chong e / bae bo ka da
+010164	웃다가%얼굴에 침 뱉을 인간이에요%.
+	ut tta ga / eol gu re / chim / bae teul / in gan i e yo
+010165	극의 줄거리에%클라이맥스 장면이/연달아 나온다%.
+	geu gi / jul geo ri e / keul la i maek sseu / jang myeo ni / yeon da ra / na on da
+010166	오토바이숍에서 연락이 와서요%.
+	o to ba i syo be seo / yeol la gi / wa seo yo
+010167	역시/회맹부 장중적증이더군요%.
+	yeok ssi / hoe maeng bu / jang jung jeok jjung i deo gun yo
+010168	이윤성 박사님이/가르쳐줬으면 좋겠는데%.
+	i yun seong / bak ssa ni mi / ga reu cheo jwo sseu myeon / jo ket neun de
+010169	최근/전셋값이%고공행진을 거듭하고 있다%.
+	choe geun / jeon se kkap ssi / go gong haeng ji neul / geo deu pa go / it tta
+010170	일반적으로%이러한/콘덴서가 있어요%.
+	il ban jeo geu ro / i reo han / kon den sseo ga / i sseo yo
+010171	조개를 찾으려고%갯벌을 헤적이다%.
+	jo gae reul / cha jeu ryeo go / gae ppeo reul / he jeo gi da
+010172	벨기에%, 덴마크 등도%같은 기간 하락폭이 컸다%.
+	bel gi e / den ma keu / deung do / ga teun / gi gan / ha rak po gi / keot tta
+010173	그한테/억지로 들씌운/죄명을%벗겨 버리다%.
+	geu han te / eok jji ro / deul ssi un / joe myeong eul / beot kkyeo / beo ri da
+010174	물론%하비에르 바르뎀은 못오시지만%.
+	mul lon / ha bi e reu / ba reu de meun / mo do si ji man
+010175	아래는/장씨의 편지 가운데%일부를 발췌한 것%.
+	a rae neun / jang ssi ui / pyeon ji / ga un de / il bu reul / bal chwe han / geot
+010176	유선티비면%인터넷 깔 수 있어요%.
+	yu seon ti bi myeon / in teo net / kkal / su / i sseo yo
+010177	전방을 가리키는%엣지 잇는 손가락%.
+	jeon bang eul / ga ri ki neun / e jji / in neun / son kka rak
+010178	뭉친 근육을%앞서 푸는 것이 낫다%.
+	mung chin / geu nyu geul / ap sseo / pu neun / geo si / nat tta
+010179	제가/일곱시 오십분에%당신의 방으로 갈게요%.
+	je ga / il gop ssi / o si ppu ne / dang sin ui / bang eu ro / gal ge yo
+010180	또띠아는%기름 없는 팬에/앞%, 뒤로 굽는다%.
+	tto tti a neun / gi reum / eom neun / pae ne / ap / dwi ro / gum neun da
+010181	비발디는%굉장히 멋진 협주곡을/많이 작곡했다%.
+	bi bal di neun / goeng jang hi / meot jjin / hyeop jju go geul / ma ni / jak kko kaet tta
+010182	쟤들이 사라지면%먹이가게로 가자%.
+	jyae deu ri / sa ra ji myeon / meo gi ga ge ro / ga ja
+010183	우리는 후손들에게%복을 마련해 주어야 한다%.
+	u ri neun / hu son deu re ge / bo geul / ma ryeo nae / ju eo ya / han da
+010184	너무 오랫동안%알제리의 승리를 염원했다%.
+	neo mu / o rae ttong an / al jje ri ui / seung ni reul / yeo mwon haet tta
+010185	남을 쫒는 욕망은%희망이 아닌 것을%.
+	na meul / jjot neun / yong mang eun / hi mang i / a nin / geo seul
+010186	오늘/복날이 끝나니%, 무더위도/이젠 끝난 셈이다%.
+	o neul / bong na ri / kkeun na ni / mu deo wi do / i jen / kkeun nan / se mi da
+010188	타오의 거침없는 손길에%제작진도 깜짝 놀랄 정도%.
+	ta o ui / geo chi meom neun / son gi re / je jak jjin do / kkam jjak / nol lal / jeong do
+010189	힐을 신지 않을 때는%발레화를 신는다%.
+	hi reul / sin ji / a neul / ttae neun / bal le hwa reul / sin neun da
+010190	흙벽이/물에 불려%부슬부슬해졌다%.
+	heuk ppyeo gi / mu re / bul lyeo / bu seul bu seul hae jyeot tta
+010191	걱정%, 닷새 기분 좋게 일하다가%하루는 무척 힘들다%.
+	geok jjeong / dat ssae / gi bun / jo ke / i la da ga / ha ru neun / mu cheok / him deul da
+010192	그는/그의 집의 창문에서%아야 소피아를 본다%.
+	geu neun / geu ui / ji bui / chang mu ne seo / a ya / so pi a reul / bon da
+010193	동급/최고 수준의 공간 활용성 역시%단연 눈에 띈다%.
+	dong kkeup / choe go / su ju ni / gong gan / hwa ryong sseong / yeok ssi / da nyeon / nu ne / ttuin da
+010194	그가 남긴 말을%곰곰이 반추해 보다%.
+	geu ga / nam gin / ma reul / gom go mi / ban chu hae / bo da
+010195	그가/채찍 끝에/달린 쇠바늘에 찔려 다쳤다%.
+	geu ga / chae jjik / kkeu te / dal lin / soe ba neu re / jjil lyeo / da chyeot tta
+010196	못된 무리들과 휩쓸려 다니더니%물들어 버렸다%.
+	mot ttoen / mu ri deul gwa / hwip sseul lyeo / da ni deo ni / mul deu reo / beo ryeot tta
+010197	나는%온몸이 전율하는 것을 느꼈다%.
+	na neun / on mo mi / jeo nyul ha neun / geo seul / neu kkyeot tta
+010198	죽고 사는 것은/자연의 이치입니다%.
+	juk kko / sa neun / geo seun / ja yeo nui / i chi im ni da
+010199	김효주가%아이언으로 티샷을 날리고 있다%.
+	gi mhyo ju ga / a i eon eu ro / ti sya seul / nal li go / it tta
+010200	쇼가 끝나면%모자를 들고/돈을 걷으러 다녔어요%.
+	syo ga / kkeun na myeon / mo ja reul / deul go / do neul / geo deu reo / da nyeo sseo yo
+010201	나가서 쉘을 하나 사서/바꾸었어요%.
+	na ga seo / swe reul / ha na / sa seo / ba kku eo sseo yo
+010202	가시와 레이솔에 남겨진%홍명보 감독의 흔적들%.
+	ga si wa / re i so re / nam gyeo jin / hong myeong bo / gam do gui / heun jeok tteul
+010203	나는/갑작스레/덜컥 겁이 나서%입을 다물어 버렸다%.
+	na neun / gap jjak sseu re / deol keok / geo bi / na seo / i beul / da mu reo / beo ryeot tta
+010204	옹졸한 새끼%, 죽여 버리고 말테다%.
+	ong jol han / sae kki / ju gyeo / beo ri go / mal te da
+010205	마당 안의 귤나무에%이미/귤이 가득 열렸다%.
+	ma dang / an ui / gyul la mu e / i mi / gyu ri / ga deuk / yeol lyeot tta
+010206	비행기의/비행속도는%몹시 빨라요%.
+	bi haeng gi ui / bi haeng sok tto neun / mop ssi / ppal la yo
+010207	천왕성/프랑켄슈타인 달%, 얼음으로 이뤄진 특이함%.
+	cheo nwang seong / peu rang ken syu ta in / dal / eo reu meu ro / i rwo jin / teu gi ham
+010208	이번 협업은%양사에 윈윈이 되는 작업이었다%.
+	i beon / hyeo beo beun / yang sa e / win wi ni / doe neun / ja geo bi eot tta
+010209	칭찬은 다리가 붙어 있고%험담은 날개가 달려 있다%.
+	ching cha neun / da ri ga / bu teo / it go / heom da meun / nal gae ga / dal lyeo / it tta
+010210	그런데 지나고 나니%김현식에게 너무 고맙다%.
+	geu reon de / ji na go / na ni / gi myeon si ge ge / neo mu / go map tta
+010211	그녀는 행위가 악랄하고%, 또한 돈밖에 모른다%.
+	geu nyeo neun / haeng wi ga / ang na la go / tto han / don ba kke / mo reun da
+010212	투헬 감독 역시%좋은 사람으로 알고 있다%.
+	tu hel / gam dok / yeok ssi / jo eun / sa ram eu ro / al go / it tta
+010213	당신이 좋아하는/동탯국 끓어놨어%.
+	dang si ni / jo a ha neun / dong tae kkuk / kkeu reo nwa sseo
+010214	장하나는%이번 대회의/디펜딩 챔피언이다%.
+	jang ha na neun / i beon / dae hoe ui / di pen ding / chaem pi eo ni da
+010215	그녀는/이것에 대하여%발깍 화를 냈다%.
+	geu nyeo neun / i geo se / dae ha yeo / bal kkak / hwa reul / naet tta
+010216	그러나 지금%르어랑다오가/바다를 봉할 거예요%.
+	geu reo na / ji geum / reu eo rang da o ga / ba da reul / bong hal / kkeo ye yo
+010217	이 복숭아는%육질이 두텁고 즙이 많다%.
+	i / bok ssung a neun / yuk jji li / du teop kko / jeu bi / man ta
+010218	워낙%잘난 아드님을 두셔서 그래요%.
+	wo nak / jal lan / a deu ni meul / du syeo seo / geu rae yo
+010219	공격수 자원에 대한/고민도 읽힌다%.
+	gong gyeok ssu / ja wo ne / dae han / go min do / il kin da
+010220	십아봉은%모양에 따라/이름을 지었습니다%.
+	si ba bong eun / mo yang e / tta ra / i reu meul / ji eot seum ni da
+010221	캠프 전에/훈련이 부족해%시행착오도 있었다%.
+	kaem peu / jeo ne / hul lyeo ni / bu jo kae / si haeng cha go do / i sseot tta
+010222	제가%산왠쵸에서/베이징 서역에 가고 싶어요%.
+	je ga / san waen chyo e seo / be i jing / seo yeo ge / ga go / si peo yo
+010223	그래서 차마%그를 쫓을 수가 없었어요%.
+	geu rae seo / cha ma / geu reul / jjo cheul / ssu ga / eop sseot sseo yo
+010224	아마/해원그룹 전체가%줄줄이 도산할 거야%.
+	a ma / hae won geu rup / jeon che ga / jul ju ri / do san hal / geo ya
+010225	그는/부엌 걸상에 앉아 손을 내려%장화를 벗었다%.
+	geu neun / bu eok / geol ssang e / an ja / so neul / nae ryeo / jang hwa reul / beo seot tta
+010226	결국 한신은%소프트뱅크에/우승 트로피를 내줬다%.
+	gyeol guk / han si neun / sso peu teu baeng keu e / u seung / teu ro pi reul / nae jwot tta
+010227	향은 무향으로%, 부드러운 로션 같은 제형이다%.
+	hyang eun / mu hyang eu ro / bu deu reo un / ro syeon / ga teun / je hyeong i da
+010228	짚신이 닳아져서%, 그는/아예 맨발로 연속 걸었다%.
+	jip ssi ni / da ra jyeo seo / geu neun / a ye / maen bal lo / yeon sok / geo reot tta
+010229	화가 나서%얼굴이 창백하고 헬쑥해졌다%.
+	hwa ga / na seo / eol gu ri / chang bae ka go / hel ssu kae jyeot tta
+010230	사석원 작가는%궁궐에/동물이 있는 풍경을 그렸다%.
+	sa seo gwon / jak kka neun / gung gwo re / dong mu ri / it neun / pung gyeong eul / geu ryeot tta
+010231	저는/밥가마가 있는지/물어 보고 싶어요%.
+	jeo neun / bap kka ma ga / it neun ji / mu reo / bo go / si peo yo
+010232	그러나%흉기에 찔린 그녀는%이미 숨진 후였다%.
+	geu reo na / hyung gi e / jjil lin / geu nyeo neun / i mi / sum jin / hu yeot tta
+010233	마블 슈퍼 히어로%게이 서브텍스트%.
+	ma beul / syu peo / hi eo ro / ge i / sseo beu tek seu teu
+010234	모든 것을 갖겠다는 의미로 들립니다%.
+	mo deun / geo seul / gat kket tta neun / ui mi ro / deul lim ni da
+010235	궁정 뜰에%진기하고/보기 드문/꽃과 풀들이 많다%.
+	gung jeong / tteu re / jin gi ha go / bo gi / deu mun / kkot kkwa / pul deu ri / man ta
+010236	당신 둘째 오빠가%첫아들을 보셨다고 들었습니다%.
+	dang sin / dul jjae / o ppa ga / cheo da deu reul / bo syeot tta go / deu reot seum ni da
+010237	제임스 스탠튼의 사인은%충돌에 의한 질식이야%.
+	je im seu / seu taen teu nui / sa i neun / chung do re / ui han / jil ssi gi ya
+010238	시일이 덧없이 흘러%, 백여 일이 지났다%.
+	si i li / deo deop ssi / heul leo / bae gyeo / i li / ji nat tta
+010239	이미 날이 밝아 오는지%창밖이 훤합니다%.
+	i mi / na ri / bal ga / o neun ji / chang ba kki / hwon ham ni da
+010240	어쨌든%집이 아직 많이 덥진 않아요%.
+	eo jjaet tteun / ji bi / a jik / ma ni / deop jjin / a na yo
+010241	짜고 매운 음식은%드시지 마세요%.
+	jja go / mae un / eum ssi geun / deu si ji / ma se yo
+010242	묶인 갠데/뭐가 그렇게 무섭다고%.
+	mu kkin / gaen de / mwo ga / geu reo ke / mu seop tta go
+010243	미국에도%에릭 베넷 같은 스타일이 없다%.
+	mi gu ge do / e rik / be net / ga teun / seu ta i li / eop tta
+010244	제가/위룽설산과%후툐샤에 여행 가고 싶어요%.
+	je ga / wi rung seol ssan gwa / hu tyo sya e / yeo haeng / ga go / si peo yo
+010245	많은/애먼 사람을/다치게 하였다%.
+	ma neun / ae meon / sa ra meul / da chi ge / ha yeot tta
+010246	가는 여자를%핼끔핼끔 훔쳐보다%.
+	ga neun / yeo ja reul / hael kkeum hael kkeum / hum cheo bo da
+010247	증권투자는%위험부담이 큽니다%.
+	jeung kkwon tu ja neun / wi heom bu da mi / keum ni da
+010248	지금%마지막 궁궐인 덕수궁이 남았다%.
+	ji geum / ma ji mak / gung gwo rin / deok ssu gung i / nam at tta
+010249	힘들어서%일을 해 먹을 수가 없다%.
+	him deu reo seo / i reul / hae / meo geul / ssu ga / eop tta
+010250	중국일보는%특종 뉴스를 한 개 발포하였다%.
+	jung gu gil bo neun / teuk jjong / nyu seu reul / han / gae / bal po ha yeot tta
+010251	어제/고기집 앞이 하이라이트였잖아%.
+	eo je / go gi jjip / a pi / ha i ra i teu yeot ja na
+010252	봄이 왔으니%우리/겹이불을/볕에 말리자%.
+	bo mi / wa sseu ni / u ri / gyeom ni bu reul / byeo te / mal li ja
+010253	이래 재열은%룸메이트 사이에서/왕따가 돼였다%.
+	i rae / jae yeo reun / rum me i teu / sa i e seo / wang tta ga / dwae yeot tta
+010254	언니는 살을 뺀다며%아무것도 먹지 않았다%.
+	eon ni neun / sa reul / ppaen da myeo / a mu geot tto / meok jji / a nat tta
+010255	몰리 링바트도 포함이야%약속한거다%.
+	mol li / ring ba teu do / po ha mi ya / yak sso kan geo da
+010256	컴퓨터는/게임기뿐 아니라%, 학습 도구이기도 하다%.
+	keom pyu teo neun / kke im gi ppun / a ni ra / hak sseup / do gu i gi do / ha da
+010257	내용에 집중 하면서%이해하는데 중점을 둡니다%.
+	nae yong e / jip jjung / ha myeon seo / i hae ha neun de / jung jjeo meul / dum ni da
+010258	여인 동료가 있으니 좋구나%, 주고니 받거니 하고%.
+	yeo in / dong nyo ga / i sseu ni / jo ku na / ju go ni / bat kkeo ni / ha go
+010259	요즘 경혜공주 사저 출입이%너무 잦구나%.
+	yo jeum / gyeong hye gong ju / sa jeo / chu ri bi / neo mu / jat kku na
+010260	특히 안구건조증은%매년 증가세를 보이고 있다%.
+	teu ki / an gu geon jo jjeung eun / mae nyeon / jeung ga sse reul / bo i go / it tta
+010261	그들의 것은 베낀 것이니%, 재미없어요%.
+	geu deu rui / geo seun / be kkin / geo si ni / jae mi eop sseo yo
+010262	오는 것만 있고/가는 것이 없으면/결례다%.
+	o neun / geot man / it go / ga neun / geo si / eop sseu myeon / gyeol lye da
+010263	센첸은%반드시 넘어야 하는 선수다%.
+	sen che neun / ban deu si / neo meo ya / ha neun / seon su da
+010264	그는/그날 일찍이%덫을 놓아/토끼를 잡았었다%.
+	geu neun / geu nal / il jji gi / deo cheul / no a / to kki reul / ja ba sseot tta
+010265	착륙할 공간이 마땅치가 않잖니%.
+	chang nyu kal / gong ga ni / ma ttang chi ga / an chan ni
+010266	매번/때리기도 하고%, 혼낼 것도 혼냈어요%.
+	mae beon / ttae ri gi do / ha go / hon nael / kkeot tto / hon nae sseo yo
+010267	이와 관련해%이인호 대표의 생각은 어떨까%.
+	i wa / gwal lyeon hae / i in ho / dae pyo ui / saeng ga geun / eo tteol kka
+010268	저는%스쟈좡 고등학교 삼학년 학생이에요%.
+	jeo neun / seu jya jwang / go deung hak kkyo / sam hang nyeon / hak ssaeng i e yo
+010269	허리를 꼿꼿이 세우고%악기를 다시 매만졌다%.
+	heo ri reul / kkot kko si / se u go / ak kki reul / da si / mae man jyeot tta
+010270	달도/차고 기욺이 있듯%, 세상도/끊임없이 변화한다%.
+	dal do / cha go / gi u mi / it tteut / se sang do / kkeu ni meop ssi / byeo nwa han da
+010271	사과가/빨갛게 익어서%정말 먹음직합니다%.
+	sa gwa ga / ppal ga ke / i geo seo / jeong mal / meo geum ji kam ni da
+010272	원더걸스를 떠나%본격적으로 배우로 나선 안소희%.
+	won deo geol seu reul / tteo na / bon kkyeok jjeo geu ro / bae u ro / na seon / an so hi
+010273	이로 인해%출근길 극심한 혼잡이 빚어졌다%.
+	i ro / in hae / chul geun kkil / geuk ssi man / hon ja bi / bi jeo jyeot tta
+010274	그녀는 오로지%과장님에게만/착착 부닐었다%.
+	geu nyeo neun / o ro ji / gwa jang ni me ge man / chak chak / bu ni reot tta
+010275	카메라 색감과 화질이%보다 향상된 것도/눈에 띈다%.
+	ka me ra / saek kkam gwa / hwa ji li / bo da / hyang sang doen / geot tto / nu ne / ttuin da
+010276	멜대 위에서 잠자는 격으로%오지랖이 넓다%.
+	mel dae / wi e seo / jam ja neun / gyeo geu ro / o ji ra bi / neol tta
+010277	당신은 러고에 가서%겸직 출납원을 할 수 있어요%.
+	dang si neun / reo go e / ga seo / gyeom jik / chul la bwo neul / hal / su / i sseo yo
+010278	현실을 뛰어넘어%대신들과/다른 세상을 꿈꿨어요%.
+	hyeon si reul / ttwi eo neo meo / dae sin deul gwa / da reun / se sang eul / kkum kkwo sseo yo
+010279	그는 항상 일처리가 굼떠서%, 맺고 끊는 맛이 없다%.
+	geu neun / hang sang / il cheo ri ga / gum tteo seo / maet kko / kkeun neun / ma si / eop tta
+010280	달은 파수꾼도 아니언만%밤을 새워 문을 지킨다%.
+	da reun / pa su kkun do / a ni eon man / ba meul / sae wo / mu neul / ji kin da
+010281	소를 이끌고/담뱃잎을 수확해오는%아저씨 모습%.
+	so reul / i kkeul go / dam bae ni peul / su hwa kae o neun / a jeo ssi / mo seup
+010282	전자 티켓과 보통티켓은%구별점이/별로 없어요%.
+	jeon ja / ti ket kkwa / bo tong ti ke seun / gu byeol jjeo mi / byeol lo / eop sseo yo
+010283	넥센 선발 밴헤켄이%역투하고 있다%.
+	nek ssen / seon bal / baen he ke ni / yeok tu ha go / it tta
+010284	출토된 이런 관목은%장시간 전에 이미 썩었다%.
+	chul to doen / i reon / gwan mo geun / jang si gan / jeo ne / i mi / sseo geot tta
+010285	펜홀드 그립의 백핸드가%너무 약해요%.
+	pe nol deu / geu ri bui / bae kaen deu ga / neo mu / ya kae yo
+010286	그저%지금 피부가 좋아진 걸 느낄 수 있을 뿐이에요%.
+	geu jeo / ji geum / pi bu ga / jo a jin / geol / neu kkil / ssu / i sseul / ppu ni e yo
+010287	저는/따랜 방줴섬에/놀러 가고 싶어요%.
+	jeo neun / tta raen / bang jwe seo me / nol leo / ga go / si peo yo
+010288	야구 산업이 커지면서%선수 몸값도 함께 치솟았다%.
+	ya gu / sa neo bi / keo ji myeon seo / seon su / mom kkap tto / ham kke / chi so sat tta
+010289	내려가서 차를 타고%쥬쨩시로 돌아가요%.
+	nae ryeo ga seo / cha reul / ta go / jyu jjyang si ro / do ra ga yo
+010290	정말/부러웠다고 말해%보는 이들을/짠하게 했다%.
+	jeong mal / bu reo wot tta go / mal hae / bo neun / i deu reul / jja na ge / haet tta
+010291	직화라 그런지 몰라도%곱창의 껍질은%조금 질긴 듯%.
+	ji kwa ra / geu reon ji / mol la do / gop chang ui / kkeop jji reun / jo geum / jil gin / deut
+010292	밴쿠버 올림픽 때와 같이%두근두근 거린다%.
+	baen ku beo / ol lim pik / ttae wa / ga chi / du geun du geun / geo rin da
+010293	밤꾀꼬리가%힘든 것도 모르고 노래를 부른다%.
+	bam kkoe kko ri ga / him deun / geot tto / mo reu go / no rae reul / bu reun da
+010294	정치권에서도%비판이 봇물을 이뤘다%.
+	jeong chi kkwo ne seo do / bi pa ni / bon mu reul / i rwot tta
+010295	전쟁 형세가/신속히 전환됨에 따라서%.
+	jeon jaeng / hyeong se ga / sin so ki / jeo nwan doe me / tta ra seo
+010296	쌀쌀히 부는 바람에%옷깃을 여미었다%.
+	ssal ssal hi / bu neun / ba ra me / ot kki seul / yeo mi eot tta
+010297	굴러들어온 호박을%뻥 차더라고요%.
+	gul leo deu reo on / ho ba geul / ppeong / cha deo ra go yo
+010298	이 와중에도/바닥 걱정하는%우리 주원이%.
+	i / wa jung e do / ba dak / geok jjeong ha neun / u ri / ju wo ni
+010299	그럼 저야%완전/땡큐 베리 감사죠%.
+	geu reom / jeo ya / wan jeon / ttaeng kyu / be ri / gam sa jyo
+010300	그가/어진 아내를 얻은 것을 보니%, 안목이 괜찮구먼%.
+	geu ga / eo jin / a nae reul / eo deun / geo seul / bo ni / an mo gi / gwaen chan ku meon
+010301	얇고 가는 금속으로%소통할 수 있어요%.
+	yal kko / ga neun / geum sso geu ro / so tong hal / su / i sseo yo
+010302	전국을 달궜던 폭염의 위세가%꺾이고 있다%.
+	jeon gu geul / dal gwot tteon / po gyeo mui / wi se ga / kkeo kki go / it tta
+010303	그들은/민주적인 토론과 설득으로%.
+	geu deu reun / min ju jeo gin / to ron gwa / seol tteu geu ro
+010304	곰상곰상 가만히 있어%, 예서 지랄발광하지 말고%.
+	gom sang gom sang / ga ma ni / i sseo / ye seo / ji ral bal gwang ha ji / mal go
+010305	처음엔 버려져 슬펐지만%지금 코다는 행복하다%.
+	cheo eu men / beo ryeo jyeo / seul peot ji man / ji geum / ko da neun / haeng bo ka da
+010306	둘은 지난 시즌까지%주로 백업 역할을 했다%.
+	du reun / ji nan / si jeun kka ji / ju ro / ppae geop / yeo ka reul / haet tta
+010307	곧바로 선발 출격한%골키퍼 박준혁을 불렀다%.
+	got ppa ro / seon bal / chul gyeo kan / kkol kki peo / bak jju nyeo geul / bul leot tta
+010308	심층방어의 핵심은%다중방호다%.
+	sim cheung bang eo ui / haek ssi meun / da jung bang ho da
+010309	트렁크 열쇠를 주면%내가 예비 타이어를 가져올게%.
+	teu reong keu / yeol ssoe reul / ju myeon / nae ga / ye bi / ta i eo reul / ga jyeo ol ge
+010310	일종의/아날로그 수사 기법인 셈이다%.
+	il jjong ui / a nal lo geu / su sa / gi ppeo bin / sem i da
+010311	고양이의 발톱이 큰것이%수컷이예요%.
+	go yang i ui / bal to bi / keun geo si / su keo si ye yo
+010312	그는/얼근히 가진 상태에서%그와 말다툼을 했다%.
+	geu neun / eol geu ni / ga jin / sang tae e seo / geu wa / mal da tu meul / haet tta
+010313	제가/본래 사용한 건%깡통식/액화 가스에요%.
+	je ga / bol lae / sa yong han / geon / kkang tong sik / ae kwa / kka seu e yo
+010314	그러나 저는%이렇게 하지 않기를 원해요%.
+	geu reo na / jeo neun / i reo ke / ha ji / an ki reul / won hae yo
+010315	내가/어떤 옷을 입든%네가 아랑곳할 바가 아니다%.
+	nae ga / eo tteon / o seul / ip tteun / ne ga / a rang go tal / ppa ga / a ni da
+010316	반드시/갱내 안전을%보장해야 한다%.
+	ban deu si / gaeng nae / an jeo neul / bo jang hae ya / han da
+010317	코르덴의 옷은%물에 줄어둘어요%.
+	ko reu de nui / o seun / mu re / ju reo du reo yo
+010318	아이스 버킷 챌린지에 동참한%김봉길 인천 감독%.
+	a i seu / beo kit / chael lin ji e / dong cha man / gim bong gil / in cheon / gam dok
+010319	리켄스 감독은%한국과 인연이 있다%.
+	ri ken seu / gam do geun / han guk kkwa / in yeo ni / it tta
+010320	더운 국그릇을 잘못 쥐어%엎어 버렸다%.
+	deo un / guk kkeu reu seul / jal mot / jwi eo / eo peo / beo ryeot tta
+010321	마이/페어 레이디의%오드리 햅번%.
+	ma i / pe eo / re i di ui / o deu ri / haep ppeon
+010322	그의 아양 떠는 꼴은%정말 역겹다%.
+	geu ui / a yang / tteo neun / kko reun / jeong mal / yeok kkyeop tta
+010323	그%, 뉴욕에서 학교 문제 때문에 찾아뵙던%.
+	geu / nyu yo ge seo / hak kkyo / mun je / ttae mu ne / cha ja boep tteon
+010324	오늘 밤은%유난히도 달빛이 밝군요%.
+	o neul / ba meun / yu na ni do / dal bi chi / bal kkun yo
+010325	브룩 씨는%로스앤젤레스를 떠나/피닉스로 향했다%.
+	beu ruk / ssi neun / ro seu aen jel le seu reul / tteo na / pi nik sseu ro / hyang haet tta
+010326	양말을 신지 않고%, 직접 덧양말을 신는다%.
+	yang ma reul / sin jji / an ko / jik jjeop / deo nyang ma reul / sin neun da
+010327	기억해라%내가 바로/엽양신이야%.
+	gi eo kae ra / nae ga / ba ro / yeo byang si ni ya
+010328	사법개혁의 핵심은%검찰개혁이다%.
+	sa beop gae hyeo gui / haek ssi meun / geom chal gae hyeo gi da
+010329	그래서 솔로도 최대한 감추며/아껴뒀어요%.
+	geu rae seo / ssol lo do / choe dae han / gam chu myeo / a kkyeo dwo sseo yo
+010330	미리/접시랑 음료수를/준비해 놓읍시다%.
+	mi ri / jeop ssi rang / eum nyo su reul / jun bi hae / no eup ssi da
+010331	일원 태민은%자신이 아끼던 묵주 팔찌까지 줬다%.
+	i rwon / tae mi neun / ja si ni / a kki deon / muk jju / pal jji kka ji / jwot tta
+010332	그때/빙긋이 웃고%맛있게 먹으면 된다%.
+	geu ttae / bing geu si / ut kko / ma sit ge / meo geu myeon / doen da
+010333	북경은 대체로%하북에 둘러쌓여 있어요%.
+	buk kkyeong eun / dae che ro / ha bu ge / dul leo ssa yeo / i sseo yo
+010334	이후/박양 부탁에 따라%동영상을 지웠다%.
+	i hu / ba gyang / bu ta ge / tta ra / dong yeong sang eul / ji wot tta
+010335	책상 위 서류를/쭉 훑어보는 박태환%.
+	chaek ssang / wi / seo ryu reul / jjuk / hul teo bo neun / bak tae hwan
+010336	어제/정말 무서운 꿈을 꿨습니다%.
+	eo je / jeong mal / mu seo un / kku meul / kkwot seum ni da
+010337	값어치 증가/잠재력을 갖춘/펀드를 선택하다%.
+	ga beo chi / jeung ga / jam jae ryeo geul / gat chun / peon deu reul / seon tae ka da
+010338	금방 당신의 수면의 질을/회복시킬 거예요%.
+	geum bang / dang si nui / su myeo nui / ji reul / hoe bok ssi kil / kkeo ye yo
+010339	혈청검사 결과%이상이 없을 때야 선언된다%.
+	hyeol cheong geom sa / gyeol gwa / i sang i / eop sseul / ttae ya / seo neon doen da
+010340	당신은/소량의/파라핀점액을/사용해야 해요%.
+	dang si neun / so ryang ui / pa ra pin jeo mae geul / sa yong hae ya / hae yo
+010341	북한 홍은정이%금메달을 획득했다%.
+	bu kan / hong eun jeong i / geum me da reul / hoek tteu kaet tta
+010342	둥근 걸상에 앉아/줄방귀 뀌는 격으로%생각은 좋다%.
+	dung geun / geol ssang e / an ja / jul bang gwi / kkwi neun / gyeo geu ro / saeng ga geun / jo ta
+010343	악단이%눈부신 악장을 연주하고 있다%.
+	ak tta ni / nun bu sin / ak jjang eul / yeon ju ha go / it tta
+010344	조각은%쨔커마이디를 중심으로 하고 있어요%.
+	jo ga geun / jjya keo ma i di reul / jung sim eu ro / ha go / i sseo yo
+010345	각종/뷰티샵과%패션%, 카페 등으로/조성될 전망이다%.
+	gak jjong / byu ti syap kkwa / pae syeon / kka pe / deung eu ro / jo seong doel / jeon mang i da
+010346	방부제의 위해성%모두들/아시는 바입니다%.
+	bang bu je ui / wi hae seong / mo du deul / a si neun / ba im ni da
+010347	새들이 벽돌 벽을%조금씩/갉아먹고 있다%.
+	sae deu ri / byeok ttol / byeo geul / jo geum ssik / gal ga meok kko / it tta
+010348	썩은/동앗줄을 잡으셨나/보오이다%.
+	sseo geun / dong a jju reul / ja beu syeot na / bo o i da
+010349	이걸로 발톱 파면%억수로 시원하다%.
+	i geol lo / bal top / pa myeon / eok ssu ro / si won ha da
+010350	먹기 전에는%손을 씻어/소독해야 해요%.
+	meok kki / jeo ne neun / so neul / ssi seo / so do kae ya / hae yo
+010351	암만 머리를 쥐어짜도%뾰족한 수가 없다%.
+	am man / meo ri reul / jwi eo jja do / ppyo jo kan / su ga / eop tta
+010352	여인 중에도%애음하는/사람이 많다%.
+	yeo in / jung e do / ae eum ha neun / sa ra mi / man ta
+010353	그는/힘들어서/헉헉거리며%연속/숨을 헐떡였다%.
+	geu neun / him deu reo seo / heok heok kkeo ri myeo / yeon sok / su meul / heol tteo gyeot tta
+010354	차는/비냘레스를/떠나기 전에/멈춰 섰다%.
+	cha neun / bi nyal le seu reul / tteo na gi / jeo ne / meom chwo / seot tta
+010355	한국방문우대카드%중국어/리플렛 표지%.
+	han guk bang mun u dae ka deu / jung gu geo / ri peul let / pyo ji
+010356	결정구는%바깥쪽에/크게 달아나는/슬라이더였다%.
+	gyeol jjeong gu neun / ba kkat jjo ge / keu ge / da ra na neun / seul la i deo yeot tta
+010357	그래도/스윙훈련은/하게 되더라%.
+	geu rae do / seu wing hul lyeo neun / ha ge / doe deo ra
+010358	이에 하루는%예상치 못한 반응으로/눈길을 끌었다%.
+	i e / ha ru neun / ye sang chi / mo tan / ba neung eu ro / nun kki reul / kkeu reot tta
+010359	나는%그의 박학한/과학 지식에%정말 놀랬다%.
+	na neun / geu ui / ba ka kan / gwa hak / ji si ge / jeong mal / nol laet tta
+010360	물고기가 물밑 댐을 지나%강을/거슬러 올라가다%.
+	mul kko gi ga / mul mit / ttae meul / ji na / gang eul / geo seul leo / ol la ga da
+010361	사법부에 대한/불신은 컸고%비판은 거셌다%.
+	sa beop ppu e / dae han / bul ssi neun / keot kko / bi pa neun / geo set tta
+010362	상자에/뚜껑이 덮여 있지 않군요%.
+	sang ja e / ttu kkeong i / deo pyeo / it jji / an kun yo
+010363	소란스럽던/청사 앞은%한순간/정적이 흘렀다%.
+	so ran seu reop tteon / cheong sa / a peun / han sun gan / jeong jeo gi / heul leot tta
+010364	그녀는/빈혈증을 앓아서%수혈까지 받아야 했다%.
+	geu nyeo neun / bin hyeol jeung eul / a ra seo / su hyeol kka ji / ba da ya / haet tta
+010365	저희들의 방값은%호텔 정상 가격보다 높아요%.
+	jeo hi deu rui / bang kkap sseun / ho tel / jeong sang / ga gyeok ppo da / no pa yo
+010366	그는/런던올림픽 이후%스폰서 없이 훈련을 했다%.
+	geu neun / reon deon ol lim pik / i hu / seu pon seo / eop ssi / hul lyeo neul / haet tta
+010367	나는 여전히%앨리슨과/친구로 지내고 싶었다%.
+	na neun / yeo jeo ni / ael li seun gwa / chin gu ro / ji nae go / si peot tta
+010368	그녀의 그림자는 점차%어둠에/파묻혔다%.
+	geu nyeo ui / geu rim ja neun / jeom cha / eo du me / pa mu chyeot tta
+010369	이건/내부 장기 상처를 꿰메기 위한%쌈지봉합이야%.
+	i geon / nae bu / jang gi / sang cheo reul / kkwe me gi / wi han / ssam ji bong ha bi ya
+010370	불 붙은/윌커슨의 득점포는%식지 않았다%.
+	bul / bu teun / wol keo seu nui / deuk jjeom po neun / sik jji / a nat tta
+010371	나는%현재 너의/험상궂고/무섭게 생긴 몰골이 싫다%.
+	na neun / hyeon jae / neo ui / heom sang gut kko / mu seop kke / saeng gin / mol go ri / sil ta
+010372	태그아웃도 서러운데%그라운드에 나뒹굴기까지%.
+	tae geu a ut tto / seo reo un de / geu ra un deu e / na dwing gul gi kka ji
+010373	나는 한가롭게/거닐기를/싫어한다%.
+	na neun / han ga rop kke / geo nil gi reul / si reo han da
+010374	그럴 때마다%당내 분란과/대치 정국이 빚어졌다%.
+	geu reol / ttae ma da / dang nae / bul lan gwa / dae chi / jeong gu gi / bi jeo jyeot tta
+010375	눈물이 나고/마음이/찡했다고 전했다%.
+	nun mu ri / na go / ma eu mi / jjing haet tta go / jeon haet tta
+010376	미디어데이 참석자들이%기념촬영을 하고 있다%.
+	mi di eo de i / cham seok jja deu ri / gi nyeom chwa lyeong eul / ha go / it tta
+010377	숄더 스트랩과%벨트를/조절할 수 있어요%.
+	syol deo / seu teu raep kkwa / bel teu reul / jo jeo lal / ssu / i sseo yo
+010378	폭우가 쏟아져%빗물이 흥건하다%.
+	po gu ga / sso da jyeo / bin mu ri / heung geon ha da
+010379	슈틸리케 감독님이%크게/부담 갖지 말라고 하셨다%.
+	syu til li ke / gam dong ni mi / keu ge / bu dam / gat jji / mal la go / ha syeot tta
+010380	그리고 아타리아 사람은%커피를 좋아해요%.
+	geu ri go / a ta ri a / sa ra meun / keo pi reul / jo a hae yo
+010381	약간의 불순물도 없어%굉장히 보기 좋다%.
+	yak kka nui / bul ssun mul do / eop sseo / goeng jang hi / bo gi / jo ta
+010382	군주께서/궐을/이리 자주 비우시다니요%.
+	gun ju kke seo / gwo reul / i ri / ja ju / bi u si da ni yo
+010383	팝업 스토어/오픈 기념%특별한 혜택도 제공된다%.
+	pa beop / seu to eo / o peun / gi nyeom / teuk ppyeo lan / hye taek tto / je gong doen da
+010384	넌/내 꺼%, 난/니 꺼%, 영원히 너만 사랑해%.
+	neon / nae / kkeo / nan / ni / kkeo / yeong wo ni / neo man / sa rang hae
+010385	이 일대에는%게르마늄 광산이 많다%.
+	i / il ttae e neun / ge reu ma nyum / gwang sa ni / man ta
+010386	성씨의/획수에/따라서 배열하다%.
+	seong ssi ui / hoek ssu e / tta ra seo / bae yeo la da
+010387	쉰여덟 살로%스스로 묘지를 썼다%.
+	swin yeo deol / ssal lo / seu seu ro / myo ji reul / sseot tta
+010388	뭇별은/하늘에 총총하고%, 달은/환히 빛을 뿌린다%.
+	mut ppyeo reun / ha neu re / chong chong ha go / da reun / hwa ni / bi cheul / ppu rin da
+010389	열일곱%, 여덟 살에는%유혹만 하면/부자가 된다%.
+	yeo ril gop / yeo deol / ssa re neun / yu hok man / ha myeon / bu ja ga / doen da
+010390	비즈 스톤과%에반/윌리엄즈가 투자%.
+	bi jeu / seu ton gwa / e ban / wil li eom seu ga / tu ja
+010391	가슴이 뛰고%어깻춤이/절로 나야/제격이다%.
+	ga seu mi / ttwi go / eo kkae chu mi / jeol lo / na ya / je gyeo gi da
+010392	그들은 오직%록앤롤이 뭔지/오해해 왔을 뿐이다%.
+	geu deu reun / o jik / ro gaen ro gi / mwon ji / o hae hae / wa sseul / ppu ni da
+010393	어제/친구와 같이/테니스 쳤어요%.
+	eo je / chin gu wa / ga chi / te ni seu / chyeo sseo yo
+010394	먼저 칭청에 가고%후에/두쟝앤에 가는 것이 좋아요%.
+	meon jeo / ching cheong e / ga go / hu e / du jyang ae ne / ga neun / geo si / jo a yo
+010395	석탄에/버력들이/많이 섞여 있다%.
+	seok ta ne / beo ryeok tteu ri / ma ni / seo kkyeo / it tta
+010396	겹겹이 놓은 책들이%샐긋거리다%.
+	gyeop kkyeo bi / no eun / chaek tteu ri / sael geut kkeo ri da
+010397	궁리만 하면%지금도 속으로/피가 솟구칩니다%.
+	gung ni man / ha myeon / ji geum do / so geu ro / pi ga / sot kku chim ni da
+010398	보국의 뜻을 세운%훌륭한 대장부%.
+	bo gu gui / tteu seul / se un / hul lyung han / dae jang bu
+010399	건강한 다이어트 브랜드/팻다운%.
+	geon gang han / da i eo teu / beu raen deu / pae tta un
+010400	그는/불계/배상 면제 보험을%한 개 샀다%.
+	geu neun / bul ge / bae sang / myeon je / bo heo meul / han / gae / sat tta
+010401	최고/낙찰가를 기록한 작가는%박수근이었다%.
+	choe go / nak jjal ga reul / gi ro kan / jak kka neun / bak ssu geu ni eot tta
+010402	그녀는/나를/윽박질러%공부를 시키곤 했다%.
+	geu nyeo neun / na reul / euk ppak jjil leo / gong bu reul / si ki gon / haet tta
+010403	배우/배두나의%뷰티 화보가 화제다%.
+	bae u / bae du na ui / byu ti / hwa bo ga / hwa je da
+010404	근데 저기%, 앞방 아가씨 말이에요%.
+	geun de / jeo gi / ap ppang / a ga ssi / ma ri e yo
+010405	그는/뜻밖에 박자에 맞춰%아코디언을 켠다%.
+	geu neun / tteut ppa kke / bak jja e / mat chwo / a ko di eo neul / kyeon da
+010406	우리가/컴퓨터에서%그에 대하여/찾아봐야 해%.
+	u ri ga / keom pyu teo e seo / geu e / dae ha yeo / cha ja bwa ya / hae
+010407	부모님이%전자렌지를/가져가고 싶어 해요%.
+	bu mo ni mi / jeon ja ren ji reul / ga jyeo ga go / si peo / hae yo
+010408	정준영이%딸기에 초콜렛을 묻히고 있다%.
+	jeong ju nyeong i / ttal gi e / cho kol le seul / mu chi go / it tta
+010409	협상 테이블에서%미국의 역할은/강화되어야 한다%.
+	hyeop ssang / te i beu re seo / mi gu gui / yeo ka reun / gang hwa doe eo ya / han da
+010410	사실은/사실이니%네가/궤변을 부려봐야/소용없어%.
+	sa si reun / sa si li ni / ne ga / gwe byeo neul / bu ryeo bwa ya / so yong eop sseo
+010411	신하들이/궐하에 엎드려%임금의 하회를 고대했다%.
+	si na deu ri / gwol ha e / eop tteu ryeo / im geu mui / ha hoe reul / go dae haet tta
+010412	웹과/모바일 모두%감상 가능하다%.
+	wep kkwa / mo ba il / mo du / gam sang / ga neung ha da
+010413	썰매팀이/힘을 다하는/조건 하에서요%.
+	sseol mae ti mi / hi meul / da ha neun / jo kkeon / ha e seo yo
+010414	그저/다이얼을 눌러/돌리면 됐다%.
+	geu jeo / da i eo reul / nul leo / dol li myeon / dwaet tta
+010415	추계 작물의/수매 사업을%바싹 다그치다%.
+	chu ge / jang mu rui / su mae / sa eo beul / ba ssak / da geu chi da
+010416	여긴%이교도들의/캘리포니아가 아니야%.
+	yeo gin / i gyo do deu rui / kael li po ni a ga / a ni ya
+010417	양쪽 발목이%흰색 노끈으로/단단히 묶여 있었다%.
+	yang jjok / bal mo gi / hin saek / no kkeu neu ro / dan da ni / mu kkyeo / i sseot tta
+010418	논란이 일자%허베이/교육 당국은/진화에 나섰다%.
+	nol la ni / il ja / heo be i / gyo yuk / dang gu geun / jin hwa e / na seot tta
+010419	자라가/저울추를/먹은 격으로%마음을 굳혔다%.
+	ja ra ga / jeo ul chu reul / meo geun / gyeo geu ro / ma eu meul / gu chyeot tta
+010420	쿤링은%한국계 혈통이 혼합된%혼혈 모델이다%.
+	kun ling eun / han guk kkye / hyeol tong i / ho nap ttoen / hon hyeol / mo de ri da
+010421	멩거 호텔은%샌앤토니오의/중요 건물이다%.
+	meng geo / ho te reun / ssaen aen to ni o ui / jung yo / geon mu ri da
+010422	밥을 토렴해/말아놓은%곰탕 한술에/깍두기 하나%.
+	ba beul / to ryeo mae / ma ra no eun / gom tang / han su re / kkak ttu gi / ha na
+010423	감독님이나/팬들 모두%그것을/바랐을 것이다%.
+	gam dong ni mi na / paen deul / mo du / geu geo seul / ba ra sseul / geo si da
+010424	다행히%임충의 보살핌을 받았다%.
+	da haeng hi / im chung ui / bo sal pi meul / ba dat tta
+010425	여자월드컵 개최 신청서를%이미/제출한 상태다%.
+	yeo ja wol deu keop / gae choe / sin cheong seo reul / i mi / je chu lan / sang tae da
+010426	우리 집에서%나무 궤짝을/새로 하나 샀다%.
+	u ri / ji be seo / na mu / gwe jja geul / sae ro / ha na / sat tta
+010427	수정의 모든/변의 길이는%옹스트롬을 단위로 한다%.
+	su jjeong ui / mo deun / byeo nui / gi li neun / ong seu teu ro meul / dan wi ro / han da
+010428	기암괴석이/바다에 뚝뚝/박힌%울진의 바다%.
+	gi am goe seo gi / ba da e / ttuk ttuk / ba kin / ul ji nui / ba da
+010429	그는/시름시름 앓다%끝내 죽고야 말았다%.
+	geu neun / si reum si reum / al ta / kkeun nae / juk kko ya / ma rat tta
+010430	친구에게%애들의 뒷일을/부탁하다%.
+	chin gu e ge / ae deu rui / dwin ni reul / bu ta ka da
+010431	국립- 학교와 당국은%책임을/서로 떠넘기고 있다%.
+	gung nip / hak gyo wa / dang gu geun / chae gi meul / seo ro / tteo neom gi go / it tta
+010432	걸음 자세와/앉음 자세는/정확해야 해요%.
+	geo reum / ja se wa / an jeum / ja se neun / jeong hwa kae ya / hae yo
+010433	다각적으로/검토 중이다 라고 덧붙였다%.
+	da gak jjeo geu ro / geom to / jung i da / ra go / deot ppu tyeot tta
+010434	이로 인해%나는/밥벌이를/잃게 되었다%.
+	i ro / in hae / na neun / bap ppeo ri reul / il ke / doe eot tta
+010435	총알이/핑핑/귓뿌리를/스쳐 가다%.
+	chong a ri / ping ping / gwi ppu ri reul / seu cheo / ga da
+010436	아버지께/꾸중을 듣느라%땀을 뺐다%.
+	a beo ji kke / kku jung eul / deun neu ra / tta meul / ppaet tta
+010437	구강질환이%지독한/입냄새를 만들기도 한다%.
+	gu gang ji lwa ni / ji do kan / im naem sae reul / man deul gi do / han da
+010438	자신을 괴롭히던/무릎 상태가%좋아졌기 때문이다%.
+	ja si neul / goe ro pi deon / mu reup / sang tae ga / jo a jyeot kki / ttae mu ni da
+010439	냉장고를 부탁해/정창욱이%하차 소감을 밝혔다%.
+	naeng jang go reul / bu ta kae / jeong chang u gi / ha cha / so ga meul / bal kyeot tta
+010440	그분을 뵙고%기다리시지 말라고/얘기만 하고 올게%.
+	geu bu neul / boep kko / gi da ri si ji / mal la go / yae gi man / ha go / ol kke
+010441	내용이 풍부해%체계를 확립한/경영 책략%.
+	nae yong i / pung bu hae / che gye reul / hwang ni pan / gyeong yeong / chaeng nyak
+010442	엑소/백현과 열애중인/소녀시대 태연%.
+	ek sso / bae kyeon gwa / yeo rae jung in / so nyeo si dae / tae yeon
+010443	이건/제쳐두고%, 저것부터 말해 봅시다%.
+	i geon / je cheo du go / jeo geot bu teo / ma lae / bop ssi da
+010444	봄의/아름다움을 뽐내는%비밀의 화원%, 거제/공곶이%.
+	bo mui / a reum da u meul / ppom nae neun / bi mi rui / hwa won / geo je / gong go ji
+010445	답변은/짧았지만%목소리에는/기쁨이 묻어났다%.
+	dap ppyeo neun / jjal bat jji man / mok sso ri e neun / gi ppeu mi / mu deo nat tta
+010446	품질이 좋은 서비스와%추종 독찰을/실행해요%.
+	pum ji li / jo eun / sseo bi seu wa / chu jong / dok cha reul / si laeng hae yo
+010447	들판에/아지랑이가%감실감실/피어오른다%.
+	deul pa ne / a ji rang i ga / gam sil gam sil / pi eo o reun da
+010448	그번 훈련은%몹시/간고스러웠다%.
+	geu beon / hu lyeo neun / mop ssi / gan go seu reo wot tta
+010449	사진은%반사지를/신발에 실제/부착한 모습%.
+	sa ji neun / ban sa ji reul / sin ba re / sil jje / bu cha kan / mo seup
+010450	고구마가%너무/물컹하게 쪄졌다%.
+	go gu ma ga / neo mu / mul keong ha ge / jjyeo jyeot tta
+010451	삶의 중압에/직면하여%그는/더욱더 굳세졌다%.
+	sal mui / jung a be / jing myeon ha yeo / geu neun / deo uk tteo / gut sse jyeot tta
+010452	사람/꿔다놓은 보릿자루 만들고 있어%.
+	sa ram / kkwo da no eun / bo ri jja ru / man deul go / i sseo
+010453	좌절도/안겨다 줬지만%, 희망도/줬다%.
+	jwa jeol do / an gyeo da / jwot jji man / hi mang do / jwot tta
+010454	형은/수재다%, 그러나%아우는/둔재다%.
+	hyeong eun / su jae da / geu reo na / a u neun / dun jae da
+010455	남을/돕는 것을%영광으로 여기다%.
+	na meul / dom neun / geo seul / yeong gwang eu ro / yeo gi da
+010456	그쪽 동생분요%, 그는 진한/사향냄새가 나요%.
+	geu jjok / dong saeng bun yo / geu neun / ji nan / sa hyang naem sae ga / na yo
+010457	손가락에/소금 묻혀서 닦으면/되잖아%.
+	son kka ra ge / so geum / mu chyeo seo / da kkeu myeon / doe ja na
+010458	별안간에 벌어진 일이라%모두/어쩔 바를 몰랐다%.
+	byeo ran ga ne / beo reo jin / i li ra / mo du / eo jjeol / ppa reul / mol lat tta
+010459	달콤 핸드백 가게라고 하면 돼요%.
+	dal kom / haen deu baek / ga ge ra go / ha myeon / dwae yo
+010460	감독께서%레슬링을/기본으로 한다%.
+	gam dok kke seo / re seul ling eul / gi bo neu ro / han da
+010461	그는/마당에서%곡식을 빻고 있다%.
+	geu neun / ma dang e seo / gok ssi geul / ppa ko / it tta
+010462	참으로/쳐죽여도 시원찮은 놈들이 아닙니까%.
+	cha meu ro / cheo ju gyeo do / si won cha neun / nom deu ri / a nim ni kka
+010463	일반적인 시디룸은%차이가 없어요%.
+	il ban jeo gin / si di ru meun / cha i ga / eop sseo yo
+010464	뉴트리아/항문 봉합해%멸종 유도%.
+	nyu teu ri a / hang mun / bong ha pae / myeol jjong / yu do
+010465	됐어%, 보기 흉한 것도/그녀의 일이다%.
+	dwae sseo / bo gi / hyung han / geot tto / geu nyeo ui / i li da
+010466	작은 일을 가지고%분돋움하지 마라%.
+	ja geun / i reul / ga ji go / bun do dum ha ji / ma ra
+010467	서둘러/말을/찾아놔야 합니다요%.
+	seo dul leo / ma reul / cha ja nwa ya / ham ni da yo
+010468	오줌을/너무/장시간 참으면%병이 된단다%.
+	o ju meul / neo mu / jang si gan / cha meu myeon / byeong i / doen dan da
+010469	썼다가는/박박 지우고%다시 쓰곤 했다%.
+	sseot tta ga neun / bak ppak / ji u go / da si / sseu gon / haet tta
+010470	더운/사우나실에 들어서니%숨이/컥컥 막힌다%.
+	deo un / ssa u na si re / deu reo seo ni / su mi / keok keok / ma kin da
+010471	두부가 쉬어서%곰팡이가 슬었다%.
+	du bu ga / swi eo seo / gom pang i ga / sseu reot tta
+010472	한화/산정호수 안시의%온천 노천탕%.
+	han hwa / san jeong ho su / an si ui / on cheon / no cheon tang
+010473	거북이는%느릿느릿%기어갑니다%.
+	geo bu gi neun / neu rit neu rit / gi eo gam ni da
+010474	이번 앨범엔%우리 목소리가%꽤/많이 반영됐다%.
+	i beon / ael beo men / u ri / mok sso ri ga / kkwae / ma ni / ban nyeong dwaet tta
+010475	또한/뭉침 없이/균일한 차단막을 형성한다%.
+	tto han / mung chi / meop ssi / gyu ni lan / cha dan ma geul / hyeong seong han da
+010476	하지만%닉쿤의/정말 연인은%티파니로 밝혀졌다%.
+	ha ji man / nik ku nui / jeong mal / yeo nin eun / ti pa ni ro / bal kyeo jyeot tta
+010477	이날/박혜진의 득점포는%고비마다 터졌다%.
+	i nal / ba kye ji nui / deuk jjeom po neun / go bi ma da / teo jyeot tta
+010478	의사는%소변과/혈액 샘플을 채취했다%.
+	ui sa neun / so byeon gwa / hyeo raek / ssaem peu reul / chae chwi haet tta
+010479	싫다면%바로/좌절 앞에서/꿇어앉는 거예요%.
+	sil ta myeon / ba ro / jwa jeol / a pe seo / kku reo an neun / geo ye yo
+010480	슬이가 무슨/준혁 오빠랑 유학을 가요%.
+	seu ri ga / mu seun / ju nyeok / o ppa rang / yu ha geul / ga yo
+010481	다음은%박세춘/부원장보와의/일문일답%.
+	da eu meun / bak sse chun / bu won jang bo wa ui / il mun il dap
+010482	빅이슈는 단연%세월호/특별법 문제다%.
+	bi gi syu neun / da nyeon / se wol ho / teuk ppyeol ppeop / mun je da
+010483	그는%매사를/아전인수격으로/해결한다%.
+	geu neun / mae sa reul / a jeon in su gyeo geu ro / hae gyeol han da
+010484	이때는%얘네가/누나의/샤이니 였던거아냐%.
+	i ttae neun / yae ne ga / nu na ui / sya i ni / yeot tteon geo a nya
+010485	본성이/바르고 곧으면%종종/쉽게 감동한다%.
+	bon seong i / ba reu go / go jeu myeon / jong jong / swip kke / gam dong han da
+010486	왔다 싶어/휘둘렀는데%범타가 됐다%.
+	wat tta / si peo / hwi dul leot neun de / beom ta ga / dwaet tta
+010487	여기에서부터/대학까지는%굉장히 멉니다%.
+	yeo gi e seo bu teo / dae hak kka ji neun / goeng jang hi / meom ni da
+010488	차가/끊겼으니%천생/하룻밤 자고 갈밖에%.
+	cha ga / kkeun kyeo sseu ni / cheon saeng / ha ru ppam / ja go / gal ba kke
+010489	그러나%어깨 수술 전력 탓에%수비력이/떨어진다%.
+	geu reo na / eo kkae / su sul / jeol lyeok / ta se / su bi ryeo gi / tteo reo jin da
+010490	아토피/여름캠프를 개최합니다%.
+	a to pi / yeo reum kaem peu reul / gae choe ham ni da
+010491	앨런%, 나도 자기랑/같이 살고싶어%.
+	ael leon / na do / ja gi rang / ga chi / sal go si peo
+010492	암만 어린애라 하지만%너무/발칙스럽게 군다%.
+	am man / eo rin ae ra / ha ji man / neo mu / bal chik sseu reop kke / gun da
+010493	그는/어딘지%범하기 힘든 데가 있다%.
+	geu neun / eo din ji / beom ha gi / him deun / de ga / it tta
+010494	어떻게 마음을/매듭지어야 하는지%.
+	eo tteo ke / ma eu meul / mae deup jji eo ya / ha neun ji
+010495	이 무는%아주/부드럽고/풋풋하다%.
+	i / mu neun / a ju / bu deu reop kko / put pu ta da
+010496	이만하면/한판/겨뤄볼 만합니다%.
+	i man ha myeon / han pan / gyeo rwo bol / man ham ni da
+010497	그녀는%기다란/금발 머리를 가진/멋진 여자였다%.
+	geu nyeo neun / gi da ran / geum bal / meo ri reul / ga jin / meot jjin / yeo ja yeot tta
+010498	저는/닭국을/조금/삶으려고 해요%.
+	jeo neun / dak kku geul / jo geum / ssal meu ryeo go / hae yo
+010499	정영삼과/리카르도 포웰의%결장/공백도 컸다%.
+	jeong yeong sam gwa / ri ka reu do / po we rui / gyeol jjang / gong baek tto / keot tta
+010500	꽃다운 나이에/세상을 떠나다니%애통한 일이다%.
+	kkot tta un / na i e / se sang eul / tteo na da ni / ae tong han / i li da

@@ -1,0 +1,4 @@
+
+
+main.c:(.text+0x36d): undefined reference to `itoa'
+    itoa 非标准函数库  很多编译器不支持
