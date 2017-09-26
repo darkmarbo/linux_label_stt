@@ -16,6 +16,11 @@ short Split(char *line, char ** seg, short *nSeg)
     *nSeg=0;
     while(j<len)
     {
+        if(j==len-1 && line[j] == ' ')
+        {
+            break;
+        }
+
         // 找到第一个非 空格 
         for(i=j; line[i]==' ' && i<len; i++);
 
@@ -50,12 +55,21 @@ short char2short(char *ctag, short *tag)
 }
 
 void dropReturnTag(char *c){
+
     if(strlen(c)==0){
         return;
     }
-    if(c[strlen(c)-1]=='\n'){
+
+    if(strlen(c)>0 && c[strlen(c)-1] == '\n')
+    {
         c[strlen(c)-1]=0;
     }
+
+    while(strlen(c)>0 && (c[strlen(c)-1] == ' '))
+    {
+        c[strlen(c)-1]=0;
+    }
+
 }
 
 /*
@@ -138,7 +152,6 @@ int main(int argc, char *argv[])
             return 0;
         }
 
-
         // 提取出每个 syllable 
         Split(line_1_tmp, pinyin, &nSeg);
 
@@ -154,7 +167,7 @@ int main(int argc, char *argv[])
         int nTag = char2short(line_2, tag);
         if(nTag != nSeg)
         {
-            printf("err char2short: %s : nSeg=%d nTag=%d \n", line_2, nSeg, nTag);
+            printf("err char2short:%s: nSeg=%d nTag=%d \n", line_2, nSeg, nTag);
             continue;
         }
 
@@ -166,8 +179,8 @@ int main(int argc, char *argv[])
         //printf("\n");
 
 
-        // 统计 TtsLabelCharInfo * cif;
-        // cif[0] 对应的是 x x sil
+        //// 统计 TtsLabelCharInfo * cif;
+        //// cif[0] 对应的是 x x sil
         ret =TtsLabel_ObtainLabelCharSeq(cif, pinyin, nSeg, tag);
         if(ret != 0)
         {

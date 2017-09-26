@@ -9,10 +9,6 @@ using namespace std;
 
 const int MAX_LEN = 1200;
 
-typedef map<string, string> map_pp;
-map_pp map_py2phone;
-map_pp map_phone;
-
 PinyinInfo pinyin2phone[411];
 
 
@@ -58,167 +54,42 @@ short split_str(const char *line, char ** seg, short *nSeg)
     return *nSeg;
 }
 
-/*
- * 读取 ko-kr_rr2ph.phmap 到 map_py2phone 
- * 读取 ko-kr.phone  到 map_phone
- * */
 int TTS_Label_Init()
 {
 
     int ret = 0;
-    FILE *fp;
-    char *line;
-    char *line_tmp;
-    line  =   (char *)malloc(sizeof(char)*MAX_LEN);
-
-    //  读取 ko-kr_rr2ph.phmap 到 map_py2phone 
-    fp = fopen("ko-kr_rr2ph.phmap","r");
-    if(NULL == fp)
-    {
-        printf("open file(ko-kr_rr2ph.phmap) failed!\n");
-        return 0;
-    }
-
-    while( fgets(line, MAX_LEN, fp)  != NULL)
-    {
-        line[strlen(line)-1] = '\0';
-        int jj = 0;
-        int flag = 0;
-        for(jj=0; jj<strlen(line); jj++)
-        {
-            if(line[jj] == '\t')
-            {
-                line[jj] = '\0';
-                line_tmp = line + jj + 1;
-                flag = 1;
-            }
-        }
-
-        if(flag == 0)
-        {
-           printf("load map format err: %s\n",line); 
-           continue;
-        }
-
-        map_py2phone[line] = line_tmp;
-        //printf("load map_py2phone=[%s,%s]\n",line, line_tmp);
-
-    }
-    fclose(fp);
-    
-
-    // 读取 ko-kr.phone  到 map_phone
-    fp = fopen("ko-kr.phone","r");
-    if(NULL == fp)
-    {
-        printf("open file(ko-kr.phone) failed!\n");
-        return 0;
-    }
-
-    while( fgets(line, MAX_LEN, fp)  != NULL)
-    {
-        line[strlen(line)-1] = '\0';
-        int jj = 0;
-        int flag = 0;
-        for(jj=0; jj<strlen(line); jj++)
-        {
-            if(line[jj] == '\t')
-            {
-                line[jj] = '\0';
-                line_tmp = line + jj + 1;
-                flag = 1;
-            }
-        }
-
-        if(flag == 0)
-        {
-           printf("load map format err: %s\n",line); 
-           continue;
-        }
-
-        map_phone[line] = line_tmp;
-        //printf("load map_=[%s,%s]\n",line, line_tmp);
-
-    }
-    fclose(fp);
 
     return ret;
 
 }
 
-
-/*
- * 使用 map_phone 
- * 按照最大匹配  将syllable 拆分成 phone 
- * */
-int split_syll2phone(const string syll, string &phones)
-{
-    int ret = 0;
-    int ii = 0;
-    int flag = 0;
-    int len = syll.size();
-
-    for(ii=len-1; ii>0; ii--)
-    {
-        string tmp_1 = syll.substr(0,ii);
-        string tmp_2 = syll.substr(ii,len-ii);
-        string phs_1 = "";
-        string phs_2 = "";
-        phones = "";
-        
-        
-        if(map_phone.count(tmp_1) > 0 )
-        {
-            phs_1 = tmp_1;
-            // tmp1 tmp2 都在
-            if(map_phone.count(tmp_2) > 0)
-            {
-                phs_2 = tmp_2;
-                phones = phs_1 + " " + phs_2;
-                return 0;
-            }
-            // tmp_2 可拆分 
-            else if(split_syll2phone(tmp_2, phs_2) == 0)
-            {
-                phones = phs_1 + " " + phs_2;
-                return 0;
-
-            }
-            
-        }
-    }
-
-    return  -1;
-}
-
-
 /*
  *  获取 syllable 对应的 phoneme 序列 
- *  不在map的syll  按照最大匹配 进行拆分 
+ *  aa_bb_cc  按照_拆分即可 
  *  没有返回 -1 
  * */
 int getPhones(const string syll, string &phones)
 {
+    // HH_AY1_N_D3
     int ret = 0;
-    if(map_py2phone.count(syll) > 0)
+    phones="";
+    vector<string> res;
+    split(res, syll, '_');
+    for(int ii=0; ii<res.size(); ii++)
     {
-        phones = map_py2phone[syll];
+       if (ii != 0)
+       {
+           phones = phones + " " + res[ii];
+       }
+       else
+       {
+           phones = res[ii];
+       }
     }
-    else
-    {
-        //printf("map_py2phone 中不存在key=%s\n", syll.c_str());
-        ret = split_syll2phone(syll, phones);
-        if(ret != 0)
-        {
-            printf("getPhones err:%s\n",syll.c_str());
-            return -1;
-        }
-        //printf("\ttest:%s   -->  %s\n", syll.c_str(), phones.c_str());
-    }
+    ret = res.size();
         
     return ret;
 }
-
 
 
 /*
@@ -233,7 +104,6 @@ int TtsLabel_ObtainLabelCharSeq(TtsLabelCharInfo * cif, char **pinyinSeq,
     //tag: 0,1,2,3,4
     int i;
     int ret = 0;
-    string phones;
 
     // 个数全是 -1  后面还需要修改的 
     cif[0].CharInPwNum=-1;
@@ -261,49 +131,29 @@ int TtsLabel_ObtainLabelCharSeq(TtsLabelCharInfo * cif, char **pinyinSeq,
 
 
 
+    // 读取每个syllable  获取对应的phoneme 存储到cif[i].phs 中 
     for(i=0; i<sNum; i++)
     {
         // 每一个 syllable (pinyin) 
         strcpy(cif[i].pinyin, pinyinSeq[i]);
 
         // 获取对应的 phone 序列 
-        ret = getPhones(pinyinSeq[i], phones); 
-        if(ret != 0)
+        vector<string> res;
+        split(res, cif[i].pinyin, '_');
+        //if(res.size() > 3)
+        //{
+        //    printf("size>3:%s\n", cif[i].pinyin);
+        //}
+
+        cif[i].num_ph = res.size();
+        for(int ii=0; ii<res.size(); ii++)
         {
-            printf("err: getPhones(%s) \n", pinyinSeq[i]);
-            continue;
-        }
-    
-        // 拆分 phones 到 arr
-        char* phs[3];
-        phs[0] = cif[i].ph1;
-        phs[1] = cif[i].ph2;
-        phs[2] = cif[i].ph3;
-        short num_ph;
-    
-        if(split_str(phones.c_str(), phs, &num_ph) < 1)
-        {
-            printf("err: split_str failed!\n");
-            return -1;
+            snprintf(cif[i].phs[ii], 10, "%s", res[ii].c_str());
         }
         
-        cif[i].num_ph = num_ph;
-        // 添加到 phs 
-        for(int ii=0; ii<num_ph; ii++)
-        {
-            if(ii==0)
-              strcpy(cif[i].phs[ii], cif[i].ph1);
-            else if(ii==1)
-              strcpy(cif[i].phs[ii], cif[i].ph2);
-            else if(2==ii)
-              strcpy(cif[i].phs[ii], cif[i].ph3);
-        }
-    
-        //printf("test:%s+%s+%s+%s+%d\n", pinyinSeq[i], 
-        //            cif[i].ph1, cif[i].ph2, cif[i].ph3, cif[i].num_ph);
-    
     
     }
+    //return 0;
 
 
     // 第 2 3... 个 syllable 
@@ -501,18 +351,19 @@ int PrintLabel(TtsLabelCharInfo * cif, short sNum, char *fname)
     // 0-10;x-x|x/C:x+x+x/D:x_x/E:0+5@x+x&x+x
     // #0+3/F:0_0/G:2
 
-    // 根据 cif[0] 对应有几个 phoneme 来写第1行 
+    // todo
+    //// 根据 cif[0] 对应有几个 phoneme 来写第1行 
     if(cif[0].num_ph > 1)
     {
         fprintf(fp,"nu^nu-sil+%s=%s@x_x/A:x_x_x/B:x-x-x@x-x&x-x#x-x$x-x!",
-                    cif[0].ph1, cif[0].ph2);
+                    cif[0].phs[0], cif[0].phs[1]);
     }
     else
     {
         // syllable 只有一个phoneme 对应
         //printf("err: num_ph ==1 pinyin=%s \n", cif[0].pinyin);
         fprintf(fp,"nu^nu-sil+%s=%s@x_x/A:x_x_x/B:x-x-x@x-x&x-x#x-x$x-x!",
-                    cif[0].ph1, cif[1].ph1);
+                    cif[0].phs[0], cif[1].phs[0]);
     }
     fprintf(fp,"0-0;x-x|x/C:x+x+x/D:x_x/E:0+%d@x+x&x+x", cif[0].PwInSentNum);
     fprintf(fp,"#0+%d/F:0_0/G:%d\n", cif[0].PpInSentNum, cif[0].IpInSentNum);

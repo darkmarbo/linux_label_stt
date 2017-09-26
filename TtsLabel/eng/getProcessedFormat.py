@@ -16,10 +16,13 @@ fp = open(sys.argv[2],'w');
 num_line = int(len(lines)/2);
 
 for i in range(num_line):
-    #print (i);
 
-    ### 000001 瓜农|要 生存$市民 有需求
     #010001	밤이 되자$황야는|더욱더 두렵게 보인다$
+    #	ba mi | doe ja | hwang ya neun | deo uk tteo | du ryeop kke | bo in da
+
+    #00001   Either way$you should shoot|very slowly
+    #  IY1 . DH ER0 / W EY1 / Y UW1 / SH UH1 D / SH UW1 T3 / V EH1 . R IY0 / S L OW1 . L IY0
+
     ln1 = lines[i*2].decode('utf-8');
     list_ln1 = ln1.split("\t");
     if len(list_ln1)<2:
@@ -28,8 +31,27 @@ for i in range(num_line):
     id = list_ln1[0];
     ln1 = list_ln1[1];
 
-    ### gua1 nong2 yao4 sheng1 cun2 shi4 min2 you3 xv1 qiu2
-    #	ba mi | doe ja | hwang ya neun | deo uk tteo | du ryeop kke | bo in da
+    ln1=ln1.replace('  \n','\n');
+    ln1=ln1.replace(' \n','\n');
+    ln1=ln1.replace('\n','');
+    ln1=ln1.replace('   ',' ');
+    ln1=ln1.replace('  ',' ');
+
+
+    ### 记录 韵律词 短语 语调短语的123
+    prs=[];
+    for cc in ln1:
+        if cc == ' ':
+            prs.append('1');
+        elif cc == '|':
+            prs.append('2');
+        elif cc == '$':
+            prs.append('3');
+
+    prs.append('4');
+    #print(prs);
+
+
     ln2 = lines[i*2+1].decode('utf-8');
     list_ln2 = ln2.split("\t");
     if len(list_ln2)<2:
@@ -38,44 +60,56 @@ for i in range(num_line):
     ln2 = list_ln2[1];
 	
     ln2 = ln2.replace('\n','');
-    ln2 = ln2.replace(' | ',' ');
-    ln2 = ln2.replace(' |',' ');
-    ln2 = ln2.replace('| ',' ');
-    ln2 = ln2.replace('|',' ');
-    #ln2,num = re.subn('([^e])r([123456])','\g<1>\g<2> er5',ln2);
-    #ln2,num = re.subn('([qwertyuioplkjhgfdsazxcvbnm])er([123456])','\g<1>e\g<2> er5',ln2);
-    #ln2,num = re.subn('6','2',ln2);
-    #ln2,num = re.subn('([yjqx])v','\g<1>u',ln2);
-    fp.write(id+'\t'+ln2+'\n');
-	
-    ln1=ln1.replace('  \n','\n');
-    ln1=ln1.replace(' \n','\n');
-    ln1=ln1.replace('\n','');
-    ln1=ln1.replace(' ','1');
-    ln1=ln1.replace('|','2');
-    ln1=ln1.replace('$','3');
-    ln1=ln1+'4';
-    ln3='';
+    vec_syl=[];
+    ## 按照/划分  得到韵律词 看看跟 prs 对应否 
+    list_ln2=ln2.split("/");
+    if len(prs) != len(list_ln2):
+        print("ERROR prs ", prs);
+        print("ERROR ln2 ", list_ln2);
+        continue;
 
-    for j in range(len(ln1)):
-        if ln1[j]=='1' or ln1[j]=='2' or ln1[j]=='3' or ln1[j]=='4':
-            ln3 = ln3+ln1[j];
-            continue;
-        elif j<len(ln1)-1:
-            if ln1[j+1]=='1' or ln1[j+1]=='2' or ln1[j+1]=='3' or ln1[j+1]=='4':
-                continue;
+    ## 010001	ba mi doe ja hwang ya neun deo uk tteo du ryeop kke bo in da
+    ## 0103002001001004
+
+    ### 输出第一行  syllable 
+    fp.write(id+'\t');
+    for ii in range(len(list_ln2)):
+        ## 每个word  :  IY1 . DH ER0
+        word = list_ln2[ii];
+        vec_syl = word.split(".");
+        for kk in range(0, len(vec_syl)):
+            ## 每个音节: IY1 和 DH ER0
+            syl = vec_syl[kk]
+            syl=syl.strip();
+            syl=re.sub('  ', ' ', syl);
+            syl=re.sub(' ', '_', syl);
+
+            if ii == len(list_ln2)-1 and kk == len(vec_syl)-1 :
+                fp.write(syl);
             else:
-                ln3=ln3+'0';
-                continue;
-    fp.write(ln3.encode('utf-8') + '\n');
+                fp.write(syl+' ');
+
+
+    fp.write('\n');
+
+
+    ### 输出第2行  01234 
+    for ii in range(len(list_ln2)):
+        ## 每个word  :  IY1 . DH ER0
+        word = list_ln2[ii];
+        vec_syl = word.split(".");
+        for jj in range(len(vec_syl)-1):
+            ## 每个音节: IY1 和 DH ER0
+            fp.write('0');
+
+
+        fp.write(prs[ii]);
+
+
+    fp.write('\n');
+
 
 fp.close();
     
 
     
-##    lp1=ln2.split('$');
-##    for lt1 in lp2:
-##        lp2=lt1.split('|');
-##        for lt2 in lp2:
-##            lp3=lt2.split();
-##            for lt3 in lp3

@@ -2,7 +2,11 @@
 #define _TTS_GETCHARINFO_H_
 
 #include<string>
+#include<vector>
 #include<map>
+
+#include"common.h"
+
 
 using namespace std;
 
@@ -14,15 +18,12 @@ typedef struct _PinyinInfo{
 
 typedef struct _TtsLabelCharInfo{
 
-    char ph1[6]; // tt ui n
-    char ph2[6]; // tt ui n
-    char ph3[6]; // tt ui n
-    char phs[3][6];
-    short num_ph;  //  当前syllable 包含phoneme的个数。
+    //  当前syllable 包含phoneme的个数。
+    char phs[10][10];
+    short num_ph;  
 
     // n^ong-y+ao=sh@1_1/A:1_2_4/B:1-2-1@1-1&3-3#3-3$8-1!3-5;10-1|2
     // /C:2+2+2/D:4_2/E:3+5@2+1&2+2#2+3/F:1_2/G:2
-
 
     // p1^p2-p3+p4=p5@p6_p7/A:a1_a2_a3/B:b1-b2-b3@b4-b5&b6-b7#b8-b9$b10-b11!b12-b13;b14-b15|b16
     // /C:c1+c2+c3/D:d1_d2/E:e1+e2@e3+e4&e5+e6#e7+e8/F:f1_f2/G:g1
@@ -73,6 +74,8 @@ typedef struct _TtsLabelCharInfo{
 
 }TtsLabelCharInfo;
 
+int getPhones(const string syll, string &phones);
+
 int get3ph(const TtsLabelCharInfo &cif, char *ph);
 short getPinyinInfoID(char *pinyin);
 void getShengYun(char *pinyin,char *shengmu,char *yunmu,short *yindiao);
@@ -89,8 +92,6 @@ short split_str(const char *line, char ** seg, short *nSeg);
  * 按照最大匹配  将syllable 拆分成 phone 
  * */
 int split_syll2phone(const string syll, string &phones);
-
-int getPhones(const string syll, string &phones);
 
 int TTS_Label_Init();
 
