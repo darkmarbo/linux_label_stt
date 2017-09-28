@@ -7,22 +7,44 @@
 
 using namespace std;
 
+MYMAP map_ph;
+
 const int MAX_LEN = 1200;
 
 PinyinInfo pinyin2phone[411];
 
 
 /*
- * 获取cif的 最后一个phoneme  
+ * 存储 phoneme 到map中 声韵母 
  * */
-int get3ph(const TtsLabelCharInfo &cif, char *ph)
+int load_map_ph(const char *file, MYMAP &map_ph)
 {
+    // HH 2
+    int ret = 0;
+    FILE *fp = fopen(file, "r");
+    char line[MAX_LEN] = {0};
 
-    return 0;
+    while(fgets(line, MAX_LEN, fp))
+    {
+        if(strlen(line) == 0)
+          continue;
+        line[strlen(line)-1] = 0;
+
+        vector<string> res;
+        split(res, line, '\t');
+        if(res.size() < 2 )
+          continue;
+        map_ph[res[0]] = res[1];
+    }
+
+
+    return ret;
 }
 
+
+
 /*
- // tt ui n
+// tt ui n
  * */
 short split_str(const char *line, char ** seg, short *nSeg)
 {
@@ -43,7 +65,7 @@ short split_str(const char *line, char ** seg, short *nSeg)
         // 继续找到第一个空格 
         for(j=i;line[j]!=' ' && j<len; j++);
 
-         
+
         for(k=i;k<j;k++)
         {
             seg[*nSeg][k-i]=line[k];
@@ -58,6 +80,9 @@ int TTS_Label_Init()
 {
 
     int ret = 0;
+
+    ret = load_map_ph("eng.phone", map_ph);
+
 
     return ret;
 
@@ -77,20 +102,71 @@ int getPhones(const string syll, string &phones)
     split(res, syll, '_');
     for(int ii=0; ii<res.size(); ii++)
     {
-       if (ii != 0)
-       {
-           phones = phones + " " + res[ii];
-       }
-       else
-       {
-           phones = res[ii];
-       }
+        if (ii != 0)
+        {
+            phones = phones + " " + res[ii];
+        }
+        else
+        {
+            phones = res[ii];
+        }
     }
     ret = res.size();
-        
+
     return ret;
 }
 
+/*
+ *  // 得到处理后的 new_ph 
+// stress phoneme的重音情况 012  没有重音记为4(辅音) 
+// accent 是句重音标记为 1  不是标记为 0 
+// 返回值 ret: 0(什么都没有的辅音)  1(只有012) 2(只有3) 3(03 13 23组合)
+ * */
+int getStress(const string &ph, string &new_ph, char &sts, char &acc)
+{
+    int ret = 0;
+    // 默认sts为4  acc为0 
+    sts = '4';
+    acc = '0';
+
+    // sts 与 phs 对应 
+    string ph_tmp = ph;
+    // string ph_tmp2 = ph;
+
+    char last = ph_tmp[ph_tmp.length()-1];
+
+    // 没有3 只有012      AA0  AA1  AA2   
+    // 那么 acc 默认就是没有3了 赋值为0 
+    if(last == '0' || last == '1' || last == '2')
+    {
+        sts = last;
+        ph_tmp = ph_tmp.substr(0, ph_tmp.length()-1);;
+        ret = 1;
+    }
+    else if(last == '3')
+    {
+        acc = '1';
+
+        // 删掉当前的 3 
+        ph_tmp = ph_tmp.substr(0, ph_tmp.length()-1);
+        ret =2;
+
+        // 在往前取一位  看看是不是 012 
+        last = ph_tmp[ph_tmp.length()-1];
+        if(last == '0' || last == '1' || last == '2')
+        {
+            sts = last;
+            ph_tmp = ph_tmp.substr(0, ph_tmp.length()-1);;
+            ret =3;
+        }
+    }
+
+    new_ph = ph_tmp;
+
+    return ret;
+
+
+}
 
 /*
  * TtsLabelCharInfo:存储每个 phone的信息 
@@ -131,7 +207,8 @@ int TtsLabel_ObtainLabelCharSeq(TtsLabelCharInfo * cif, char **pinyinSeq,
 
 
 
-    // 读取每个syllable  获取对应的phoneme 存储到cif[i].phs 中 
+    // 读取每个syllable 
+    // 获取对应的 每个 phoneme 存储到 cif[i].phs 中 
     for(i=0; i<sNum; i++)
     {
         // 每一个 syllable (pinyin) 
@@ -140,18 +217,35 @@ int TtsLabel_ObtainLabelCharSeq(TtsLabelCharInfo * cif, char **pinyinSeq,
         // 获取对应的 phone 序列 
         vector<string> res;
         split(res, cif[i].pinyin, '_');
-        //if(res.size() > 3)
-        //{
-        //    printf("size>3:%s\n", cif[i].pinyin);
-        //}
 
+        // syllable内部的每一个 phoneme 
         cif[i].num_ph = res.size();
-        for(int ii=0; ii<res.size(); ii++)
+        for(int j=0; j<res.size(); j++)
         {
-            snprintf(cif[i].phs[ii], 10, "%s", res[ii].c_str());
+            // stress phoneme的重音情况 012  
+            char sts = '4';
+            // accent 句子的重音情况 '0' '1'  
+            char acc = '0';
+
+            string ph_tmp = res[j];
+            string new_ph;
+            ret = getStress(ph_tmp, new_ph, sts, acc);
+
+            // 判断真的phoneme 是否合法 
+            if(map_ph.find(new_ph) != map_ph.end())
+            {
+                snprintf(cif[i].phs[j], 10, "%s", new_ph.c_str());
+                cif[i].sts[j] = sts;
+                cif[i].acc = acc;
+            }
+            else
+            {
+                printf("error map_ph2:::%s:::\n", ph_tmp.c_str());
+            }
+
         }
-        
-    
+
+
     }
     //return 0;
 
@@ -351,16 +445,16 @@ int PrintLabel(TtsLabelCharInfo * cif, short sNum, char *fname)
     // 0-10;x-x|x/C:x+x+x/D:x_x/E:0+5@x+x&x+x
     // #0+3/F:0_0/G:2
 
-    // todo
+
+    // 第一行 
     //// 根据 cif[0] 对应有几个 phoneme 来写第1行 
     if(cif[0].num_ph > 1)
     {
         fprintf(fp,"nu^nu-sil+%s=%s@x_x/A:x_x_x/B:x-x-x@x-x&x-x#x-x$x-x!",
                     cif[0].phs[0], cif[0].phs[1]);
     }
-    else
+    else // syllable 只有一个phoneme 对应
     {
-        // syllable 只有一个phoneme 对应
         //printf("err: num_ph ==1 pinyin=%s \n", cif[0].pinyin);
         fprintf(fp,"nu^nu-sil+%s=%s@x_x/A:x_x_x/B:x-x-x@x-x&x-x#x-x$x-x!",
                     cif[0].phs[0], cif[1].phs[0]);
@@ -380,6 +474,9 @@ int PrintLabel(TtsLabelCharInfo * cif, short sNum, char *fname)
     // #2+3/F:1_2/G:2
     //
 
+    //a1_a2_a3_b1_b2    前后调型    0-5
+    char dx[5];
+
     // 每一个cif[i] 
     for(i=0; i<sNum; i++)
     {
@@ -387,22 +484,24 @@ int PrintLabel(TtsLabelCharInfo * cif, short sNum, char *fname)
         for(k=1; k <= cif[i].num_ph; k++)
         {
 
-            //////////////////////////// //p1  前面 -2 个phoneme  
+            // p1.  前面 -2 个phoneme  
             if(k==1)  // cif[i].ph1
             {
                 // 第1个syllable 的 第1个phoneme 
                 if(i==0)
                 {
                     fprintf(fp,"nu");
+                    dx[0]='x';
                 }
                 else
-                // 第 2.3.4 个 syllable 的 第1个 phoneme 
+                  // 第 2.3.4 个 syllable 的 第1个 phoneme 
                 {
                     // 新的IP开始  前面实际上是sil 
                     if(cif[i].CharInIpPos == 1)
                     {
                         // 需要写入前面syllable的最后一个phoneme 
                         fprintf(fp,"%s", cif[i-1].phs[ cif[i-1].num_ph-1 ] );
+                        dx[0] = cif[i-1].sts[ cif[i-1].num_ph-1 ];
                     }
                     else
                     {
@@ -410,24 +509,27 @@ int PrintLabel(TtsLabelCharInfo * cif, short sNum, char *fname)
                         if(cif[i-1].num_ph > 1)
                         {
                             fprintf(fp,"%s", cif[i-1].phs[ cif[i-1].num_ph-2 ] );
+                            dx[0] = cif[i-1].sts[ cif[i-1].num_ph-2 ];
                         }
                         else
-                        // 如果前面syllable 只有一个 phoneme  
+                          // 如果前面syllable 只有一个 phoneme  
                         {
                             // 没有 i-2个syllable  
                             if(i == 1)
                             {
                                 fprintf(fp,"sil");
+                                dx[0] = 'x';
                             }
                             else
-                            // 需要查看i-2个 syllable的最后一个phoneme 
+                              // 需要查看i-2个 syllable的最后一个phoneme 
                             {
                                 fprintf(fp,"%s", cif[i-2].phs[ cif[i-2].num_ph-1 ] );
+                                dx[0] = cif[i-2].sts[ cif[i-2].num_ph-1 ];
 
                             }
 
                         }
-                        
+
                     }
                 }
             }
@@ -437,19 +539,22 @@ int PrintLabel(TtsLabelCharInfo * cif, short sNum, char *fname)
                 if(i==0)
                 {
                     fprintf(fp,"sil");
+                    dx[0] = 'x';
                 }
                 else
-                // 第2.3.4个syllable 的 第2个phoneme 
+                  // 第2.3.4个syllable 的 第2个phoneme 
                 {
                     // IP分界线  前面是静音sil 
                     if(cif[i].CharInIpPos == 1)
                     {
                         fprintf(fp,"sil");
+                        dx[0] = 'x';
                     }
                     else
                     {
                         // 前一个syllable的 最后一个phoneme
                         fprintf(fp,"%s",cif[i-1].phs[ cif[i-1].num_ph -1 ]);
+                        dx[0] = cif[i-1].sts[ cif[i-1].num_ph-1 ];
                     }
                 }
             }
@@ -457,42 +562,49 @@ int PrintLabel(TtsLabelCharInfo * cif, short sNum, char *fname)
             {
                 // 当前syllable 的 第3个phoneme 
                 fprintf(fp,"%s", cif[i].phs[0]);
+                dx[0] = cif[i].sts[0];
 
             }
 
-            //////////////////////////// //p2  前面 -1 个phoneme  
+            //  p2.  前面 -1 个phoneme  
             if(k==1) // 第1个 phoneme 
             {
                 if(i==0)
                 {
                     fprintf(fp,"^sil");
+                    dx[1] = 'x';
                 }
                 else
                 {
                     if(cif[i].CharInIpPos==1)
                     {
                         fprintf(fp,"^sil");
+                        dx[1] = 'x';
                     }
                     else
                     {
                         fprintf(fp,"^%s", cif[i-1].phs[ cif[i-1].num_ph -1 ] );
+                        dx[1] = cif[i-1].sts[ cif[i-1].num_ph-1 ];
                     }
                 }
             }
             else  // 第2.3 个 phoneme  取其前面的phoneme 
             {
                 fprintf(fp,"^%s", cif[i].phs[k-2] );
+                dx[1] = cif[i].sts[k-2];
             }
 
 
 
-            /////////////////   p3  当前的phoneme 
+            //  p3.  当前的phoneme 
             fprintf(fp,"-%s", cif[i].phs[k-1]);
+            dx[2] = cif[i].sts[k-1];
 
             //p4  后面的phoneme 
             if(k < cif[i].num_ph)  // 同一个syllable内部 
             {
                 fprintf(fp,"+%s", cif[i].phs[k]);
+                dx[3] = cif[i].sts[k];
             }
             else
             {
@@ -502,33 +614,43 @@ int PrintLabel(TtsLabelCharInfo * cif, short sNum, char *fname)
                     if(cif[i].CharInIpPos == cif[i].CharInIpNum)
                     {
                         fprintf(fp,"+sil");
+                        dx[3] = 'x';
                     }
                     else
                     {
                         fprintf(fp,"+%s",cif[i+1].phs[0]);
+                        dx[3] = cif[i+1].sts[0];
                     }
                 }
                 else
                 {
                     fprintf(fp,"+sil");
+                    dx[3] = 'x';
                 }
             }
 
-            ////////////////    p5  后面第 2 个phoneme 
+            //  p5.  后面第 2 个phoneme 
             // 同一个syllable内部 
             if(cif[i].num_ph > k+1)  // k==1  num_ph==3
             {
                 fprintf(fp,"=%s",cif[i].phs[k+1]);
+                dx[4] = cif[i].sts[k+1];
             }
             else if(cif[i].num_ph == k+1) 
-            // syllable 内部  后面还有一个phoneme 
-            // k==1  &&  num_ph ==2 或者 k==2 && num_ph == 3
+              // syllable 内部  后面还有一个phoneme 
+              // k==1  &&  num_ph ==2 或者 k==2 && num_ph == 3
             {
                 // 后面有 syllable 
                 if(i<sNum-1 &&  cif[i].CharInIpPos != cif[i].CharInIpNum )
+                {
                     fprintf(fp,"=%s",cif[i+1].phs[0]);
+                    dx[4] = cif[i+1].sts[0];
+                }
                 else
+                {
                     fprintf(fp,"=sil");
+                    dx[4] = 'x';
+                }
 
             }
             else  // num_ph == k  syllable内部无phoneme了 
@@ -538,23 +660,36 @@ int PrintLabel(TtsLabelCharInfo * cif, short sNum, char *fname)
                 {
                     // 一定在下一个syllable内部
                     if(i<sNum-1)  
+                    {
                         fprintf(fp,"=%s",cif[i+1].phs[0]);
+                        dx[4] = cif[i+1].sts[0];
+                    }
                     else
+                    {
                         fprintf(fp,"=nu");
+                        dx[4] = 'x';
+                    }
                 }
                 else if(i<sNum-1 && cif[i+1].num_ph > 1 )  
-                // 后面是syllable  并且有2个phoneme 
+                  // 后面是syllable  并且有2个phoneme 
                 {
                     fprintf(fp,"=%s", cif[i+1].phs[1]);
+                    dx[4] = cif[i+1].sts[1];
                 }
                 else if(i<sNum-1 && cif[i+1].num_ph == 1)  
-                // 后面是syllable  并且有1个phoneme 
+                  // 后面是syllable  并且有1个phoneme 
                 {
                     // i+2 个syllable 存在 并且 i+1处不是sil
                     if(i<sNum-2 && cif[i+1].CharInIpPos != cif[i+1].CharInIpNum)
+                    {
                         fprintf(fp,"=%s", cif[i+2].phs[0]);
+                        dx[4] = cif[i+2].sts[0];
+                    }
                     else
+                    {
                         fprintf(fp,"=nu");
+                        dx[4] = 'x';
+                    }
                 }
             }
 
@@ -563,11 +698,14 @@ int PrintLabel(TtsLabelCharInfo * cif, short sNum, char *fname)
             // 现在变成: 当前phoneme 是syllable的第几个phoneme  
             fprintf(fp,"@%d",k);
 
-            //p7    清浊类型    0-清， 1-浊,   
-            fprintf(fp,"_0");
+            // p7 当前syllable 是否是句重音 accent (0|1)
+            // 需要改成当前word 是不是 
+            fprintf(fp,"_%c", cif[i].acc);
 
+            // todo 
             //a1_a2_a3_b1_b2    前后调型    0-5
-            fprintf(fp,"/A:0_0_0/B:0-0");
+            //fprintf(fp,"/A:0_0_0/B:0-0");
+            fprintf(fp,"/A:%c_%c_%c/B:%c-%c", dx[0], dx[1], dx[2], dx[3], dx[4]);
 
             //-b3@b4    音节在韵律词位置
             fprintf(fp,"-%d", cif[i].CharInPwPos);
@@ -638,29 +776,40 @@ int PrintLabel(TtsLabelCharInfo * cif, short sNum, char *fname)
                     // 取前面syllable的 倒数第1.2个phoneme 
                     fprintf(fp,"%s^%s-sil+", cif[i].phs[cif[i].num_ph-2], 
                                 cif[i].phs[cif[i].num_ph-1] );
+                    dx[0] = cif[i].sts[cif[i].num_ph-2];
+                    dx[1] = cif[i].sts[cif[i].num_ph-1];
                 }
-                //cif[i] 只有一个phoneme 
                 else if(i>0 && cif[i-1].CharInIpPos != cif[i-1].CharInIpNum)
-                    //cif[i-1] 的 syllable 存在 并且非IP边界 
+                //cif[i] 只有一个phoneme 
+                  //cif[i-1] 的 syllable 存在 并且非IP边界 
                 {
                     fprintf(fp,"%s^%s-sil+", cif[i-1].phs[cif[i].num_ph-1], 
                                 cif[i].phs[0] );
+                    dx[0] = cif[i-1].sts[cif[i].num_ph-1];
+                    dx[1] = cif[i].sts[0];
 
                 }
                 else // cif[i] 只有一个phoneme  前面是sil 
                 {
                     fprintf(fp, "sil^%s-sil+", cif[i].phs[0] );
+                    dx[0] = 'x';
+                    dx[1] = cif[i].sts[0];
                 }
 
+                dx[2] = 'x';
+                dx[3] = 'x';
+                dx[4] = 'x';
 
+                // todo
                 // 后面还有 syllable 
                 if(i<sNum-1 )
                 {
                     // i+1 够用了 
                     if(cif[i+1].num_ph > 1)
                     {
-                        fprintf(fp,"%s=%s@x_x/A:x_%d_x/B:%d-x-x@x-x&x-x#x-x$x-x!x-",
-                        cif[i+1].phs[0], cif[i+1].phs[1], cif[i].yindiao, cif[i+1].yindiao);
+                        fprintf(fp,"%s=%s@x_x", cif[i+1].phs[0], cif[i+1].phs[1]);
+                        dx[3] = cif[i+1].sts[0];
+                        dx[4] = cif[i+1].sts[1];
                     }
                     else // i+1 只有一个phoneme 
                     {
@@ -668,28 +817,34 @@ int PrintLabel(TtsLabelCharInfo * cif, short sNum, char *fname)
                         // 是否有i+2个syllable 存在 并且 i+1处 非IP边界  
                         if(i+2 < sNum &&  cif[i+1].CharInIpPos != cif[i+1].CharInIpNum)
                         {
-                            fprintf(fp,"%s=%s@x_x/A:x_%d_x/B:%d-x-x@x-x&x-x#x-x$x-x!x-",
-                            cif[i+1].phs[0], cif[i+2].phs[0],cif[i].yindiao,cif[i+1].yindiao);
+                            fprintf(fp,"%s=%s@x_x", cif[i+1].phs[0], cif[i+2].phs[0]);
+                            dx[3] = cif[i+1].sts[0];
+                            dx[4] = cif[i+2].sts[0];
 
                         }
                         else
-                            fprintf(fp,"nu=nu@x_x/A:x_%d_x/B:x-x-x@x-x&x-x#x-x$x-x!x-",
-                                cif[i].yindiao);
+                        {
+                            fprintf(fp,"nu=nu@x_x");
+                        }
 
                     }
                 }
                 else
                 {
-                    fprintf(fp,"nu=nu@x_x/A:x_%d_x/B:x-x-x@x-x&x-x#x-x$x-x!x-",
-                                cif[i].yindiao);
+                    fprintf(fp,"nu=nu@x_x");
                 }
+
+                // a1 a2 a3 b1 b2 
+                fprintf(fp,"/A:%c_%c_%c/B:%c-%c", dx[0], dx[1], dx[2], dx[3], dx[4]);
+
+                fprintf(fp,"-x@x-x&x-x#x-x$x-x!x-");
 
                 fprintf(fp,"%d;%d-x|x/C:x+x+x/D:d1_d2/E:%d+%d@x+x&x+x#",
                             cif[i].CharInIpNum,cif[i].CharInSentNum,
                             cif[i].PwInIpNum,cif[i].PwInSentNum);
                 fprintf(fp,"%d+%d/F:%d_%d/G:%d\n",cif[i].PpInIpNum,
                             cif[i].PpInSentNum,cif[i].IpInSentPos,
-                        cif[i].IpInSentNum-cif[i].IpInSentPos+1,cif[i].IpInSentNum);
+                            cif[i].IpInSentNum-cif[i].IpInSentPos+1,cif[i].IpInSentNum);
             }
         }
 
@@ -701,66 +856,6 @@ int PrintLabel(TtsLabelCharInfo * cif, short sNum, char *fname)
     return 0;
 
 }
-
-
-int isQing(char *phone)
-{
-    char *qlist[]={"zh","sil","ch","c","b","d","g","f","h","k","j","q","p","s","sh","t","x","z"};
-    int i;
-    for(i=0;i<18;i++){
-        if(strcmp(phone,qlist[i])==0){
-            return 1;
-        }
-    }
-    return 0;
-
-}
-
-
-
-void getShengYun(char *pinyin,char *shengmu,char *yunmu,short *yindiao)
-{
-    PinyinInfo *pif;//
-    char py[9];
-    int len=strlen(pinyin);
-    int pyID;
-    if(pinyin[len-1]=='1'){*yindiao=1;}
-    if(pinyin[len-1]=='2'){*yindiao=2;}
-    if(pinyin[len-1]=='3'){*yindiao=3;}
-    if(pinyin[len-1]=='4'){*yindiao=4;}
-    if(pinyin[len-1]=='5'){*yindiao=5;}
-    strcpy(py,pinyin);
-    py[len-1]=0;
-    pyID=getPinyinInfoID(py);
-    pif=pinyin2phone+pyID;
-    if(pyID<0){
-        printf("warning: pinyin %s does not exist!\n",py);
-    }
-    strcpy(shengmu,pif->shengmu);
-    strcpy(yunmu,pif->yunmu);
-};
-
-short getPinyinInfoID(char *pinyin)
-{
-    short l=0,u=411;
-    short m,comp;
-    while(u-l>=2)
-    {
-        m=(u+l)/2;
-        comp=strcmp(pinyin,pinyin2phone[m].pinyin);
-        if(comp==0){return m;}
-        else if(comp<0){u=m;}
-        else{(l=m);}
-    }
-    if(strcmp(pinyin,pinyin2phone[l].pinyin)==0){
-        return l;
-    }
-    if(strcmp(pinyin,pinyin2phone[u].pinyin)==0){
-        return u;
-    }
-    return -1;
-}
-
 
 
 

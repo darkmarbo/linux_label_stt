@@ -10,6 +10,8 @@
 
 using namespace std;
 
+typedef map<string,string>  MYMAP;
+
 typedef struct _PinyinInfo{
     char pinyin[8];
     char shengmu[6];
@@ -18,8 +20,14 @@ typedef struct _PinyinInfo{
 
 typedef struct _TtsLabelCharInfo{
 
-    //  当前syllable 包含phoneme的个数。
+    char pinyin[8];
+    // 当前word 是否是 句重音 
+    char acc;
+    // 每个phoneme  d
     char phs[10][10];
+    // 每个phoneme的音调   元音(012 无|主|次 重音)  辅音(4)
+    char sts[10]; 
+    //  当前syllable 包含phoneme的个数。
     short num_ph;  
 
     // n^ong-y+ao=sh@1_1/A:1_2_4/B:1-2-1@1-1&3-3#3-3$8-1!3-5;10-1|2
@@ -30,10 +38,6 @@ typedef struct _TtsLabelCharInfo{
 
 
     //////////////////////////////////////////////
-    char pinyin[8];
-    char shengmu[6];
-    char yunmu[6];
-    short yindiao; //1-5
 
     //p1^p2-p3+p4=p5@ 
         //  前后5个phoneme
@@ -74,14 +78,18 @@ typedef struct _TtsLabelCharInfo{
 
 }TtsLabelCharInfo;
 
+int load_map_ph(const char *file, MYMAP &map_ph);
 int getPhones(const string syll, string &phones);
 
-int get3ph(const TtsLabelCharInfo &cif, char *ph);
-short getPinyinInfoID(char *pinyin);
-void getShengYun(char *pinyin,char *shengmu,char *yunmu,short *yindiao);
-int isQing(char *phone);
 
 
+/*
+ *  // 得到处理后的 new_ph 
+    // stress phoneme的重音情况 012  没有重音记为4(辅音) 
+    // accent 是句重音标记为 1  不是标记为 0 
+    // 返回值 ret: 0(什么都没有的辅音)  1(只有012) 2(只有3) 3(03 13 23组合)
+ * */
+int getStress(const string &ph, string &new_ph, char &sts, char &acc);
 
 /*
  // tt ui n
@@ -96,9 +104,8 @@ int split_syll2phone(const string syll, string &phones);
 int TTS_Label_Init();
 
 
-short getPinyinInfoID(char *pinyin);
-void getShengYun(char *pinyin,char *shengmu,char *yunmu,short *yindiao);
 int TtsLabel_ObtainLabelCharSeq(TtsLabelCharInfo * cif,char **pinyinSeq,short sNum,short * tag);
+
 int PrintLabel(TtsLabelCharInfo * cif,short sNum,char *fname);
 
 #endif
