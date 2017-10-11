@@ -48,8 +48,8 @@ for ii in range(len(lines)):
 		line_bak = line;
 
         ## test 
-		if line not in shengyunmu:
-			print("not in shengyun :%s\n"%(line));
+		#if line not in shengyunmu:
+		#	print("not in shengyun :%s\n"%(line));
 
 		if line in ('bc','pc','dc','tc','gc','kc','zc','cc','zhc','chc','jc','qc'):
 			line_old = line_bak;
@@ -184,6 +184,9 @@ for ii in range(len(lines)):
 			line = 'ib'; 
 		if line == 'iy':
 			line = 'if'; 
+
+		if line[-1:] == 'r' and line not in shengyunmu:
+			line = line[:-1]
 		
 		if line in shengyunmu:
 			fp_out.write("%d %d %s\n"%(time_st, time_end, line));
