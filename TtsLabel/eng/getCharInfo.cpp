@@ -558,7 +558,7 @@ int PrintLabel(TtsLabelCharInfo * cif, short sNum, char *fname)
                     }
                 }
             }
-            else if(k == 3)
+            else
             {
                 // 当前syllable 的 第3个phoneme 
                 fprintf(fp,"%s", cif[i].phs[0]);
