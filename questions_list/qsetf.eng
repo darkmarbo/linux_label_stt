@@ -1,0 +1,97 @@
+AVowel	AE AA ER AY AW
+Affricate	CH JH
+Anterior	P B M T D N F V TH DH S Z L W
+Back	SH CH JH Y K G NG HH UW UH OW AH
+Back-Fricative	SH ZH CH JH
+Back-Stop	K G
+C-Back	SH CH JH Y K G NG HH
+C-Central	T D N S Z ZH TH DH L R
+C-Front	P B M F V W
+Central	T D N S Z ZH TH DH L R AE AA ER AO
+Central-Fricative	S Z TH DH
+Central-Stop	T D
+Class-Stop	P B T D K G
+Continuent	M N NG F V TH DH S Z SH ZH HH L R Y W
+Coronal	T D N TH DH S Z SH ZH CH JH L R
+Dipthong	EY AY OY AW ER
+EVowel	EY EH
+Fortis	P T K F TH S SH CH
+FricatAffricative	S SH Z ZH F V CH JH TH DH
+Fricative	S SH Z ZH F V TH DH
+Front	P B M F V W IY IH EY EH
+Front-Fricative	F V
+Front-Start	EY AW ER
+Front-Stop	P B
+Fronting	AY EY OY
+High	IH UW UH IY
+IVowel	IH IY
+Lenis	B D G V DH Z ZH JH
+Liquid	L R W Y HH
+Long	IY OW AW AO UW
+Low	AE AY AW AA AO OY
+Medium	EY ER AH OW EH
+Nasal	M N NG
+NonAnterior	K G NG SH ZH HH CH JH R Y
+NonContinuent	P B T D K G CH JH
+NonCoronal	P B M K G NG F V HH Y W
+NonStrident	F V TH DH HH
+OVowel	AO OY OW
+Rounded	AO UW UH OY OW W
+Short	AE EY AA EH IH AY OY AH UH
+Strident	S Z SH ZH CH JH
+UVowel	AH UH UW
+UnFortLenis	M N NG HH L R Y W
+UnStrident	P B M T D N K G NG L R Y W
+Unrounded	EH IH AE AA ER AY EY IY AW AH HH L R Y
+Unvoiced-Fricative	S SH TH F CH
+Unvoiced-Stop	P T K
+Unvoiced-cons	P T K S SH F TH HH CH
+V-Back	UW UH OW AH
+V-Central	AE AA ER AO
+V-Front	IY IH EY EH
+Voiced-Fricative	Z ZH DH CH V
+Voiced-Stop	B D G
+Voiced-cons	JH B D DH G Y L M N NG R V W Z
+Vowel	EY EH IH AO AE AA UW UH ER AY OY IY AW OW AH
+AA	AA
+AE	AE
+AH	AH
+AO	AO
+AW	AW
+AY	AY
+B	B
+CH	CH
+D	D
+DH	DH
+EH	EH
+ER	ER
+EY	EY
+F	F
+G	G
+HH	HH
+IH	IH
+IY	IY
+JH	JH
+K	K
+L	L
+M	M
+N	N
+NG	NG
+OW	OW
+OY	OY
+P	P
+R	R
+S	S
+SH	SH
+T	T
+TH	TH
+UH	UH
+UW	UW
+V	V
+W	W
+Y	Y
+Z	Z
+ZH	ZH
+sil	sil
+NULL	nu
+

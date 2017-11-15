@@ -1,0 +1,201 @@
+#-*- coding: utf-8 -*-
+#!/usr/bin/python
+
+"""
+2013-3-8
+This program is used to create question list
+"""
+
+import os
+import re
+import sys
+import pdb
+import struct
+import getopt
+import ConfigParser
+
+
+erroMsg = '===> [FATAL ERROR]:'
+warnMsg = '===> [WARNING]:'
+
+_DEBUG=True#False
+
+def debugme(dbflag):
+	if dbflag:
+		pdb.set_trace()
+	return
+
+
+def Usage():
+	print """ create_hed.py """
+
+
+def MakeTreeHed(monof,qsetf, treehed):
+        
+	""" Make tree.hed file for HHEd """
+
+	monomap = {}
+	
+	for line in open(monof).xreadlines():
+		line = line.strip()
+		if not line:
+			continue
+		## qset excluding sp phone
+		if line.lower()=='sp':
+			continue
+		else:
+			monomap[line] = 1
+
+	fout = open(treehed, 'wt')
+	
+
+	for line in open(qsetf).xreadlines():
+                
+		line = line.strip()
+		if not line:
+			continue
+		## skip comment
+		if line.startswith('#'):
+			continue
+
+		## make question list
+		tmp = line.split()
+
+		## monophone question
+		if len(tmp)<2:
+			sys.stderr.write('%s, Invalid quesion format: %s' %(erroMsg, line))
+			sys.exit(-1)
+		else:
+                        ## LL-Vowel aa^*                       
+			fout.write('QS "LL-%s"\t\t{' %tmp[0])
+			for leftp in tmp[1:]:
+				if leftp in monomap:
+					fout.write('%s^*,' %leftp)
+				else:
+                                        print '%s\t%s' %(leftp,line)
+                                        
+			fout.write('}\n')
+
+        fout.write('\n')
+
+        tmp = []
+        
+	for line in open(qsetf).xreadlines():
+                                
+		line = line.strip()
+		if not line:
+			continue
+		## skip comment
+		if line.startswith('#'):
+			continue
+
+		## make question list
+		tmp = line.split()
+
+		## monophone question
+		if len(tmp)<2:
+			sys.stderr.write('%s, Invalid quesion format: %s' %(erroMsg, line))
+			sys.exit(-1)
+		else:
+                        ## L-Vowel	*^aa-*
+			fout.write('QS "L-%s"\t\t{' %tmp[0])
+			for rightp in tmp[1:]:
+				if rightp in monomap:
+					fout.write('*^%s-*,' %rightp)
+				else:
+                                        print line
+			fout.write('}\n')
+	fout.write('\n')
+
+	tmp = []
+        
+	for line in open(qsetf).xreadlines():
+                                
+		line = line.strip()
+		if not line:
+			continue
+		## skip comment
+		if line.startswith('#'):
+			continue
+
+		## make question list
+		tmp = line.split()
+
+		## monophone question
+		if len(tmp)<2:
+			sys.stderr.write('%s, Invalid quesion format: %s' %(erroMsg, line))
+			sys.exit(-1)
+		else:
+                        ## C-Vowel	*-aa+*
+			fout.write('QS "C-%s"\t\t{' %tmp[0])
+			for rightp in tmp[1:]:
+				if rightp in monomap:
+					fout.write('*-%s+*,' %rightp)
+				else:
+                                        print line
+			fout.write('}\n')
+	fout.write('\n')
+
+	tmp = []
+        
+	for line in open(qsetf).xreadlines():
+                                
+		line = line.strip()
+		if not line:
+			continue
+		## skip comment
+		if line.startswith('#'):
+			continue
+
+		## make question list
+		tmp = line.split()
+
+		## monophone question
+		if len(tmp)<2:
+			sys.stderr.write('%s, Invalid quesion format: %s' %(erroMsg, line))
+			sys.exit(-1)
+		else:
+                        ## R-Vowel	*+aa=*
+			fout.write('QS "R-%s"\t\t{' %tmp[0])
+			for rightp in tmp[1:]:
+				if rightp in monomap:
+					fout.write('*+%s=*,' %rightp)
+				else:
+                                        print line
+			fout.write('}\n')
+	fout.write('\n')
+
+        tmp = []
+        
+	for line in open(qsetf).xreadlines():
+                                
+		line = line.strip()
+		if not line:
+			continue
+		## skip comment
+		if line.startswith('#'):
+			continue
+
+		## make question list
+		tmp = line.split()
+
+		## monophone question
+		if len(tmp)<2:
+			sys.stderr.write('%s, Invalid quesion format: %s' %(erroMsg, line))
+			sys.exit(-1)
+		else:
+                        ## RR-Vowel	*=aa@*
+			fout.write('QS "RR-%s"\t\t{' %tmp[0])
+			for rightp in tmp[1:]:
+				if rightp in monomap:
+					fout.write('*=%s@*,' %rightp)
+				else:
+                                        print line
+			fout.write('}\n')
+	fout.close()		
+
+if __name__ == '__main__':
+        if len(sys.argv) != 4:
+                print 'python %s monof qsetf treehed' % sys.argv[0]
+        else:
+                MakeTreeHed(sys.argv[1],sys.argv[2],sys.argv[3])
