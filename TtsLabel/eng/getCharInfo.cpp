@@ -459,8 +459,8 @@ int PrintLabel(TtsLabelCharInfo * cif, short sNum, char *fname)
         fprintf(fp,"nu^nu-sil+%s=%s@x_x/A:x_x_x/B:x-x-x@x-x&x-x#x-x$x-x!",
                     cif[0].phs[0], cif[1].phs[0]);
     }
-    fprintf(fp,"0-0;x-x|x/C:x+x+x/D:x_x/E:0+%d@x+x&x+x", cif[0].PwInSentNum);
-    fprintf(fp,"#0+%d/F:0_0/G:%d\n", cif[0].PpInSentNum, cif[0].IpInSentNum);
+    fprintf(fp,"x-x;%d-x|x/C:x+x+x/D:x_x/E:x+%d@x+x&x+x", cif[0].CharInSentNum,cif[0].PwInSentNum);
+    fprintf(fp,"#x+%d/F:x_x/G:%d\n", cif[0].PpInSentNum, cif[0].IpInSentNum);
 
     // 第2行  // 第1个syllable 的 第1个phoneme 
     // nu^sil-g+ua=n@1_0/A:0_0_1/B:2-4-1@2-1&2-1#5-1$10-2!
@@ -561,8 +561,8 @@ int PrintLabel(TtsLabelCharInfo * cif, short sNum, char *fname)
             else
             {
                 // 当前syllable 的 第3个phoneme 
-                fprintf(fp,"%s", cif[i].phs[0]);
-                dx[0] = cif[i].sts[0];
+                fprintf(fp,"%s", cif[i].phs[k-3]);
+                dx[0] = cif[i].sts[k-3];
 
             }
 
@@ -839,12 +839,10 @@ int PrintLabel(TtsLabelCharInfo * cif, short sNum, char *fname)
 
                 fprintf(fp,"-x@x-x&x-x#x-x$x-x!x-");
 
-                fprintf(fp,"%d;%d-x|x/C:x+x+x/D:d1_d2/E:%d+%d@x+x&x+x#",
-                            cif[i].CharInIpNum,cif[i].CharInSentNum,
-                            cif[i].PwInIpNum,cif[i].PwInSentNum);
-                fprintf(fp,"%d+%d/F:%d_%d/G:%d\n",cif[i].PpInIpNum,
-                            cif[i].PpInSentNum,cif[i].IpInSentPos,
-                            cif[i].IpInSentNum-cif[i].IpInSentPos+1,cif[i].IpInSentNum);
+                fprintf(fp,"x;%d-x|x/C:x+x+x/D:x_x/E:x+%d@x+x&x+x#",
+                            cif[i].CharInSentNum, cif[i].PwInSentNum);
+
+                fprintf(fp,"x+%d/F:x_x/G:%d\n",cif[i].PpInSentNum, cif[i].IpInSentNum);
             }
         }
 
