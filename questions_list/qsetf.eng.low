@@ -1,0 +1,96 @@
+avowel	ae aa er ay aw
+affricate	ch jh
+anterior	p b m t d n f v th dh s z l w
+back	sh ch jh y k g ng hh uw uh ow ah
+back-fricative	sh zh ch jh
+back-stop	k g
+c-back	sh ch jh y k g ng hh
+c-central	t d n s z zh th dh l r
+c-front	p b m f v w
+central	t d n s z zh th dh l r ae aa er ao
+central-fricative	s z th dh
+central-stop	t d
+class-stop	p b t d k g
+continuent	m n ng f v th dh s z sh zh hh l r y w
+coronal	t d n th dh s z sh zh ch jh l r
+dipthong	ey ay oy aw er
+evowel	ey eh
+fortis	p t k f th s sh ch
+fricataffricative	s sh z zh f v ch jh th dh
+fricative	s sh z zh f v th dh
+front	p b m f v w iy ih ey eh
+front-fricative	f v
+front-start	ey aw er
+front-stop	p b
+fronting	ay ey oy
+high	ih uw uh iy
+ivowel	ih iy
+lenis	b d g v dh z zh jh
+liquid	l r w y hh
+long	iy ow aw ao uw
+low	ae ay aw aa ao oy
+medium	ey er ah ow eh
+nasal	m n ng
+nonanterior	k g ng sh zh hh ch jh r y
+noncontinuent	p b t d k g ch jh
+noncoronal	p b m k g ng f v hh y w
+nonstrident	f v th dh hh
+ovowel	ao oy ow
+rounded	ao uw uh oy ow w
+short	ae ey aa eh ih ay oy ah uh
+strident	s z sh zh ch jh
+uvowel	ah uh uw
+unfortlenis	m n ng hh l r y w
+unstrident	p b m t d n k g ng l r y w
+unrounded	eh ih ae aa er ay ey iy aw ah hh l r y
+unvoiced-fricative	s sh th f ch
+unvoiced-stop	p t k
+unvoiced-cons	p t k s sh f th hh ch
+v-back	uw uh ow ah
+v-central	ae aa er ao
+v-front	iy ih ey eh
+voiced-fricative	z zh dh ch v
+voiced-stop	b d g
+voiced-cons	jh b d dh g y l m n ng r v w z
+vowel	ey eh ih ao ae aa uw uh er ay oy iy aw ow ah
+aa	aa
+ae	ae
+ah	ah
+ao	ao
+aw	aw
+ay	ay
+b	b
+ch	ch
+d	d
+dh	dh
+eh	eh
+er	er
+ey	ey
+f	f
+g	g
+hh	hh
+ih	ih
+iy	iy
+jh	jh
+k	k
+l	l
+m	m
+n	n
+ng	ng
+ow	ow
+oy	oy
+p	p
+r	r
+s	s
+sh	sh
+t	t
+th	th
+uh	uh
+uw	uw
+v	v
+w	w
+y	y
+z	z
+zh	zh
+sil	pau
+null	xx

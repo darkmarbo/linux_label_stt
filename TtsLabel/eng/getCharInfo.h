@@ -81,6 +81,7 @@ typedef struct _TtsLabelCharInfo{
 int load_map_ph(const char *file, MYMAP &map_ph);
 int getPhones(const string syll, string &phones);
 
+int get_stress(TtsLabelCharInfo * cif);
 
 
 /*

@@ -30,14 +30,18 @@ rm -rf $tmp_pro  $tmp_awk
 
 
 #### 检测所有lab  是否有格式错误
-### IY^DH-ER+W=EY@2_0/A:1_4_0/B:4-1-2@1-2&2-2#2-2
-### $9-2!3-3;10-1|2/C:1+2+1/D:7_2/E:2+7@1+1&1+3#1+3/F:1_2/G:2
+### IY^DH-ER+W=EY@2_0/A:1_4_0/B:4-1-2@1-2&2-2#2-2$9-2!3-3;10-1|2/C:1+2+1/D:7_2/E:2+7@1+1&1+3#1+3/F:1_2/G:2
 
 grep "^[\^]" full/* 
 grep "[\^][-]" full/* 
 grep "[-][+]" full/* 
 grep "[+][=]" full/* 
 grep "[=][@]" full/* 
+
+
+### 修改  x:xx  sil:pau nu:xx
+rm -rf full.mod  &&  cp -r full  full.mod 
+sed -i 's/x/xx/g;s/sil/pau/g;s/nu/xx/g'  full.mod/* 
 
 
 
