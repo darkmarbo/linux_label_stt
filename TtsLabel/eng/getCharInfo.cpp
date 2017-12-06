@@ -529,9 +529,11 @@ int PrintLabel(TtsLabelCharInfo * cif, short sNum, char *fname)
     // -j1;j2-j3|h3/C:h4
     // 句子中 syll个数  word个数 phrase个数
     // phrase在句子中的 左右位置 
-    fprintf(fp,"-%d;%d-%d|x/C:x\n", cif[0].CharInSentNum,
-                cif[0].PwInSentNum, cif[0].IpInSentNum);
+    // mod-1
+    //fprintf(fp,"-%d;%d-%d|x/C:x", cif[0].CharInSentNum,
+    //            cif[0].PwInSentNum, cif[0].IpInSentNum);
 
+    fprintf(fp,"\n");
 
     ///////////////////////////////////////////////////////////////////////////////
     // p1^p2-p3+p4=p5
@@ -782,9 +784,10 @@ int PrintLabel(TtsLabelCharInfo * cif, short sNum, char *fname)
 
             // 句子中 syll word phrase 个数
             // 句子中 phrase的左右位置 
-            fprintf(fp,"-%d;%d-%d|%d/C:%d", cif[i].CharInSentNum, cif[i].PwInSentNum,
-                        cif[i].IpInSentNum, cif[i].IpInSentPos, 
-                        cif[i].IpInSentNum- cif[i].IpInSentPos+1);
+            // mod-1
+            //fprintf(fp,"-%d;%d-%d|%d/C:%d", cif[i].CharInSentNum, cif[i].PwInSentNum,
+            //            cif[i].IpInSentNum, cif[i].IpInSentPos, 
+            //            cif[i].IpInSentNum- cif[i].IpInSentPos+1);
 
             //line end
             fprintf(fp,"\n");
@@ -868,10 +871,12 @@ int PrintLabel(TtsLabelCharInfo * cif, short sNum, char *fname)
                 // -p6-p7@e2-b4&b5-h1#b6-b7$h2-e3!e4
                 fprintf(fp,"-x-x@x-x&x-x#x-x$x-x!x");
 
+                // mod-1
                 // -j1;j2-j3|h3/C:h4
-                fprintf(fp,"-%d;%d-%d|x/C:x\n", cif[i].CharInSentNum, cif[i].PwInSentNum,
-                            cif[i].IpInSentNum);
+                //fprintf(fp,"-%d;%d-%d|x/C:x", cif[i].CharInSentNum, cif[i].PwInSentNum,
+                //            cif[i].IpInSentNum);
 
+                fprintf(fp,"\n");
             }
             ////////////////end   当前是sil  
 
